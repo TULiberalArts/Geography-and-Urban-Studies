@@ -1,21 +1,21 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+## Next Stops:
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Recently, our students have secured coveted internship and employment opportunities working for the following employers:
 
-## Recently, our alumni have secured coveted positions with the following employers:
+- US Census Bureau
+- United Nations
+- Delaware Valley Regional Planning Commission
+- Mayor’s Office of Community Empowerment and Opportunity
+- Housing and Urban Development Corporation
+- The City of Philadelphia Technology Division: GIS Group
+- The Reinvestment Fund
+- Philadelphia Mural Arts Program
+- Philadelphia Committee to End Homelessness
 
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
