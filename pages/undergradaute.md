@@ -1,9 +1,33 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+## Philadelphia Is Your Classroom
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+While maintaining a global perspective, being a geography and urban studies program in the heart of Philadelphia gives our students an excellent opportunity to take what they learn and apply it outside the classroom.
+
+## An Intergrative Approach To Understanding An Urbanizing World
+
+Through interdisciplinary coursework, the Department of Geography and Urban Studies combines strong social
+science skills with technical training to teach students to understand and address issues in globalization, sustainability and social justice.
+
+## Our Faculty And Students Work Together
+
+The Department of Geography and Urban Studies has a highly respected faculty that is invested in student success. Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular activities and research opportunities.
+
+## Map Your Career
+
+Our students land competitive, meaningful jobs upon graduation. The geospatial technology industry alone is growing at an annual rate of almost 35 percent and trained technicians are in high demand.
+
+## Academic Offerings
+
+• [BA in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
+• [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+• [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) (GIS)
+• [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) (GIS)
+• [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+• [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) (PSM in GIS)
+• [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
