@@ -195,3 +195,30 @@ For more information about receiving credit for an internship, contact the Inter
 - [United Nations Environment Programme: Nairobi, Kenya](http://www.unep.org/)
 - [Asociacion Puertoriqueños en Marca](http://www.apmphila.org/welcome.html)
 - [Greenpeace](http://www.greenpeace.org/usa/en/about/jobs/)
+
+## Graduate Resources
+
+### Prospective Students
+
+- [Information Request](http://www.temple.edu/grad/admissions/prospect-form.html)
+- [Application](http://www.temple.edu/grad/admissions/howtoapply.htm)
+- [International Application](http://www.temple.edu/grad/admissions/international.htm)
+
+### Financial Information
+
+- [Future Faculty Fellow Program](http://www.temple.edu/grad/finances/fff_program.htm)
+- [Internal Funding Sources](http://www.temple.edu/grad/finances/internal.htm)
+- [Outside Funding Sources](http://www.temple.edu/grad/finances/external.htm)
+
+### Current Students
+
+- [Tuition & Fees](http://www.temple.edu/grad/admissions/tuition_fees.htm)
+- [Graduate Course Scheduler](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
+- [Calendar](http://www.temple.edu/grad/admissions/calendar.htm)
+- [Upcoming Doctoral Defenses](http://www.temple.edu/grad/admissions/defenses.htm)
+- [Resources in Philadelphia](http://www.temple.edu/grad/admissions/phila_resources.htm)
+
+### Policies & Procedures
+
+- [Graduate School Manual](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- [University Manual](http://policies.temple.edu/)
