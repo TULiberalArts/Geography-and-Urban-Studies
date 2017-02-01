@@ -222,3 +222,37 @@ For more information about receiving credit for an internship, contact the Inter
 
 - [Graduate School Manual](http://www.temple.edu/grad/policies/gradpolicies.htm)
 - [University Manual](http://policies.temple.edu/)
+
+## Graduate Advising
+
+The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. Students may change from this initial advisor to another faculty member at any time during the program, subject to approval by the Graduate Director.
+
+At the end of their first semester, graduate students should hold a meeting with their advisor to give them a chance to discuss any problems and ensure that they are making good progress.
+
+In addition to the end-of-the-first semester review, all graduate students will be evaluated in an annual review process that takes place at the end of each spring semester. The annual review of all graduate students is to make sure students are equipped to continue in the program. The possible outcomes of this review are:
+
+Pass (student continues with the normal next year of the program)
+Fail (student is recommended for academic dismissal)
+Probation (student is counseled to take specific courses or other actions to achieve the necessary readiness to continue in the program)
+Master’s degree students must identify a Paper Advisor who need not be the same faculty member acting as their initial advisor. This Paper Advisor must be identified by the beginning of the fourth semester. This is the faculty member who works with the Master’s student in his/her final semester to develop a high quality paper on a topic of the student’s choice. While the paper will be developed in a class, it must be read and approved by the student’s Paper Advisor as well as the instructor for the class.
+
+The Ph.D. student’s advisor helps determine the student’s schedule of classes each semester, answers general questions about the program, and helps the student define his/her research orientation. The advisor also serves as the chair of the qualifying exam committee and the dissertation committee, and helps the student to form these committees.
+
+Currently, the department’s Graduate Director is Professor Hamil Pearsall, who can be contacted at [hamil.pearsall@temple.edu](hamil.pearsall@temple.edu).
+
+## Internships
+
+We encourage students to apply their skills and knowledge in a credit-bearing internship that utilizes their academic training. Assignments at planning, social service and other agencies, as well as firms that specialize in mapping and geographic data analysis, have helped students secure employment. The internship is complemented by a seminar in which students discuss their experiences. See the Internship Coordinator of this department, Dr. Max Andrucki ([max.andrucki@temple.edu](max.andrucki@temple.edu)) for more details and for information on possible internship sites. Another resource for internships is the [College of Liberal Arts Center for Internships and Career Development](http://liberalarts.temple.edu/advising/professional-development).
+
+## Financial Aid
+
+We are able to provide financial support to doctoral students through a variety of university and departmental teaching and research assistantships, fellowships, and awards. Most assistantships and fellowships carry a stipend plus a tuition waiver. Only full-time students are eligible for these awards.
+
+Assistantships normally require 20 hours of work per week devoted to assisting faculty with either teaching or research. Teaching assistants grade papers, lead discussion sections, and occasionally lecture in large undergraduate classes. Advanced graduate students are sometimes assigned their own undergraduate class to teach. To learn more visit [Temple University Graduate Students’ Association website](http://tugsa.org/).
+
+Depending upon available resources, assistantships may be awarded either to incoming or continuing students. If an assistantship is awarded to an incoming student during the first year, the department usually continues to fund that doctoral student for three years, provided the students remain in good academic standing.
+
+In recent years, we have been able to support a number of graduate students on externally funded faculty research projects. This funding may support either MA or Ph.D. students. Positions on funded research projects may include full or partial tuition coverage in addition to stipends for up to 20 hours per. The timing and availability of such opportunities depend on the status of faculty research projects and external grants.
+
+There is no special form for applying for financial aid from the department. Applicants should also consult the [Graduate School website](http://www.temple.edu/grad/finances) for information and application deadlines and funding opportunities available university-wide.
+
