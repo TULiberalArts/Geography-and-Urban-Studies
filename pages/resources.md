@@ -36,7 +36,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 **November 1**: Transfer Deadline for Spring Semester
 **June 1**: Transfer Deadline for Fall Semester
 
-## Undergraduate Resources 
+## Undergraduate Resources
 
 Find the information you need to get around Temple.
 
@@ -50,7 +50,7 @@ Find the information you need to get around Temple.
 - [Libraries](http://www.temple.edu/temple-students/academics/libraries)
 - [Registration, Grades and Books](http://www.temple.edu/temple-students/academics/registration-grades)
 - [Schools and Colleges](http://www.temple.edu/temple-students/academics/schools-and-colleges)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/) 
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
 ### Careers and Internships
 
@@ -64,7 +64,7 @@ The first step in getting financial aid is applying. [Learn more about financial
 
 ### Tuition and billing
 
-Pay your bill, view current tuition rates and learn about housing fees. [Learn more about tuition and billing](http://www.temple.edu/temple-students/tuition-and-financial-aid/tuition-and-billing). 
+Pay your bill, view current tuition rates and learn about housing fees. [Learn more about tuition and billing](http://www.temple.edu/temple-students/tuition-and-financial-aid/tuition-and-billing).
 
 ## Undergraduate FAQs
 
@@ -190,7 +190,6 @@ For more information about receiving credit for an internship, contact the Inter
 - [Delaware Valley Regional Planning Commission (DVRPC)](http://ecasavesenergy.org/)
 - [Energy Coordinating Agency](http://ecasavesenergy.org/)
 - [City of Philadelphia Mayor’s Office of Community Empowerment & Opportunity](http://www.phila.gov/ceo/Pages/default.aspx)
-- [Philadelphia Committee to End Homelessness](http://www.pcacares.org/OrganizationDetail.aspx?organization=Philadelphia+Committee+to+End+Homelessness+(PCEH))
 - [Philadelphia City Planning Commission](http://www.phila.gov/cityplanning/Pages/default.aspx)
 - [United Nations Environment Programme: Nairobi, Kenya](http://www.unep.org/)
 - [Asociacion Puertoriqueños en Marca](http://www.apmphila.org/welcome.html)
