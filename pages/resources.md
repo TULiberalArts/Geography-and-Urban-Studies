@@ -256,3 +256,8 @@ In recent years, we have been able to support a number of graduate students on e
 
 There is no special form for applying for financial aid from the department. Applicants should also consult the [Graduate School website](http://www.temple.edu/grad/finances) for information and application deadlines and funding opportunities available university-wide.
 
+## Alumni Newsletter
+
+- [Fall 2016](http://www.cla.temple.edu/gus/files/2017/01/Alumni-Newsletter-Fall-2016.pdf)
+- [Spring 2016](http://www.cla.temple.edu/gus/files/2014/05/alumni-newsletter-spring-2016.pdf)
+- [Fall 2015](http://www.cla.temple.edu/gus/files/2014/05/Fall-2015-Alumni-Newsletter.pdf)
