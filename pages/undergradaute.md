@@ -185,7 +185,7 @@ We encourage our students to acquire a second language and work closely to help 
 
 ## Globalization
 
-We are interested in studying the diverse processes that constitute globalization and its impacts on urban conditions and people’s daily lives in cities in both US and international contexts. Our interest is in the urban and regional dimensions of these changes: in labor markets, labor flows, immigration, and welfare state restructuring; identity, culture, and concepts of citizenship; and social and cultural processes in domestic and international settings.
+-We are interested in studying the diverse processes that constitute globalization and its impacts on urban conditions and people’s daily lives in cities in both US and international contexts. Our interest is in the urban and regional dimensions of these changes: in labor markets, labor flows, immigration, and welfare state restructuring; identity, culture, and concepts of citizenship; and social and cultural processes in domestic and international settings.
 
 We are interested in studying the diverse processes that constitute globalization and their impacts on urban conditions and people’s daily lives in cities in both US and international contexts. Our interest is in the urban and regional dimensions of these changes: in capital flows, labor markets, labor flows, immigration, and welfare state restructuring; identity, culture, and concepts of citizenship; and social and cultural processes in domestic and international settings.
 
@@ -209,7 +209,7 @@ This project examines whether the dual processes of globalization and climatic v
 
 ## Social Justice
 
-We are interested in how globalization affects local and regional development and how it contributes to changing economic, social, and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
+- We are interested in how globalization affects local and regional development and how it contributes to changing economic, social, and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
 
 We are interested in how globalization affects local and regional development and how it contributes to changing economic, social, and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
 
@@ -321,5 +321,3 @@ Membership in the Honorary Society in Geography is available to majors selected 
 ### Majors’ Association
 
 The Geography and Urban Studies and Environmental Undergraduate Student Association is designed to create a space for students in both majors to meet and discuss topics of interest, go on trips around Philadelphia and host events for their fellow students. Members of either major or minor as well as any students from any department with related interests are welcome to join. To join the mailing list, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
-
-
