@@ -124,6 +124,64 @@ Christina Rosan’s research focuses on the politics and policy of urban sustain
 
 Trained elephants are used for a wide array of functions in Southeast Asia: for tourism, for religious festivals, for logging, and for off-road, cross-border and flood-time transportation. Focusing on case-studies in Myanmar (Burma), this research project seeks to evaluate the potential advantages of elephant domestication, especially from a conservation standpoint. As Southeast Asia rapidly urbanizes, how are elephant-training and elephant-riding cultures and skills adapting or becoming eroded? What possibilities for human-elephant relations and mobilities might be imagined going forward?
 
+## Spatial Analytics Lab (SAL@T)
+
+Welcome to the Spatial Analytics Lab at Temple University (SAL@T)
+
+The lab was established in 2012 as a research, education, and service based core facility at Temple University for geographic information technologies, spatial data, geographic modeling, and mapping.  The principal mission of the lab is to support research and education in geographical information sciences at Temple University and surrounding communities.
+
+The research activities of the lab are sponsored through grants, contracts, and programs involving faculty and graduate students from the Department of Geography and Urban Studies. The lab provides a variety of geographic information system (GIS) and spatial analytic services to Temple faculty, as well as to educational institutions, private and non-profit companies, and government agencies.
+
+SAL@T also provides valuable educational experiences for GIS students and internship applications are accepted throughout the year.
+
+If you are interested in learning more about our lab research and the services we offer please contact:  Charles Kaylor (email: [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A Henry (email: [Khenry1@temple.edu](mailto:Khenry1@temple.edu); phone 215-204-2961).
+
+## Our services include:
+
+### Consulting
+
+- Grant writing (integrating geospatial analysis into objectives and methods)
+- Project-based research consulting
+- GIS project planning and management
+
+### Data Management, Processing and Mapping 
+
+- Geocoding addresses
+- Geodatabase design
+- Geographic data acquisition, conversion/development
+- Historical GIS and data integration
+- GPS enabled field data acquisition
+- Geoprocessing
+- Map Design
+- Census data processing
+
+### Analysis
+
+- Spatial Sampling
+- Spatial modeling
+- Spatial analysis
+- Spatial statistics
+- Network analysis
+- Developing area-based measures (e.g., SES, walkability, access to healthy foods)
+
+### Geospatial health analysis
+
+- Disease mapping
+- Mapping health information
+- Spatial clustering of health events
+- Analyzing access to health services
+- Analyzing geographic health disparities
+- Location allocation models for health services research
+- Mapping hazards and environmental stressors
+
+### Funding projects
+
+There are a number of ways that projects can be funded:
+
+- Collaborator pays Temple University based on an hourly rate using funding based on an Memorandum of Agreement (MOA)
+- Collaborator and Temple University apply for grants together.
+- Collaborator applies for grants and sub-contracts to Temple University.
+
 
 
 
