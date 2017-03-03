@@ -5,6 +5,40 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Melissa Gilbert
+309 Gladfelter Hall
+[(215) 204-5482](tel:2152045482)
+[mgilbert@temple.edu](mailto:mgilbert@temple.edu)
+
+Undergraduate Chair:
+
+Jeremy Mennis
+328 Gladfelter Hall
+[(215) 204-4748](tel:2152044748)
+[jmennis@temple.edu](mailto:jmennis@temple.edu)
+
+Graduate Chair:
+
+Kevin A. Henry
+313B Gladfelter Hall
+[khenry1@temple.edu](mailto:khenry1@temple.edu)
+
+Administrator:
+
+Maggie Cogswell
+1008A Gladfelter Hall
+[(215) 204-9209](tel:2152049209)
+[tuf70408@temple.edu](mailto:tuf70408@temple.edu)
+
+Coordinator:
+
+Julia Falcon
+338A Gladfelter Hall
+[(215) 204-3386](tel:2152043386)
+[julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
+
 ## Resources here here to help!
 
 ## Undergraduate Resources
