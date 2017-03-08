@@ -22,3 +22,28 @@ Geography and Urban Studies graduates are trained to analyze multi-faceted probl
 - Written, oral and visual communication skills
 - Geographic Information Systems (GIS) and mapping software
 
+<div class="row row-wide">
+  <div class="col m12 l4">{% include cards/card2-image.html 
+    title=" " 
+    content=" " 
+    image="" 
+    button-link=" " 
+    button-text="Learn More" %}
+  </div>
+  <div class="row row-wide">
+    <div class="col m12 l4">{% include cards/card2-image.html 
+      title=" " 
+      content=" " 
+      image="" 
+      button-link=" " 
+      button-text="Learn More" %}
+    </div>
+    <div class="row row-wide">
+      <div class="col m12 l4">{% include cards/card2-image.html 
+        title=" " 
+        content=" " 
+        image="" 
+        button-link=" " 
+        button-text="Learn More" %}
+      </div>
+</div>
