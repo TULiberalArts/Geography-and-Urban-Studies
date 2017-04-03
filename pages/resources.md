@@ -27,10 +27,10 @@ Kevin A. Henry<br/>
 
 **Administrator:**
 
-Maggie Cogswell
-1008A Gladfelter Hall
-[(215) 204-9209](tel:2152049209)
-[tuf70408@temple.edu](mailto:tuf70408@temple.edu)
+Maggie Cogswell<br/>
+1008A Gladfelter Hall<br/>
+[(215) 204-9209](tel:2152049209)<br/>
+[tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br/>
 
 **Coordinator:**
 
