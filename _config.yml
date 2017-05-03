@@ -8,7 +8,7 @@ baseurl: /geography-and-urban-studies
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students are equipped to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 3rd Floor, Room 308
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: geography-urban-studies@temple.edu
-  phone: 2152049209
+  email: <a href="mailto:geography-urban-studies@temple.edu">geography-urban-studies@temple.edu</a>
+  phone: 215-204-9209
 
 # Social Media
 # Put in only the username unless otherwise noted
