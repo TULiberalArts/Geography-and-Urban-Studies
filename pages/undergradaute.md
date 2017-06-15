@@ -4,6 +4,41 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Melissa Gilbert<br/>
+  309 Gladfelter Hall<br/>
+  [(215) 204-5482](tel:2152045482)<br/>
+  [mgilbert@temple.edu](mailto:mgilbert@temple.edu)<br/>
+  
+   <hr>
+  
+  **Undergraduate Chair:** <br/>
+  Jeremy Mennis<br/>
+  328 Gladfelter Hall<br/>
+  [(215) 204-4748](tel:2152044748)<br/>
+  [jmennis@temple.edu](mailto:jmennis@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Maggie Cogswell<br/>
+  1008A Gladfelter Hall<br/>
+  [(215) 204-9209](tel:2152049209)<br/>
+  [tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br/>
+
+  <hr>
+
+ **Coordinator:** <br/>
+  Julia Falcon<br/>
+  338A Gladfelter Hall<br/>
+  [(215) 204-3386](tel:2152043386)<br/>
+  [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
 ---
 
 ## Philadelphia Is Your Classroom
