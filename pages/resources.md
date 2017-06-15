@@ -6,71 +6,7 @@ layout: page
 published: true
 ---
 
-**Chair:**
-
-Melissa Gilbert<br/>
-309 Gladfelter Hall<br/>
-[(215) 204-5482](tel:2152045482)<br/>
-[mgilbert@temple.edu](mailto:mgilbert@temple.edu)<br/>
-
-**Undergraduate Chair:**
-
-Jeremy Mennis<br/>
-328 Gladfelter Hall<br/>
-[(215) 204-4748](tel:2152044748)<br/>
-[jmennis@temple.edu](mailto:jmennis@temple.edu)<br/>
-
-**Graduate Chair:**
-
-Kevin A. Henry<br/>
-313B Gladfelter Hall<br/>
-[khenry1@temple.edu](mailto:khenry1@temple.edu)<br/>
-
-**Administrator:**
-
-Maggie Cogswell<br/>
-1008A Gladfelter Hall<br/>
-[(215) 204-9209](tel:2152049209)<br/>
-[tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br/>
-
-**Coordinator:**
-
-Julia Falcon<br/>
-338A Gladfelter Hall<br/>
-[(215) 204-3386](tel:2152043386)<br/>
-[julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
-
 ## Resources are here to help!
-
-## Undergraduate Resources
-
-Find the information you need to get around Temple.
-
-### Academic
-
-- [Advising and Academic Support](http://www.temple.edu/temple-students/academics/advising-and-academic-support)
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Courses and Calendars](http://www.temple.edu/temple-students/academics/courses-and-calendars)
-- [Graduation Application process](http://www.temple.edu/registrar/students/graduation/)
-- [International Students](http://www.temple.edu/temple-students/academics/international-students)
-- [Libraries](http://www.temple.edu/temple-students/academics/libraries)
-- [Registration, Grades and Books](http://www.temple.edu/temple-students/academics/registration-grades)
-- [Schools and Colleges](http://www.temple.edu/temple-students/academics/schools-and-colleges)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-### Careers and Internships
-
-- [Career Center](http://www.temple.edu/temple-students/careers-and-internships/career-center)
-- [Internships](http://www.temple.edu/temple-students/careers-and-internships/internships)
-- [Student Jobs](http://www.temple.edu/temple-students/careers-and-internships/student-jobs)
-
-### Financial aid
-
-The first step in getting financial aid is applying. [Learn more about financial aid](http://www.temple.edu/temple-students/tuition-and-financial-aid/financial-aid).
-
-### Tuition and billing
-
-Pay your bill, view current tuition rates and learn about housing fees. [Learn more about tuition and billing](http://www.temple.edu/temple-students/tuition-and-financial-aid/tuition-and-billing).
 
 ## Undergraduate FAQs
 
@@ -106,7 +42,7 @@ A: You should ask your instructor if she or he is willing to assign an incomplet
 
 **Q: I am a transfer student, how do I declare a major in GUS or ES and enroll in classes?**
 
-A: For information on admission to the university check the admissions page at http://www.temple.edu/undergrad/applying/transfer.htm or contact them at 888-340-2222 or 215-204-7200 to set up an interview.
+A: For information on admission to the university check the admissions page at [http://www.temple.edu/undergrad/applying/transfer.htm](http://www.temple.edu/undergrad/applying/transfer.htm) or contact them at 888-340-2222 or 215-204-7200 to set up an interview.
 
 The Mailing address is:
 
@@ -190,44 +126,6 @@ For more information about receiving credit for an internship, contact the Inter
 - 0 GPA
 - Approval from the Internship Coordinator
 
-### Recent internships obtained by GUS and ES students:
-
-- [PennEnvironment](http://www.pennenvironment.org/)
-- [Delaware Valley Regional Planning Commission (DVRPC)](http://ecasavesenergy.org/)
-- [Energy Coordinating Agency](http://ecasavesenergy.org/)
-- [City of Philadelphia Mayor’s Office of Community Empowerment & Opportunity](http://www.phila.gov/ceo/Pages/default.aspx)
-- [Philadelphia City Planning Commission](http://www.phila.gov/cityplanning/Pages/default.aspx)
-- [United Nations Environment Programme: Nairobi, Kenya](http://www.unep.org/)
-- [Asociacion Puertoriqueños en Marca](http://www.apmphila.org/welcome.html)
-- [Greenpeace](http://www.greenpeace.org/usa/en/about/jobs/)
-
-## Graduate Resources
-
-### Prospective Students
-
-- [Information Request](http://www.temple.edu/grad/admissions/prospect-form.html)
-- [Application](http://www.temple.edu/grad/admissions/howtoapply.htm)
-- [International Application](http://www.temple.edu/grad/admissions/international.htm)
-
-### Financial Information
-
-- [Future Faculty Fellow Program](http://www.temple.edu/grad/finances/fff_program.htm)
-- [Internal Funding Sources](http://www.temple.edu/grad/finances/internal.htm)
-- [Outside Funding Sources](http://www.temple.edu/grad/finances/external.htm)
-
-### Current Students
-
-- [Tuition & Fees](http://www.temple.edu/grad/admissions/tuition_fees.htm)
-- [Graduate Course Scheduler](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
-- [Calendar](http://www.temple.edu/grad/admissions/calendar.htm)
-- [Upcoming Doctoral Defenses](http://www.temple.edu/grad/admissions/defenses.htm)
-- [Resources in Philadelphia](http://www.temple.edu/grad/admissions/phila_resources.htm)
-
-### Policies & Procedures
-
-- [Graduate School Manual](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- [University Manual](http://policies.temple.edu/)
-
 ## Graduate Advising
 
 The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. Students may change from this initial advisor to another faculty member at any time during the program, subject to approval by the Graduate Director.
@@ -248,21 +146,3 @@ Currently, the department’s Graduate Director is Professor Hamil Pearsall, who
 ## Internships
 
 We encourage students to apply their skills and knowledge in a credit-bearing internship that utilizes their academic training. Assignments at planning, social service and other agencies, as well as firms that specialize in mapping and geographic data analysis, have helped students secure employment. The internship is complemented by a seminar in which students discuss their experiences. See the Internship Coordinator of this department, Dr. Max Andrucki ([max.andrucki@temple.edu](max.andrucki@temple.edu)) for more details and for information on possible internship sites. Another resource for internships is the [College of Liberal Arts Center for Internships and Career Development](http://liberalarts.temple.edu/advising/professional-development).
-
-## Financial Aid
-
-We are able to provide financial support to doctoral students through a variety of university and departmental teaching and research assistantships, fellowships, and awards. Most assistantships and fellowships carry a stipend plus a tuition waiver. Only full-time students are eligible for these awards.
-
-Assistantships normally require 20 hours of work per week devoted to assisting faculty with either teaching or research. Teaching assistants grade papers, lead discussion sections, and occasionally lecture in large undergraduate classes. Advanced graduate students are sometimes assigned their own undergraduate class to teach. To learn more visit [Temple University Graduate Students’ Association website](http://tugsa.org/).
-
-Depending upon available resources, assistantships may be awarded either to incoming or continuing students. If an assistantship is awarded to an incoming student during the first year, the department usually continues to fund that doctoral student for three years, provided the students remain in good academic standing.
-
-In recent years, we have been able to support a number of graduate students on externally funded faculty research projects. This funding may support either MA or Ph.D. students. Positions on funded research projects may include full or partial tuition coverage in addition to stipends for up to 20 hours per. The timing and availability of such opportunities depend on the status of faculty research projects and external grants.
-
-There is no special form for applying for financial aid from the department. Applicants should also consult the [Graduate School website](http://www.temple.edu/grad/finances) for information and application deadlines and funding opportunities available university-wide.
-
-## Alumni Newsletter
-
-- [Fall 2016](http://www.cla.temple.edu/gus/files/2017/01/Alumni-Newsletter-Fall-2016.pdf)
-- [Spring 2016](http://www.cla.temple.edu/gus/files/2014/05/alumni-newsletter-spring-2016.pdf)
-- [Fall 2015](http://www.cla.temple.edu/gus/files/2014/05/Fall-2015-Alumni-Newsletter.pdf)
