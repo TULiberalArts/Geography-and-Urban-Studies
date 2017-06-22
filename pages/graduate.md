@@ -55,7 +55,7 @@ The program draws upon the interdisciplinary expertise of faculty in the Departm
 
 Graduates of the program with doctorates in Geography and Urban Studies will be able to compete for faculty positions in a range of academic departments—from departments of geography to more interdisciplinary departments and programs (focused on such fields as urban studies, urban planning, environmental studies, and development studies). They will also be equipped to seek employment outside of academe. Non-governmental organizations, think tanks, research institutes, service delivery institutions, international development and economic development organizations, increasingly conduct independent research and employ graduate degree holders in interdisciplinary areas like urban studies and environmental studies.
 
-For more information about the degree and application requirements, please visit the [PhD in Geography and Urban Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/). To learn more about our policies, courses, and expectations, please review our http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf.
+For more information about the degree and application requirements, please visit the [PhD in Geography and Urban Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/). To learn more about our policies, courses, and expectations, please review our [handbook](http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf).
 
 ## Master’s of Arts (MA) in Geography and Urban Studies
 
