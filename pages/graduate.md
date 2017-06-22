@@ -16,7 +16,7 @@ sidebar-content: > #
   [(215) 204-5482](tel:2152045482)<br/>
   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)<br/>
   
-   <hr>
+  <hr>
   
   **Graduate Chair:** <br/>
   Kevin A. Henry<br/>
