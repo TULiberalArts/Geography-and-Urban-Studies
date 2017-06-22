@@ -4,20 +4,19 @@ permalink: /research/
 layout: page
 published: true
 ---
-
-## Research
+## Research Projects
 
 Faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability, and the impact on equity and social justice. These research emphases incorporate a strong analytical foundation of both quantitative and qualitative geographic methods, as well as urban policy.
 
-Sponsored research projects in the department are funded by a variety of federal and international agencies and foundations, including the National Science Foundation, the National Institute of Justice, the National Institutes of Health, The World Bank, and the William Penn Foundation, among others. Through these resources, graduate students play an integral role in sponsored research.
+Sponsored research projects in the department are funded by a variety of federal and international agencies and foundations, including the National Science Foundation, the National Institute of Justice, the National Institutes of Health, The World Bank and the William Penn Foundation, among others. Through these resources, graduate students play an integral role in sponsored research.
 
-Browse the links on the left for information on specific faculty members and research projects associated with the department’s research foci.
+Browse the information below to read more about specific faculty members and research projects associated with the department’s research foci.
 
 ## Focus Areas
 
-We train our students to conduct theoretically-informed and empirically-grounded research in metropolitan and rural settings (US and international), understand interdisciplinary and integrative analyses of complex urban processes and problems, and specialize in techniques for urban analysis with an emphasis on GIS, spatial statistics, or qualitative methods. We draw upon our Philadelphia location to provide students with the opportunity to engage in public policy and applied urban research. Furthermore, students can utilize our faculty’s linkages with public agencies, educational institutions, community-based organizations, non-governmental organizations, and social movements in our region, many other regions in the US, and several significant international locations.
+We train our students to conduct theoretically-informed and empirically-grounded research in metropolitan and rural settings (US and international), understand interdisciplinary and integrative analyses of complex urban processes and problems, and specialize in techniques for urban analysis with an emphasis on GIS, spatial statistics or qualitative methods. We draw upon our Philadelphia location to provide students with the opportunity to engage in public policy and applied urban research. Furthermore, students can utilize our faculty’s linkages with public agencies, educational institutions, community-based organizations, non-governmental organizations and social movements in our region, many other regions in the US and several significant international locations.
 
-**Our specific research foci include**:
+**Our specific research foci include the following areas**:
 
 - Social Justice
 - Globalization
@@ -26,7 +25,7 @@ We train our students to conduct theoretically-informed and empirically-grounded
 
 ## Social Justice 
 
-We are interested in how globalization affects local and regional development and how it contributes to changing economic, social, and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
+We are interested in how globalization affects local and regional development and how it contributes to changing economic, social and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
 
 We are interested in how globalization affects local and regional development and how it contributes to changing economic, social, and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
 
@@ -181,7 +180,3 @@ There are a number of ways that projects can be funded:
 - Collaborator pays Temple University based on an hourly rate using funding based on an Memorandum of Agreement (MOA)
 - Collaborator and Temple University apply for grants together.
 - Collaborator applies for grants and sub-contracts to Temple University.
-
-
-
-
