@@ -34,7 +34,7 @@ sidebar-content: > #
 
   <hr>
 
- **Coordinator:** <br/>
+  **Coordinator:** <br/>
   Julia Falcon<br/>
   338A Gladfelter Hall<br/>
   [(215) 204-3386](tel:2152043386)<br/>
