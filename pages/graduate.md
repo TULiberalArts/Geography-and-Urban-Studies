@@ -5,29 +5,23 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: >
   ### Contact Us
 
   <hr>
 
-  **Chair:** <br/>
-  Melissa Gilbert<br/>
-  309 Gladfelter Hall<br/>
-  [(215) 204-5482](tel:2152045482)<br/>
+  **Chair:** <br/> Melissa Gilbert<br/> 309 Gladfelter Hall<br/> [(215)
+  204-5482](tel:2152045482)<br/>
   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)<br/>
-  
+
   <hr>
-  
-  **Graduate Chair:** <br/>
-  Kevin A. Henry<br/>
-  313B Gladfelter Hall<br/>
+
+  **Graduate Chair:** <br/> Kevin A. Henry<br/> 313B Gladfelter Hall<br/>
   [khenry1@temple.edu](mailto:khenry1@temple.edu)<br/>
 
   <hr>
 
-  **Administrator:** <br/>
-  Maggie Cogswell<br/>
-  1008A Gladfelter Hall<br/>
+  **Administrator:** <br/> Maggie Cogswell<br/> 1008A Gladfelter Hall<br/>
   [(215) 204-9209](tel:2152049209)<br/>
   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br/>
 
@@ -35,13 +29,17 @@ sidebar-content: > #
 
   **Coordinator:** <br/>
 
-  Julia Falcon<br/>
-  338A Gladfelter Hall<br/>
-  [(215) 204-3386](tel:2152043386)<br/>
+  Julia Falcon<br/> 338A Gladfelter Hall<br/> [(215)
+  204-3386](tel:2152043386)<br/>
   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
 ---
 
 ## Graduate Programs in Geography and Urban Studies
+
+• [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) (GIS)
+• [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+• [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) (PSM in GIS)
+• [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ### The Department of Geography and Urban Studies at Temple University offers four graduate degrees:
 
