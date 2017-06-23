@@ -36,7 +36,7 @@ sidebar-content: >
 
 While maintaining a global perspective, being a geography and urban studies program in the heart of Philadelphia gives our students an excellent opportunity to take what they learn and apply it outside the classroom.
 
-## An Intergrative Approach To Understanding An Urbanizing World
+## An Integrative Approach To Understanding An Urbanizing World
 
 Through interdisciplinary coursework, the Department of Geography and Urban Studies combines strong social science skills with technical training to teach students to understand and address issues in globalization, sustainability and social justice.
 
@@ -50,9 +50,9 @@ Our students land competitive, meaningful jobs upon graduation. The geospatial t
 
 ## Academic Offerings
 
-• [BA in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
-• [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
-• [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) (GIS)
+- [BA in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
+- [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) (GIS)
 
 The Department of Geography and Urban Studies offers programs of study relating to urban systems, nature and society, international development and spatial analysis.
 
