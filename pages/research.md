@@ -87,9 +87,7 @@ This project examines whether the dual processes of globalization and climatic v
 
 ## Sustainability
 
-Sustainability invokes questions across a multitude of spatial scales and is deeply interrelated with the department’s social justice, globalization, and geographic methods themes. Our work focuses on local quality-of-life and justice issues within larger political, social, and economic contexts. Current themes include urban food systems, sprawled development patterns, land use/land cover analysis, urban ecology, environmental justice, public health outcomes, and comparative dimensions of environmental sustainability at the national and global scales. Many students interested in sustainability pursue a major in Environmental Studies (ES), or double major in ES and GUS.
-
-Sustainability research invokes questions across a multitude of spatial scales and is deeply interrelated with the department’s social justice, globalization, and geographic methods themes. Our work focuses on local quality-of-life and justice issues within larger political, social, and economic contexts. Current research foci include urban food systems, sprawled development patterns, land use/land cover analysis, urban ecology, environmental justice, public health outcomes, and comparative dimensions of environmental sustainability at the national and global scales.
+Sustainability research invokes questions across a multitude of spatial scales and is deeply interrelated with the department’s social justice, globalization and geographic methods themes. Our work focuses on local quality-of-life and justice issues within larger political, social and economic contexts. Current research foci include urban food systems, sprawled development patterns, land use/land cover analysis, urban ecology, environmental justice, public health outcomes, and comparative dimensions of environmental sustainability at the national and global scales. Many students interested in sustainability pursue a major in Environmental Studies (ES), or double major in ES and GUS.
 
 ### Faculty
 
@@ -99,40 +97,67 @@ Allison Hayes-Conroy, Rob Mason, Michele Masucci, Jeremy Mennis, Hamil Pearsall,
 
 **Evaluating Collaborative Land Use Projects (Rob Mason)**
 
-Rob Mason’s book, Collaborative Land Use Management: The Quieter Revolution in Place-Based Planning, proposed a broad framework for understanding and evaluating specific land use programs. Among the measures included in the model were ecosystem health, landscape integrity, cost effectiveness, social justice, carbon impacts, and vulnerability management. Following on the book’s discussion of these evaluative dimensions — and their relevance to case studies ranging over multiple and overlapping spatial scales — will be refinement of the model and application to specific programs.
+Rob Mason’s book, _Collaborative Land Use Management: The Quieter Revolution in Place-Based Planning_, proposed a broad framework for understanding and evaluating specific land use programs. Among the measures included in the model were ecosystem health, landscape integrity, cost effectiveness, social justice, carbon impacts and vulnerability management. Following on the book’s discussion of these evaluative dimensions — and their relevance to case studies ranging over multiple and overlapping spatial scales — will be refinement of the model and application to specific programs.
 
 **Relationships between Community Planning, Environmental Management, and Information Technology (Michele Masucci)**
-Previous research by Michele Masucci examined the relationships between community planning, environmental management and information uses and technologies in non-governmental organizations in the Atlantic Rainforest Region of Brazil , in the Apalachicola-Chattahoochee-Flint (ACF) River Basin region, and in Philadelphia , Pennsylvania . Professor Masucci developed an appropriate technology GIS that analyzed drought and flood data for the ACF River Basin that permitted an analysis of the relationship between information resources and drought contingency planning during a period of extreme fluctuation in drought and flood conditions during the 1980s and 1990s in the southeastern US. The outcomes of this study were the focus of a book (co-authored with Richard Perritt) entitled Human Environmental Interchange: Managing the Effects of Recent Droughts in the Southeastern U.S.
+
+Previous research by Michele Masucci examined the relationships between community planning, environmental management and information uses and technologies in non-governmental organizations in the Atlantic Rainforest Region of Brazil, in the Apalachicola-Chattahoochee-Flint (ACF) River Basin region, and in Philadelphia, Pennsylvania. Professor Masucci developed an appropriate technology GIS that analyzed drought and flood data for the ACF River Basin that permitted an analysis of the relationship between information resources and drought contingency planning during a period of extreme fluctuation in drought and flood conditions during the 1980s and 1990s in the southeastern US. The outcomes of this study were the focus of a book (co-authored with Richard Perritt) entitled _Human Environmental Interchange: Managing the Effects of Recent Droughts in the Southeastern U.S_.
 
 **Environmental Justice of Urban Air Pollution (Jeremy Mennis)**
 
-Environmental justice is the principle that all people have equal protection under environmental laws and the right to participate in environmental decision-making in their community.  I am interested in the quantitative analysis of race, class, and other socioeconomic characteristics as they relate to indicators of environmental risk, particularly toxins produced from industrial and commercial activity.  Recent research has focused on the distribution of air toxic releases in New Jersey , as well as on racial equity in actions taken by agencies responsible for enforcing environmental policies.
+Environmental justice is the principle that all people have equal protection under environmental laws and the right to participate in environmental decision-making in their community. I am interested in the quantitative analysis of race, class and other socioeconomic characteristics as they relate to indicators of environmental risk, particularly toxins produced from industrial and commercial activity. Recent research has focused on the distribution of air toxic releases in New Jersey, as well as on racial equity in actions taken by agencies responsible for enforcing environmental policies. For more information, visit the [research project website](https://astro.temple.edu/~jmennis/research/ej/index.htm).
 
 **Urban Agriculture in Philadelphia (Hamil Pearsall)**
 
-This project examines urban agriculture in Philadelphia and questions the role of sustainability initiatives in this post-industrial city’s quest to reinvent itself as an economically competitive city. Urban agriculture has become a symbol of Philadelphia’s economic revitalization, sustainability, and increasingly, its gentrification. Through archival research, a media content analysis, and interviews with urban farmers, gardeners, and city officials, this research examines urban agriculture’s role in Philadelphia’s transition to economic and environmental sustainability.
+This project examines urban agriculture in Philadelphia and questions the role of sustainability initiatives in this post-industrial city’s quest to reinvent itself as an economically competitive city. Urban agriculture has become a symbol of Philadelphia’s economic revitalization, sustainability, and increasingly, its gentrification. Through archival research, a media content analysis, and interviews with urban farmers, gardeners and city officials, this research examines urban agriculture’s role in Philadelphia’s transition to economic and environmental sustainability.
 
 **Planning and Politics of Urban Sustainability: From Metropolitan Governance to Green Infrastructure (Christina Rosan)**
 
-Christina Rosan’s research focuses on the politics and policy of urban sustainability planning. She is interested in how we manage our cities and metropolitan areas and the role that institutions play in mediating the transition to sustainability. She has researched metropolitan governance and land use planning, urban greening, environmental justice, and urban sustainability planning. Rosan is currently a part of an EPA STAR grant researching community engagement in monitoring of green infrastructure.
+Christina Rosan’s research focuses on the politics and policy of urban sustainability planning. She is interested in how we manage our cities and metropolitan areas and the role that institutions play in mediating the transition to sustainability. She has researched metropolitan governance and land use planning, urban greening, environmental justice and urban sustainability planning. Rosan is currently a part of an EPA STAR grant researching community engagement in monitoring of green infrastructure.
 
 **Elephants, Mobility and Conservation in Southeast Asia (Jacob Shell)**
 
-Trained elephants are used for a wide array of functions in Southeast Asia: for tourism, for religious festivals, for logging, and for off-road, cross-border and flood-time transportation. Focusing on case-studies in Myanmar (Burma), this research project seeks to evaluate the potential advantages of elephant domestication, especially from a conservation standpoint. As Southeast Asia rapidly urbanizes, how are elephant-training and elephant-riding cultures and skills adapting or becoming eroded? What possibilities for human-elephant relations and mobilities might be imagined going forward?
+Trained elephants are used for a wide array of functions in Southeast Asia: for tourism, for religious festivals, for logging and for off-road, cross-border and flood-time transportation. Focusing on case-studies in Myanmar (Burma), this research project seeks to evaluate the potential advantages of elephant domestication, especially from a conservation standpoint. As Southeast Asia rapidly urbanizes, how are elephant-training and elephant-riding cultures and skills adapting or becoming eroded? What possibilities for human-elephant relations and mobilities might be imagined going forward?
+
+## Geographic Methods
+
+Among the most important new methods of the last two decades is geographical analysis. Departmental research addresses a wide range of quantitative, qualitative and representational approaches, relying heavily on spatial analytics and information technologies, including GIS and environmental remote sensing. Many of our research projects also incorporate qualitative methods, community-based research, and policy analysis.
+
+### Faculty
+
+Sanjoy Chakravorty, Melissa Gilbert, Michele Masucci, Jeremy Mennis, Jacob Shell, Jerry Stahler
+
+### Research Projects
+
+**bITS: Building Information Technology Skills in North Philadelphia (Michele Masucci)**
+
+Building Information Technology Skills (bITS) among North Philadelphia Youth is a project funded by the National Science Foundation, ITEST Program. It involves the participation of approximately ninety high school students per year over a three-year long program. The research objective of bITS is to assess the viability of a collaborative model for developing a community geographic information system that draws on the perspectives and experiences of program participants. For more information, visit the [research project website](https://astro.temple.edu/~masucci/bits/).
+
+**Dasymetric Mapping (Jeremy Mennis)**
+
+The process of dasymetric mapping is the transformation of data from a set of arbitrary source zones to a dasymetric map via the overlay of the source zones with an ancillary data set.  Dasymetric mapping is applicable to a wide variety of tasks where the user seeks to refine spatially aggregated data, for example in estimating local population characteristics in areas where only coarser, regional resolution census data are available. For more information, visit the [research project website](https://astro.temple.edu/~jmennis/research/dasymetric/index.htm).
+
+**Mapping the Presentation of World Geographies in Written Texts (Jacob Shell)**
+
+This project geovisualizes the treatment of world geography and geographical systems and processes in numerous influential written texts on history, philosophy and political economy. So far I’ve found works by such authors as Fernand Braudel, Karl Marx, Karl Wittfogel, Peter Linebaugh, and Marcus Rediker to be especially conducive to this cartographic approach to comparative textual analysis.
+
+**Neighborhood Effects on Treatment Continuity (Jerry Stahler)**
+
+Local geography and the community context of where a patient resides may have an effect on client behaviors that relate to substance abuse treatment outcomes, such as relapse and attrition. The present study uses GIS and spatial analysis to examine the interacting influences of individual, program and neighborhood factors on treatment compliance and continuity for patients who have a substance use dependency as well as a co-occurring mental health disorder.
 
 ## Spatial Analytics Lab (SAL@T)
 
 Welcome to the Spatial Analytics Lab at Temple University (SAL@T)
 
-The lab was established in 2012 as a research, education, and service based core facility at Temple University for geographic information technologies, spatial data, geographic modeling, and mapping.  The principal mission of the lab is to support research and education in geographical information sciences at Temple University and surrounding communities.
+The lab was established in 2012 as a research, education and service based core facility at Temple University for geographic information technologies, spatial data, geographic modeling and mapping.  The principal mission of the lab is to support research and education in geographical information sciences at Temple University and surrounding communities.
 
-The research activities of the lab are sponsored through grants, contracts, and programs involving faculty and graduate students from the Department of Geography and Urban Studies. The lab provides a variety of geographic information system (GIS) and spatial analytic services to Temple faculty, as well as to educational institutions, private and non-profit companies, and government agencies.
+The research activities of the lab are sponsored through grants, contracts and programs involving faculty and graduate students from the Department of Geography and Urban Studies. The lab provides a variety of geographic information system (GIS) and spatial analytic services to Temple faculty, as well as to educational institutions, private and non-profit companies, and government agencies.
 
 SAL@T also provides valuable educational experiences for GIS students and internship applications are accepted throughout the year.
 
-If you are interested in learning more about our lab research and the services we offer please contact:  Charles Kaylor (email: [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A Henry (email: [Khenry1@temple.edu](mailto:Khenry1@temple.edu); phone 215-204-2961).
+If you are interested in learning more about our lab research and the services we offer please contact Charles Kaylor (email: [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A Henry (email: [Khenry1@temple.edu](mailto:Khenry1@temple.edu); phone 215-204-2961).
 
-### Our services include:
+### Our Services
 
 **Consulting**
 
