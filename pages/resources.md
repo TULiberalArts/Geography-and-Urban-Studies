@@ -7,7 +7,7 @@ published: true
 ---
 ## Undergraduate FAQs
 
-**Q: I am interested in GUS and/or ES? Where can I find out more about the major?******
+**Q: I am interested in GUS and/or ES. Where can I find out more about the major?**
 
 A:  This website is your best place to begin. Use the links to find out more about GUS and ES [here](http://www.cla.temple.edu/gus/undergraduate/). We take pride in our undergraduate advising so you should visit the ES or GUS undergraduate advisor who can help you get the most out of your academic career. To contact the undergraduate advisor, email [guses@temple.edu](mailto:guses@temple.edu).
 
@@ -57,7 +57,7 @@ You cannot register before your advising session. You can, however, see what cou
 
 A: The undergraduate advisor in the major can help you plan a schedule that will keep you on track. Please review the degree requirements and try to build a schedule of courses that you find of interest. As the degree requires 12 courses, if you start taking GUS classes your second year, you should plan on taking two courses per semester. To contact the undergraduate advisor, email [guses@temple.edu](mailto:guses@temple.edu).
 
-**Q: What do I need to know about Double Majors?**
+**Q: What do I need to know about double majors?**
 
 For GUS/ES double majors who declared 2014-2015 or later, the only classes that may count for both majors are GUS/ENST 2197, GUS/ENST 3062, and GUS/ENST 3161. Double majors must take both GUS and ENST 4198: Senior Seminar courses.
 
@@ -93,7 +93,7 @@ As stated above, the binder should also include a summary page of the graduate p
 - Deadlines for receiving letters of recommendation
 - Personal Statement or Letter of Intent that will be submitted to that particular program
 
-### Q: Can an undergraduate student take a graduate course for use towards a BA?
+**Q: Can an undergraduate student take a graduate course for use towards a BA?**
 
 Yes. Undergraduates may take 5XXX level courses (NOT 7XXX or 8XXX) if:
 
@@ -118,7 +118,7 @@ See the Internship Coordinator of this department, Dr. Max Andrucki ([max.andruc
 ### Requirements:
 
 - Junior year status (60 completed credits)
-- 0 GPA
+- 3.0 GPA
 - Approval from the Internship Coordinator
 
 ## Graduate Advising
