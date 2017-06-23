@@ -38,8 +38,7 @@ While maintaining a global perspective, being a geography and urban studies prog
 
 ## An Intergrative Approach To Understanding An Urbanizing World
 
-Through interdisciplinary coursework, the Department of Geography and Urban Studies combines strong social
-science skills with technical training to teach students to understand and address issues in globalization, sustainability and social justice.
+Through interdisciplinary coursework, the Department of Geography and Urban Studies combines strong social science skills with technical training to teach students to understand and address issues in globalization, sustainability and social justice.
 
 ## Our Faculty And Students Work Together
 
@@ -54,10 +53,6 @@ Our students land competitive, meaningful jobs upon graduation. The geospatial t
 • [BA in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 • [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 • [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) (GIS)
-• [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) (GIS)
-• [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
-• [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) (PSM in GIS)
-• [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 The Department of Geography and Urban Studies offers programs of study relating to urban systems, nature and society, international development and spatial analysis.
 
