@@ -136,5 +136,3 @@ In addition to the end-of-the-first semester review, all graduate students will 
 Master’s degree students must identify a paper advisor who need not be the same faculty member acting as their initial advisor. This paper advisor must be identified by the beginning of the fourth semester. This is the faculty member who works with the master’s student in his/her final semester to develop a high quality paper on a topic of the student’s choice. While the paper will be developed in a class, it must be read and approved by the student’s paper advisor as well as the instructor for the class.
 
 The PhD student’s advisor helps determine the student’s schedule of classes each semester, answers general questions about the program, and helps the student define his/her research orientation. The advisor also serves as the chair of the qualifying exam committee and the dissertation committee, and helps the student to form these committees.
-
-Currently, the department’s Graduate Director is Professor Hamil Pearsall, who can be contacted at [hamil.pearsall@temple.edu](hamil.pearsall@temple.edu).
