@@ -5,7 +5,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-Recently, our students have secured coveted internship and employment opportunities working for the following employers:
+Our graduates are trained to analyze multi-faceted problems from the local to the global with a range of analytical tools and skills. Recently, our students have secured coveted internship and employment opportunities working for the following employers:
 
 - US Census Bureau
 - United Nations
@@ -29,7 +29,7 @@ The Office of Admissions offers tours daily. To register for a tour, please go t
 
 For more information, please go to [liberalarts.temple.edu/admissions/visit](http://liberalarts.temple.edu/admissions/visit)
 
-## Thinking Of Transferring?
+## Thinking of Transferring?
 
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
 
