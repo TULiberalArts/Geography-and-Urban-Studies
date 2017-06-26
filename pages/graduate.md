@@ -80,7 +80,7 @@ For more information about the degree requirements, please visit the [graduate b
 
 Our graduate certificate in GIS is for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework. Faculty expertise spans a diverse array of fields, including global urban development, urban ecology and sustainability, health geography and food systems, critical approaches to nature-society relations, and theory and implementation of geographic information technologies.
 
-For more information about the degree requirements, please visit the [graduate bulletin]((http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) or see the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
+For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) or see the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
 
 ## Harris Webber Graduate Fellowship
 
