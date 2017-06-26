@@ -36,9 +36,9 @@ Gain the intellectual and methodological tools necessary to understand and addre
 
 ## Academic Offerings
 
-- [BA in Geography and Urban Studies](#major)
+- [Major in Geography and Urban Studies](#major)
 - [Minor in Geography and Urban Studies](#minor)
-- [Undergraduate Certificate in Geographic Information Systems](undergraduate-certificate-in-geographic-information-systems) (GIS)
+- [Undergraduate Certificate in Geographic Information Systems](#undergraduate-certificate-in-geographic-information-systems) (GIS)
 
 ## Major
 
