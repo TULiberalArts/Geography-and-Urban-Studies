@@ -36,14 +36,12 @@ sidebar-content: >
 
 ## Graduate Programs in Geography and Urban Studies
 
-• [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) (GIS)
-• [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
-• [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) (PSM in GIS)
-• [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
+- [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
+- [MA in Geography and Urban Studies](#MA-in-geography-and-urban-studies)
+- [Graduate Certificate in Geographic Information Systems](#graduate-certificate-in-gis) (GIS)
+- [Professional Science Master’s in Geographic Information Systems](#psm-in-gis) (PSM in GIS)
 
-### The Department of Geography and Urban Studies at Temple University offers four graduate degrees:
-
-## Doctor of Philosophy (PhD)
+## PhD in Geography and Urban Studies
 
 The complexity and pace of economic, environmental, and social change require that students are trained in interdisciplinary and spatially integrative analytical frameworks and specialized skills to apply to real-world conditions. As an integrative graduate program, the curriculum connects these processes, giving students strong analytical foundation that stresses spatial relations, scale transitions, place and context, and nature societal relations.
 
@@ -53,9 +51,9 @@ The program draws upon the interdisciplinary expertise of faculty in the Departm
 
 Graduates of the program with doctorates in Geography and Urban Studies will be able to compete for faculty positions in a range of academic departments—from departments of geography to more interdisciplinary departments and programs (focused on such fields as urban studies, urban planning, environmental studies, and development studies). They will also be equipped to seek employment outside of academe. Non-governmental organizations, think tanks, research institutes, service delivery institutions, international development and economic development organizations, increasingly conduct independent research and employ graduate degree holders in interdisciplinary areas like urban studies and environmental studies.
 
-For more information about the degree and application requirements, please visit the [PhD in Geography and Urban Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/). To learn more about our policies, courses, and expectations, please review our [handbook](http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf).
+For more information about the degree and application requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/). To learn more about our policies, courses, and expectations, please review our [handbook](http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf).
 
-## Master’s of Arts (MA) in Geography and Urban Studies
+## MA in Geography and Urban Studies
 
 The MA degree is designed to prepare students for further graduate study as well as professional positions related to urban and economic development, environmental sustainability and social justice, including local and governmental agencies, non-governmental organizations at the local and international scale, community-based and public interest organizations, and business.
 
@@ -67,9 +65,17 @@ Our faculty excels at theoretical and applied analysis of metropolitan areas wit
 
 In their final semester, students select a paper that they had previously written for a graduate level course. Students must enroll in GUS 9991, a course in which they work to revise and expand their selected paper. The students meet as a class to facilitate their projects. In the course of writing the Master’s Research Paper, students gain experience in writing to a professional standard, using the commonly accepted conventions of the field.
 
-For more information about the degree requirements, please visit the [MA in Geography and Urban Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/) and [MA and PhD Graduate Student Handbook](http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf).
+For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/) and [MA and PhD Graduate Student Handbook](http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf).
 
-## Professional Science Master’s (PSM) in Geographic Information Systems (GIS)
+## Graduate Certificate in GIS
+
+The challenges and opportunities that face cities and metropolitan regions are central to the well being of billions of people around the globe. Our program MA and PhD focuses on the themes of globalization, sustainability, and social justice, three areas that increasingly are central to understanding such challenges and opportunities. Our Professional Science Master’s in GIS focuses on our fourth theme of geographic methods as well as professional development.
+
+Faculty expertise spans a diverse array of fields, including global urban development, urban ecology and sustainability, health geography and food systems, critical approaches to nature-society relations, and theory and implementation of geographic information technologies.
+
+For more information about the degree requirements, please visit the [graduate bulletin]((http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) or the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
+
+## PSM in GIS
 
 Our Professional Science Master’s in Geographic Information Systems (PSM in GIS) is a one-year, 30-credit professional degree designed to allow students to enter or return to the work force quickly. This program is open to all students with an interest in GIS who have already completed a Bachelor’s degree in any field.
 
@@ -82,13 +88,7 @@ Our curriculum prepares students for the demands of the job market, integrating 
 
 We also offer a Graduate Certificate in GIS for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework.
 
-For more information about the degree requirements, please visit the [PSM and Graduate Certificate in GIS Handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
-
-## Graduate Certificate in GIS
-
-The challenges and opportunities that face cities and metropolitan regions are central to the well being of billions of people around the globe. Our program MA and PhD focuses on the themes of globalization, sustainability, and social justice, three areas that increasingly are central to understanding such challenges and opportunities. Our Professional Science Master’s in GIS focuses on our fourth theme of geographic methods as well as professional development.
-
-Faculty expertise spans a diverse array of fields, including global urban development, urban ecology and sustainability, health geography and food systems, critical approaches to nature-society relations, and theory and implementation of geographic information technologies.
+For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) or the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
 
 ## Harris Webber Graduate Fellowship
 
