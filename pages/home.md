@@ -4,15 +4,13 @@ meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
-feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature: true
+feature-title: Understand an Urbanizing World
+feature-image: null
 published: true
 ---
 
-Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students are equipped to understand
-and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world.
+Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. 
 
 Geography and Urban Studies graduates are trained to analyze multi-faceted problems from the local to the global with a range of analytical tools and skills, including:
 
@@ -26,26 +24,26 @@ Geography and Urban Studies graduates are trained to analyze multi-faceted probl
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Philadelphia is Your Classroom" 
+    content="Being a geography and urban studies program in the heart of Philadelphia gives our students an excellent opportunity to take what they learn and apply it outside the classroom." 
     image="" 
-    button-link=" " 
+    button-link="/geography-and-urban-studies/undergraduate" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="Work Alongside Faculty" 
+      content="Our highly respected faculty is invested in student success. Students receive unmatched attention through mentorship, extracurricular activities and research opportunities." 
       image="" 
-      button-link=" " 
+      button-link="/geography-and-urban-studies/research" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Map Your Career" 
+        content="Our students land competitive, meaningful jobs upon graduation. The geospatial technology industry alone is growing at an annual rate of almost 35 percent and trained technicians are in high demand." 
         image="" 
-        button-link=" " 
+        button-link="/geography-and-urban-studies/next-stops" 
         button-text="Learn More" %}
       </div>
 </div>
