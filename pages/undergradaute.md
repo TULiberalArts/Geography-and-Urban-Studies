@@ -32,8 +32,6 @@ sidebar-content: >
   204-3386](tel:2152043386)<br/>
   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
 ---
-## Major or Minor in Geography and Urban Studies
-
 Gain the intellectual and methodological tools necessary to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people around the globe. The Department of Geography and Urban Studies offers programs of study relating to urban systems, nature and society, international development and spatial analysis.
 
 ## Academic Offerings
@@ -44,7 +42,7 @@ Gain the intellectual and methodological tools necessary to understand and addre
 
 ## Major
 
-Our [major in geography and urban studies]((http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/) combines the analytical frameworks of the discipline of geography with the study of urbanization and environment in both U.S. and international settings. Gateway courses help students develop an understanding of geographical principles and bases of knowledge, allowing them to then cultivate their specific interests through a series of upper level electives. Within this framework, students can choose courses that focus on human geography, multi-method approaches to urban problems, spatial approaches to human-environment relations, and methods of spatial analysis and geovisualization.
+Our [major in geography and urban studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/) combines the analytical frameworks of the discipline of geography with the study of urbanization and environment in both U.S. and international settings. Gateway courses help students develop an understanding of geographical principles and bases of knowledge, allowing them to then cultivate their specific interests through a series of upper level electives. Within this framework, students can choose courses that focus on human geography, multi-method approaches to urban problems, spatial approaches to human-environment relations, and methods of spatial analysis and geovisualization.
 
 ### Curriculum
 
