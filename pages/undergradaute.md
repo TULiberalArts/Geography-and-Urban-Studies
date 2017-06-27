@@ -152,32 +152,6 @@ Membership in the Honorary Society in Geography is available to majors selected 
 
 The Geography and Urban Studies and Environmental Undergraduate Student Association is designed to create a space for students in both majors to meet and discuss topics of interest, go on trips around Philadelphia and host events for their fellow students. Members of either major or minor as well as any students from any department with related interests are welcome to join. To join the mailing list, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
 
-## Major or Minor in Environmental Studies
-
-Environmental Studies examines the nature, causes and consequences of human interactions with the environment. We teach our students to understand and address the crucial environmental issues of our time—such as climate change, food access and natural resource consumption.
-
-### Major in Environmental Studies
-
-Environmental Studies is an interdisciplinary major offered by the Department of Geography and Urban Studies that examines the nature, causes and consequences of human interactions with the environment. Students in Environmental Studies gain the intellectual and methodological tools to understand and address the crucial environmental issues of our time and the impact on individuals, society, and the planet. Students in Environmental Studies are introduced to physical geography, an understanding of the economic system, and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) that then prepare them for the upper-level electives that students may tailor to their own academic interests.
-
-### Minor
-
-A minor in ES is available to any student enrolled at Temple University and many students choose to add a ES minor as a complement to their program of study. This is an 18-credit minor, requiring students to take one Gateway course and five electives. More information about the ES minor is available [here](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/).
-
-### Curriculum
-
-The Environmental Studies core courses are designed to develop the theoretical and methodological frameworks and tools necessary to understand the relationships between people and their environment as they interact through local to global connections.  Students examine environmental policy and the role of political institutions; environmental decision-making; natural hazards and risk assessment; environmental ethics and legal issues; and environmental justice. The electives give students the opportunity to develop an area of emphasis around their particular interests.
-
-The Environmental Studies major requires students to complete a total of 39 credits, including two Gateway courses, four Methods courses, one Geography of Natural Resources course, five Elective courses, and one Capstone course.
-
-### Environment Studies students will acquire an understanding in the following areas:
-
-Current environmental issues such as health and justice, geospatial techniques and environmental policy;
-Social science approaches to examining nature-society relations;
-Environmental principles including earth processes, global climate change, environmental hazards, and natural resource management;
-Basic economic principles through the intersection of geography of natural resource management, economics, and development; and
-Rigorous social science research on environmental issues, including qualitative and quantitative methods, policy research, Geographic Information Systems (GIS), and spatial statistics.
-
 ### Study Abroad
 
 We encourage students to study abroad for one semester, which can be a critical part of undergraduate education either through a Temple or other accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. To visit the study abroad office website, please follow the link [here](http://studyabroad.temple.edu/).
@@ -185,21 +159,3 @@ We encourage students to study abroad for one semester, which can be a critical 
 ### Internships
 
 We encourage students to incorporate an internship into their plan of study. We have relationships with local employers and students can receive academic credit for completed internships. To see a list of organizations where our students have interned, please follow the link here.
-
-### Careers in Environmental Studies
-
-The Environmental Studies faculty and Department of Geography and Urban Studies offer broad expertise in a variety of topics as well as geographic technologies and methods that prepare students for the critical thinking and technological skills that employers are increasingly seeking in new hires. Our graduates find employment with government environmental agencies, nonprofits (domestic and international), citizens’ organizations, consulting firms, and corporate environmental affairs departments. Many also go on to graduate programs in environmental studies, law, geography, planning, and other fields.
-
-From Peace Corps Volunteers and Fulbright Scholars, to urban agriculture and energy consultants, Environmental Studies majors find employment in a wide variety of fields, including, but not limited to, the following:
-
-- Environmental Activism and Conservation
-- Resource Management
-- State and Local Government
-- Non-Profits and NGOs
-- Geographic Information Systems (GIS)
-- Spatial Analysis
-- Education
-- Entrepreneurship
-- Urban Gardening
-- Research
-
