@@ -5,10 +5,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-### Study Abroad
-
-We encourage students to study abroad for one semester, which can be a critical part of undergraduate education either through a Temple or other accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. Visit the [study abroad office website](http://studyabroad.temple.edu) for more information.
-
 ## Undergraduate FAQs
 
 **Q: I am interested in GUS and/or ES. Where can I find out more about the major?**
@@ -106,6 +102,10 @@ Yes. Undergraduates may take 5XXX level courses (NOT 7XXX or 8XXX) if:
 - The student has completed the prerequisites for the course.
 
 Please be aware than some 5xxx classes may also be cross –listed with an undergraduate class. A student who has enrolled in a graduate section of the class must complete the requirements for the graduate students.
+
+### Study Abroad
+
+We encourage students to study abroad for one semester, which can be a critical part of undergraduate education either through a Temple or other accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. Visit the [study abroad office website](http://studyabroad.temple.edu) for more information.
 
 ## Internships
 
