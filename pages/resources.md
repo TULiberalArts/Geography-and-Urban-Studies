@@ -5,6 +5,10 @@ permalink: /resources/
 layout: page
 published: true
 ---
+### Study Abroad
+
+We encourage students to study abroad for one semester, which can be a critical part of undergraduate education either through a Temple or other accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. Visit the [study abroad office website](http://studyabroad.temple.edu) for more information.
+
 ## Undergraduate FAQs
 
 **Q: I am interested in GUS and/or ES. Where can I find out more about the major?**
@@ -105,7 +109,7 @@ Please be aware than some 5xxx classes may also be cross –listed with an under
 
 ## Internships
 
-We encourage students to apply their skills and knowledge in a credit-bearing internship that utilizes their academic training. Assignments at planning, social service and other agencies, as well as firms that specialize in mapping and geographic data analysis, have helped students secure employment. The internship is complemented by a seminar in which students discuss their experiences.
+We encourage students to apply their skills and knowledge in a credit-bearing internship that utilizes their academic training. Assignments at planning, social service and other agencies, as well as firms that specialize in mapping and geographic data analysis, have helped students secure employment. The internship is complemented by a seminar in which students discuss their experiences. We have relationships with local employers and students can receive academic credit for completed internships. 
 
 ### About the Internship Program
 
@@ -136,3 +140,14 @@ In addition to the end-of-the-first semester review, all graduate students will 
 Master’s degree students must identify a paper advisor who need not be the same faculty member acting as their initial advisor. This paper advisor must be identified by the beginning of the fourth semester. This is the faculty member who works with the master’s student in his/her final semester to develop a high quality paper on a topic of the student’s choice. While the paper will be developed in a class, it must be read and approved by the student’s paper advisor as well as the instructor for the class.
 
 The PhD student’s advisor helps determine the student’s schedule of classes each semester, answers general questions about the program, and helps the student define his/her research orientation. The advisor also serves as the chair of the qualifying exam committee and the dissertation committee, and helps the student to form these committees.
+
+## Undergraduate Organizations
+
+### Gamma Theta Upsilon
+
+Membership in the Honorary Society in Geography is available to majors selected on the basis of GPA. Initiations are held each year and student members can submit articles to the GYU journal and apply for scholarships.
+
+### Majors’ Association
+
+The Geography and Urban Studies and Environmental Undergraduate Student Association is designed to create a space for students in both majors to meet and discuss topics of interest, go on trips around Philadelphia and host events for their fellow students. Members of either major or minor as well as any students from any department with related interests are welcome to join. To join the mailing list, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
+
