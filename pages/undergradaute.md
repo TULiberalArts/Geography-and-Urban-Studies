@@ -60,6 +60,10 @@ GUS students will acquire an understanding in the following areas:
 
 Many students choose GUS as a major in their second year after taking an introductory course in the field. As we are a small department, we are able to offer our students accurate, timely and friendly academic advice. Majors can be assigned to a faculty mentor in their area of specialization.
 
+### Focus Areas
+
+Within this department, you may select courses in four general areas: Social Justice, Globalization, Sustainability, and Geographic Methods. See our [research page](/research) for more information on these areas. It is also possible to incorporate courses from other departments. For more information on courses, see the [Undergraduate Courses page](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/#courseinventory) or the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/).
+
 ### Double major with the College of Education
 
 Students may elect to earn certification in secondary school social studies by combining a major in geography and urban studies with a major in social studies education. Students may also earn certification through a GUS major and education minor following the 5-year BA/MA program.
@@ -106,56 +110,3 @@ And two electives selected from the following:
 ### How to Add the GIS Certificate
 
 To declare the GIS Certificate, visit the CLA Academic Advising and Professional Development Center in Paley Library, 1st Floor. No appointment needed.
-
-
-## What below here is needed on this page?
-
-### Study Abroad
-
-We encourage students to study abroad for one semester, which can be a critical part of undergraduate education either through a Temple or other accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. To visit the study abroad office website, please follow the link [here](http://studyabroad.temple.edu/).
-
-### Internships
-
-We encourage students to incorporate an internship into their plan of study. We have relationships with local employers and students can receive academic credit for completed internships. To see a list of organizations where our students have interned, please follow the link [here](http://www.cla.temple.edu/gus/undergraduate/list-of-recent-internships/).
-
-### Careers in Geography and Urban Studies
-
-The GUS faculty offer broad expertise in a variety of topics as well as geographic technologies and methods that prepare students for the critical thinking and technological skills that employers are increasingly seeking in new hires. Our graduates find employment in governmental agencies, non-profits (domestic and international), citizen’s organizations, public service, and community development. Many also go on to graduate programs in geography, urban studies, planning, education, or journalism.
-
-From Americorps, to Philadelphia city government, to community development, Geography and Urban Studies Studies majors find employment in a wide variety of fields, including, but not limited to, the following:
-
-- Community Development
-- State and Local Government
-- Non-Governmental Organizations (NGOs)
-- Non-Profits
-- Geographic Information Systems (GIS)
-- Spatial Analysis
-- Education
-- Outreach
-- Urban Planning
-- Public Service
-- Urban Agriculture
-
-## Focus Areas
-
-In both of the department’s majors–Geography and Urban Studies and Environmental Studies-students are encouraged to take a broad range of courses from across the discipline of geography and fields of urban and environmental studies.
-
-We encourage our students to acquire a second language and work closely to help them incorporate a semester abroad into their plan of study. Within this department, you may select courses in four general areas: Social Justice, Globalization, Sustainability, and Geographic Methods. See our [research page](/research) for more information on these areas. In either major, it is possible to incorporate courses from other departments. For more information on courses in both majors, see the [Undergraduate Courses page](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/#courseinventory) or the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/).
-
-## Undergraduate Organizations
-
-### Gamma Theta Upsilon
-
-Membership in the Honorary Society in Geography is available to majors selected on the basis of GPA. Initiations are held each year and student members can submit articles to the GYU journal and apply for scholarships.
-
-### Majors’ Association
-
-The Geography and Urban Studies and Environmental Undergraduate Student Association is designed to create a space for students in both majors to meet and discuss topics of interest, go on trips around Philadelphia and host events for their fellow students. Members of either major or minor as well as any students from any department with related interests are welcome to join. To join the mailing list, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
-
-### Study Abroad
-
-We encourage students to study abroad for one semester, which can be a critical part of undergraduate education either through a Temple or other accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. To visit the study abroad office website, please follow the link [here](http://studyabroad.temple.edu/).
-
-### Internships
-
-We encourage students to incorporate an internship into their plan of study. We have relationships with local employers and students can receive academic credit for completed internships. To see a list of organizations where our students have interned, please follow the link here.
