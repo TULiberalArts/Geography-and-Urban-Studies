@@ -5,6 +5,8 @@ permalink: /resources/
 layout: page
 published: true
 ---
+Read our [undergraduate FAQ](#undergraduate-faqs), learn about [study abroad](#study-abroad), [internships](#internships), [graduate advising](#graduate-advising) and [undergraduate organizations](#undergraduate-organizations).
+
 ## Undergraduate FAQs
 
 **Q: I am interested in GUS and/or ES. Where can I find out more about the major?**
@@ -103,7 +105,7 @@ Yes. Undergraduates may take 5XXX level courses (NOT 7XXX or 8XXX) if:
 
 Please be aware than some 5xxx classes may also be cross –listed with an undergraduate class. A student who has enrolled in a graduate section of the class must complete the requirements for the graduate students.
 
-### Study Abroad
+## Study Abroad
 
 We encourage students to study abroad for one semester, which can be a critical part of undergraduate education either through a Temple or other accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. Visit the [study abroad office website](http://studyabroad.temple.edu) for more information.
 
@@ -150,4 +152,3 @@ Membership in the Honorary Society in Geography is available to majors selected 
 ### Majors’ Association
 
 The Geography and Urban Studies and Environmental Undergraduate Student Association is designed to create a space for students in both majors to meet and discuss topics of interest, go on trips around Philadelphia and host events for their fellow students. Members of either major or minor as well as any students from any department with related interests are welcome to join. To join the mailing list, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
-
