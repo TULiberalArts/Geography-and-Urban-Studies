@@ -5,6 +5,8 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
+Our graduates succeed in a range of careers in growing fields. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+
 ## Careers in Geography and Urban Studies
 
 The GUS faculty offer broad expertise in a variety of topics as well as geographic technologies and methods that prepare students for the critical thinking and technological skills that employers are increasingly seeking in new hires. Our graduates find employment in governmental agencies, non-profits (domestic and international), citizen’s organizations, public service, and community development. Many also go on to graduate programs in geography, urban studies, planning, education, or journalism.
