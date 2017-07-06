@@ -10,7 +10,7 @@ sidebar-content: > #
    Melissa Gilbert  
    309 Gladfelter Hall  
    [(215) 204-5482](tel:2152045482)  
-   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
+   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)   
    
    ___
    
@@ -18,7 +18,7 @@ sidebar-content: > #
    Jeremy Mennis  
    328 Gladfelter Hall    
    [(215) 204-4748](tel:2152044748)
-   [jmennis@temple.edu](mailto:jmennis@temple.edu)  
+   [jmennis@temple.edu](mailto:jmennis@temple.edu)   
    
    ___
 
@@ -26,7 +26,7 @@ sidebar-content: > #
    Maggie Cogswell  
    1008A Gladfelter Hall    
    [(215) 204-9209](tel:2152049209)   
-   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)   
+   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)      
    
    ___
 
