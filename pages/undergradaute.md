@@ -17,7 +17,7 @@ sidebar-content: > #
    **Undergraduate Chair:**  
    Jeremy Mennis  
    328 Gladfelter Hall    
-   [(215) 204-4748](tel:2152044748)
+   [(215) 204-4748](tel:2152044748)    
    [jmennis@temple.edu](mailto:jmennis@temple.edu)   
    
    ___
