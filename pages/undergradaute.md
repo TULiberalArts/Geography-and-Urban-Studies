@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Melissa Gilbert  
    309 Gladfelter Hall  
@@ -34,10 +34,12 @@ sidebar-content: > #
    Julia Falcon  
    338A Gladfelter Hall    
    [(215) 204-3386](tel:2152043386)   
-   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)   
+   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 
 Gain the intellectual and methodological tools necessary to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people around the globe. The Department of Geography and Urban Studies offers programs of study relating to urban systems, nature and society, international development and spatial analysis.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Academic Offerings
 
