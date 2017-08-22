@@ -5,7 +5,7 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #  
+sidebar-content: |
   **Chair:**  
    Melissa Gilbert  
    309 Gladfelter Hall  
@@ -33,7 +33,7 @@ sidebar-content: > #
    Julia Falcon  
    338A Gladfelter Hall    
    [(215) 204-3386](tel:2152043386)   
-   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)   
+   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 
 The challenges and opportunities that face cities and metropolitan regions are central to the well-being of billions of people around the globe. Our MA and PhD programs focus on the themes of globalization, sustainability and social justice, three areas that increasingly are central to understanding such challenges and opportunities. Our professional science master's in GIS focuses on our fourth theme of geographic methods as well as professional development. We also offer a graduate certificate in GIS for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework.
@@ -55,7 +55,7 @@ The program draws upon the interdisciplinary expertise of faculty in the Departm
 
 Graduates of the program with doctorates in geography and urban studies will be able to compete for faculty positions in a range of academic departments—from departments of geography to more interdisciplinary departments and programs (focused on such fields as urban studies, urban planning, environmental studies and development studies). They will also be equipped to seek employment outside of academe. Non-governmental organizations, think tanks, research institutes, service delivery institutions, international development and economic development organizations increasingly conduct independent research and employ graduate degree holders in interdisciplinary areas like urban studies and environmental studies.
 
-For more information about the degree and application requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/). To learn more about our policies, courses, and expectations, please review our [handbook](http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf).
+For more information about the degree and application requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/). To learn more about our policies, courses, and expectations, please review our [handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUSgraduatehandbook2017-2018.pdf).
 
 ## MA in Geography and Urban Studies
 
@@ -69,7 +69,7 @@ Our faculty excels at theoretical and applied analysis of metropolitan areas wit
 
 In their final semester, students select a paper that they had previously written for a graduate level course. Students must enroll in GUS 9991, a course in which they work to revise and expand their selected paper. The students meet as a class to facilitate their projects. In the course of writing the master's research paper students gain experience in writing to a professional standard, using the commonly accepted conventions of the field.
 
-For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/) and [MA and PhD Graduate Student Handbook](http://www.cla.temple.edu/gus/files/2015/01/GUS-MA-PhD-graduatehandbook2016-2017.pdf).
+For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/) and [MA and PhD Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUSgraduatehandbook2017-2018.pdf).
 
 ## PSM in GIS
 
