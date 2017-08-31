@@ -9,9 +9,9 @@ Our graduates succeed in a range of careers in growing fields. Convinced? [Make 
 
 ## Careers in Geography and Urban Studies
 
-The GUS faculty offer broad expertise in a variety of topics as well as geographic technologies and methods that prepare students for the critical thinking and technological skills that employers are increasingly seeking in new hires. Our graduates find employment in governmental agencies, non-profits (domestic and international), citizen’s organizations, public service, and community development. Many also go on to graduate programs in geography, urban studies, planning, education, or journalism.
+The GUS faculty offer broad expertise in a variety of topics as well as geographic technologies and methods that prepare students for the critical thinking and technological skills that employers are increasingly seeking in new hires. Our graduates find employment in governmental agencies, non-profits (domestic and international), citizens' organizations, public service and community development. Many also go on to graduate programs in geography, urban studies, planning, education or journalism.
 
-From Americorps, to Philadelphia city government, to community development, Geography and Urban Studies Studies majors find employment in a wide variety of fields, including, but not limited to, the following:
+From Americorps, to Philadelphia city government, to community development, geography and urban Studies Studies majors find employment in a wide variety of fields, including, but not limited to, the following:
 
 - Community Development
 - State and Local Government
@@ -36,8 +36,6 @@ Our graduates are trained to analyze multi-faceted problems from the local to th
 - The Reinvestment Fund
 - Philadelphia Mural Arts Program
 - Philadelphia Committee to End Homelessness
-
-
 
 ## Make Your Declaration
 
