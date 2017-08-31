@@ -53,7 +53,7 @@ GUS faculty member Allison Hayes-Conroy has developed four different projects re
 
 **Environmental Justice (Jeremy Mennis)**
 
-Environmental justice is the principle that all people have equal protection under environmental laws and the right to participate in environmental decision-making in their community.  I am interested in the quantitative analysis of race, class, and other socioeconomic characteristics as they relate to indicators of environmental risk, particularly toxins produced from industrial and commercial activity.  Recent research has focused on the distribution of air toxic releases in New Jersey, as well as on racial equity in actions taken by agencies responsible for enforcing environmental policies.
+Environmental justice is the principle that all people have equal protection under environmental laws and the right to participate in environmental decision-making in their community. I am interested in the quantitative analysis of race, class, and other socioeconomic characteristics as they relate to indicators of environmental risk, particularly toxins produced from industrial and commercial activity. Recent research has focused on the distribution of air toxic releases in New Jersey, as well as on racial equity in actions taken by agencies responsible for enforcing environmental policies.
 
 **Cities, Photography and Critical Pedagogy (Rickie Sanders)**
 
@@ -97,11 +97,11 @@ Allison Hayes-Conroy, Rob Mason, Michele Masucci, Jeremy Mennis, Hamil Pearsall,
 
 **Evaluating Collaborative Land Use Projects (Rob Mason)**
 
-Rob Mason’s book, _Collaborative Land Use Management: The Quieter Revolution in Place-Based Planning_, proposed a broad framework for understanding and evaluating specific land use programs. Among the measures included in the model were ecosystem health, landscape integrity, cost effectiveness, social justice, carbon impacts and vulnerability management. Following on the book’s discussion of these evaluative dimensions — and their relevance to case studies ranging over multiple and overlapping spatial scales — will be refinement of the model and application to specific programs.
+Rob Mason’s book, _Collaborative Land Use Management: The Quieter Revolution in Place-Based Planning_, proposed a broad framework for understanding and evaluating specific land use programs. Among the measures included in the model were ecosystem health, landscape integrity, cost effectiveness, social justice, carbon impacts and vulnerability management. Following on the book’s discussion of these evaluative dimensions—and their relevance to case studies ranging over multiple and overlapping spatial scales—will be refinement of the model and application to specific programs.
 
 **Relationships between Community Planning, Environmental Management, and Information Technology (Michele Masucci)**
 
-Previous research by Michele Masucci examined the relationships between community planning, environmental management and information uses and technologies in non-governmental organizations in the Atlantic Rainforest Region of Brazil, in the Apalachicola-Chattahoochee-Flint (ACF) River Basin region, and in Philadelphia, Pennsylvania. Professor Masucci developed an appropriate technology GIS that analyzed drought and flood data for the ACF River Basin that permitted an analysis of the relationship between information resources and drought contingency planning during a period of extreme fluctuation in drought and flood conditions during the 1980s and 1990s in the southeastern US. The outcomes of this study were the focus of a book (co-authored with Richard Perritt) entitled _Human Environmental Interchange: Managing the Effects of Recent Droughts in the Southeastern U.S_.
+Previous research by Michele Masucci examined the relationships between community planning, environmental management and information uses and technologies in non-governmental organizations in the Atlantic Rainforest Region of Brazil, in the Apalachicola-Chattahoochee-Flint (ACF) River Basin region, and in Philadelphia. Professor Masucci developed an appropriate technology GIS that analyzed drought and flood data for the ACF River Basin that permitted an analysis of the relationship between information resources and drought contingency planning during a period of extreme fluctuation in drought and flood conditions during the 1980s and 1990s in the southeastern US. The outcomes of this study were the focus of a book (co-authored with Richard Perritt) entitled _Human Environmental Interchange: Managing the Effects of Recent Droughts in the Southeastern U.S_.
 
 **Environmental Justice of Urban Air Pollution (Jeremy Mennis)**
 
@@ -155,7 +155,7 @@ The research activities of the lab are sponsored through grants, contracts and p
 
 SAL@T also provides valuable educational experiences for GIS students and internship applications are accepted throughout the year.
 
-If you are interested in learning more about our lab research and the services we offer please contact Charles Kaylor (email: [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A Henry (email: [Khenry1@temple.edu](mailto:Khenry1@temple.edu); phone 215-204-2961).
+If you are interested in learning more about our lab research and the services we offer please contact Charles Kaylor (email: [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A. Henry (email: [Khenry1@temple.edu](mailto:Khenry1@temple.edu); phone 215-204-2961).
 
 ### Our Services
 
