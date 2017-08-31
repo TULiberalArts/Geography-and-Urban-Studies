@@ -19,7 +19,7 @@ Geography is the study of the interaction of people, places and the environment.
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Philadelphia is Your Classroom" 
-    content="Being a geography and urban studies program in the heart of Philadelphia gives our students an excellent opportunity to take what they learn and apply it outside the classroom." 
+    content="Being a geography and urban studies program in the heart of Philadelphia gives our students excellent opportunities to take what they learn and apply it outside the classroom." 
     image="" 
     button-link="/geography-and-urban-studies/undergraduate" 
     button-text="Learn More" %}
