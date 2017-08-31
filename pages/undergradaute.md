@@ -39,7 +39,7 @@ sidebar-content: |
 
 Gain the intellectual and methodological tools necessary to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people around the globe. The Department of Geography and Urban Studies offers programs of study relating to urban systems, nature and society, international development and spatial analysis.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 
@@ -69,9 +69,9 @@ Many students choose GUS as a major in their second year after taking an introdu
 
 ### Focus Areas
 
-Within this department, you may select courses in four general areas: Social Justice, Globalization, Sustainability, and Geographic Methods. See our [research page](/research) for more information on these areas. It is also possible to incorporate courses from other departments. For more information on courses, see the [Undergraduate Courses page](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/#courseinventory) or the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/).
+Within this department, you may select courses in four general areas: Social Justice, Globalization, Sustainability, and Geographic Methods. See our [research](https://develop.cla.temple.edu/geography-and-urban-studies/research/) page for more information on these areas. It is also possible to incorporate courses from other departments. For more information on courses, see the [Undergraduate Courses] page (http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/#courseinventory) or the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/).
 
-### Double major with the College of Education
+### Double Major with the College of Education
 
 Students may elect to earn certification in secondary school social studies by combining a major in geography and urban studies with a major in social studies education. Students may also earn certification through a GUS major and education minor following the 5-year BA/MA program.
 
