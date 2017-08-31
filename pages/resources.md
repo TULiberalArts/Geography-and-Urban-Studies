@@ -11,7 +11,7 @@ Read our [undergraduate FAQ](#undergraduate-faqs), learn about [study abroad](#s
 
 **Q: I am interested in GUS and/or ES. Where can I find out more about the major?**
 
-A:  This website is your best place to begin. Use the links to find out more about GUS and ES [here](http://www.cla.temple.edu/gus/undergraduate/). We take pride in our undergraduate advising so you should visit the ES or GUS undergraduate advisor who can help you get the most out of your academic career. To contact the undergraduate advisor, email [guses@temple.edu](mailto:guses@temple.edu).
+A:  This website is your best place to begin. Use the links to find out more about GUS and ES [here](https://develop.cla.temple.edu/geography-and-urban-studies/undergraduate/). We take pride in our undergraduate advising so you should visit the ES or GUS undergraduate advisor who can help you get the most out of your academic career. To contact the undergraduate advisor, email [guses@temple.edu](mailto:guses@temple.edu).
 
 **Q: What can I do with a GUS major or an ES major?**
 
@@ -19,7 +19,7 @@ A: Almost anything! Because both are truly interdisciplinary majors, our graduat
 
 **Q: How do I officially declare my major or change my major?**
 
-A: If you are a Liberal Arts student and you wish to declare a GUS or ES major or minor, you must submit a Declaration/Change of Major Form, which can be obtained from the [Academic Advising and Professional Development Center](http://www.cla.temple.edu/advising).
+A: If you are a Liberal Arts student and you wish to declare a GUS or ES major or minor, you must submit a Declaration/Change of Major Form, which can be obtained from the [Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising).
 
 **Q: I am not currently enrolled in the College of Liberal Arts (maybe in Communication, Science and Technology, Business, Tyler, etc.) and want to change my major. How can I join GUS or ES?**
 
@@ -41,7 +41,7 @@ A: You should ask your instructor if she or he is willing to assign an incomplet
 
 **Q: I am a transfer student, how do I declare a major in GUS or ES and enroll in classes?**
 
-A: For information on admission to the university check the admissions page at [http://www.temple.edu/undergrad/applying/transfer.htm](http://www.temple.edu/undergrad/applying/transfer.htm) or contact them at 888-340-2222 or 215-204-7200 to set up an interview.
+A: For information on admission to the university check the [admissions page](http://www.temple.edu/undergrad/applying/transfer.htm) or contact them at 888-340-2222 or 215-204-7200 to set up an interview.
 
 Mailing address:
 
@@ -69,9 +69,9 @@ Students who declared a double major before Fall 2010 should contact the undergr
 
 GUS and ES professors are not obligated to write a graduate school letter of recommendation for any student.  If they agree to write a letter, it is recommended that the following criteria be met.
 
-The student must have discussed their graduate school interests with the appropriate professors prior to asking for a letter of recommendation – preferably multiple times over the course of several semesters.
+The student must have discussed their graduate school interests with the appropriate professors prior to asking for a letter of recommendation–preferably multiple times over the course of several semesters.
 
-In order to obtain a letter of recommendation from a professor who specializes in the same area of research that a student plans to pursue in Graduate School (i.e. GIS, urban inequality, environmental planning, planning, international development, etc.), the student must have completed at least one, but preferably two, courses or completed a research project with that professor or conducted.
+In order to obtain a letter of recommendation from a professor who specializes in the same area of research that a student plans to pursue in graduate school (i.e. GIS, urban inequality, environmental planning, planning, international development, etc.), the student must have completed at least one, but preferably two, courses or completed a research project with that professor or conducted.
 
 If the student is applying to any graduate program that requires the GRE, the exam must have been taken and scores received prior to requesting a letter of recommendation. In addition, the student must obtain a minimum score of 1000 (combined verbal and quantitative) on the GRE and have a grade point average of 3.0.
 
