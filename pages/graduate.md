@@ -47,7 +47,7 @@ The challenges and opportunities that face cities and metropolitan regions are c
 
 ## PhD in Geography and Urban Studies
 
-The complexity and pace of economic, environmental, and social change require that students are trained in interdisciplinary and spatially integrative analytical frameworks and specialized skills to apply to real-world conditions. As an integrative graduate program, the curriculum connects these processes, giving students strong analytical foundation that stresses spatial relations, scale transitions, place and context, and nature-societal relations.
+The complexity and pace of economic, environmental and social change require that students are trained in interdisciplinary and spatially integrative analytical frameworks and specialized skills to apply to real-world conditions. As an integrative graduate program, the curriculum connects these processes, giving students strong analytical foundation that stresses spatial relations, scale transitions, place and context, and nature-societal relations.
 
 The PhD program admits students holding a bachelor's or master's degree in a related social science. To fulfill the degree requirements, students must complete coursework, pass a comprehensive examination, submit a thesis proposal, and then write and defend that thesis. 
 
@@ -65,7 +65,7 @@ The complexity of human-environment interactions, as well as the interconnectedn
 
 Our faculty excels at theoretical and applied analysis of metropolitan areas within their broader regional, national and global contexts, often using the complex Philadelphia metropolitan region as a laboratory. We draw upon our Philadelphia location to provide students with opportunities to engage in public policy and applied urban and environmental research. Students can use our faculty’s linkages with public agencies, educational institutions, community-based organizations, non-governmental organizations and social movements in our region to deepen their knowledge of urban dynamics.
 
-### Culminating exercise in the MA program:
+### Culminating exercise in the MA program
 
 In their final semester, students select a paper that they had previously written for a graduate level course. Students must enroll in GUS 9991, a course in which they work to revise and expand their selected paper. The students meet as a class to facilitate their projects. In the course of writing the master's research paper students gain experience in writing to a professional standard, using the commonly accepted conventions of the field.
 
