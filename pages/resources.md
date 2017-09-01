@@ -127,6 +127,18 @@ See the Internship Coordinator of this department, Dr. Max Andrucki ([max.andruc
 - 3.0 GPA
 - Approval from the Internship Coordinator
 
+### Recent Internship Placements
+
+- PennEnvironment
+- Delaware Valley Regional Planning Commission (DVRPC)
+- Energy Coordinating Agency
+- City of Philadelphia Mayor’s Office of Community Empowerment & Opportunity
+- Philadelphia Committee to End Homelessness
+- Philadelphia City Planning Commission
+- United Nations Environment Programme: Nairobi, Kenya
+- Asociacion Puertoriqueños en Marca
+- Greenpeace
+
 ## Graduate Advising
 
 The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. Students may change from this initial advisor to another faculty member at any time during the program, subject to approval by the Graduate Director.
