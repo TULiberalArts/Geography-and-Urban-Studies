@@ -6,7 +6,7 @@ permalink: /
 layout: home
 feature: true
 feature-title: Understand an Urbanizing World
-feature-image: null
+feature-image: hero_GUS_bg.png
 published: true
 feature-body: >-
   Our geography and urban studies program combines interdisciplinary
