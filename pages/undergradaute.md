@@ -69,7 +69,7 @@ Many students choose GUS as a major in their second year after taking an introdu
 
 ### Focus Areas
 
-Within this department, you may select courses in four general areas: Social Justice, Globalization, Sustainability, and Geographic Methods. See our [research](https://develop.cla.temple.edu/geography-and-urban-studies/research/) page for more information on these areas. It is also possible to incorporate courses from other departments. For more information on courses, see the [Undergraduate Courses] page (http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/#courseinventory) or the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/).
+Within this department, you may select courses in four general areas: Social Justice, Globalization, Sustainability, and Geographic Methods. See our [research](https://develop.cla.temple.edu/geography-and-urban-studies/research/) page for more information on these areas. It is also possible to incorporate courses from other departments. For more information on courses, see the [Undergraduate Courses] (http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/#courseinventory) page or the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/).
 
 ### Double Major with the College of Education
 
