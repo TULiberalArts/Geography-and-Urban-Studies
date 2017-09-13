@@ -38,15 +38,9 @@ sidebar-content: |
 ---
 ## Major in Geography and Urban Studies
 
-Our [major in geography and urban studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/) combines the analytical frameworks of the discipline of geography with the study of urbanization and environment in both U.S. and international settings. Gateway courses help students develop an understanding of geographical principles and bases of knowledge, allowing them to then cultivate their specific interests through a series of upper level electives. Within this framework, students can choose courses that focus on human geography, multi-method approaches to urban problems, spatial approaches to human-environment relations, and methods of spatial analysis and geovisualization.
+Geography and Urban Studies majors study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. The four research themes associated with the department are Social Justice, Globalization, Sustainability, and Geographic Methods. These are increasingly central issues to understanding and addressing global challenges. Geography and Urban Studies students are introduced to urban processes, spatial relations, geospatial technologies, including GIS, and qualitative and quantitative social science research methods.
 
-### Curriculum
-
-Students majoring in geography and urban studies are equipped with the intellectual and methodological tools necessary to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people around the globe in an urbanizing world. The courses for the GUS major focus on the themes of globalization, sustainability and social justice, all increasingly central to understanding these sorts of challenges and opportunities. Geographic methodology and analytical approaches constitute a fourth theme, and oftentimes unifying and illuminating overlaps among the other three.
-
-The GUS major requires students to complete a total of 39 credits, including two gateway courses, four methods courses, one international course, five elective courses and one capstone course.
-
-GUS students will acquire an understanding in the following areas:
+If you major in GUS, you will acquire an understanding of the following areas:
 
 - How space, place and scale shape the interaction between environment and society
 - Critical thinking skills developed through examining a range of analytical approaches to investigate geographic, urban and environmental processes
@@ -54,17 +48,15 @@ GUS students will acquire an understanding in the following areas:
 - The application of information technology skills such as geographic information systems (GIS) and spatial statistics to analyze spatial and temporal information, processes and patterns through integrative research experiences
 - Practical considerations of community and environmental organizational settings at the local and regional scales.
 
-Many students choose GUS as a major in their second year after taking an introductory course in the field. As we are a small department, we are able to offer our students accurate, timely and friendly academic advice. Majors can be assigned to a faculty mentor in their area of specialization.
-
-### Focus Areas
-
-Within this department, you may select courses in four general areas: Social Justice, Globalization, Sustainability, and Geographic Methods. See our [research](https://develop.cla.temple.edu/geography-and-urban-studies/research/) page for more information on these areas. It is also possible to incorporate courses from other departments. For more information on courses, see the [Undergraduate Courses] (http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/#courseinventory) page or the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/).
+[Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 
 ### Double Major with the College of Education
-Students may elect to earn certification in secondary school social studies by combining a major in geography and urban studies with a major in social studies education. Students may also earn certification through a GUS major and education minor following the 5-year BA/MA program.
+You may choose to earn a certification in secondary school social studies by combining a major in geography and urban studies with a major in social studies education. Students may also earn certification through a GUS major and education minor following the 5-year BA/MA program.
 
-## Minor in 
-Our [minor in geography and urban studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/) is available to any student enrolled at Temple University. Many students choose to add a GUS minor as a complement to their program of study. This is an 18-credit minor, requiring students to take one gateway course and five electives.
+## Minor in Geography and Urban Studies
+Any student enrolled at Temple University may minor in Geographic and Urban Studies to complement their main course of study. The 18-credit minor requires students to take one gateway course and five electives.
+
+[Learn More about Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 
 ## Undergraduate Certificate in Geographic Information Systems
 Geographic information has become one of the lynchpins of the Information Age. The [undergraduate certificate in GIS](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations.
@@ -98,7 +90,7 @@ Temple University’s tuition rates vary by school or college, student level, re
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
-Undergraduate Admissions to Temple University
+### Undergraduate Admissions to Temple University
 
 Are you ready to apply? Submit your online application at admissions.temple.edu/apply.
 
