@@ -5,27 +5,28 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-Our graduates succeed in a range of careers in growing fields. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+### What Can I do with a degree in Geography and Urban Studies Degree or Environmental Science?
 
-## Careers in Geography and Urban Studies
+Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government, and business sectors. Recent graduates have gone to work for consulting firms, planning offices, non-governmental organizations, the corporate sector, government agencies, educational institutions, city governments, the Peace Corps, AmeriCorps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law. 
 
-The GUS faculty offer broad expertise in a variety of topics as well as geographic technologies and methods that prepare students for the critical thinking and technological skills that employers are increasingly seeking in new hires. Our graduates find employment in governmental agencies, non-profits (domestic and international), citizens' organizations, public service and community development. Many also go on to graduate programs in geography, urban studies, planning, education or journalism.
+Some Job Titles and Careers Available for GUS and ES Graduates Include:
 
-From Americorps, to Philadelphia city government, to community development, geography and urban Studies Studies majors find employment in a wide variety of fields, including, but not limited to, the following:
-
-- Community Development
-- State and Local Government
-- Non-Governmental Organizations (NGOs)
-- Non-Profits
-- Geographic Information Systems (GIS)
-- Spatial Analysis
-- Education
-- Outreach
-- Urban Planning
-- Public Service
+- Environmental Analyst
+- Land Use Planner
+- City Planner
+- Nonprofit Administrator
+- Public Policy Director
+- Realtor
+- Social Worker
+- Environmental Attorney
+- Policy Analyst
+- Sustainability Specialist
+- Environmental Engineer
 - Urban Agriculture
+- Fish and Wildlife Biologist
+- Urban Agriculture Program Coordinator
 
-Our graduates are trained to analyze multi-faceted problems from the local to the global with a range of analytical tools and skills. Recently, our students have secured coveted internship and employment opportunities working for the following employers:
+Recent companies where our graduates have found employment include:
 
 - US Census Bureau
 - United Nations
@@ -39,23 +40,25 @@ Our graduates are trained to analyze multi-faceted problems from the local to th
 
 ## Make Your Declaration
 
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts. Temple University’s College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education within a premier urban, research university.
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu)
 
 ## Visit Us!
 
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
+To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. If you would like to experience the College of Liberal Arts firsthand, get in touch with us.
+
+[Arrange a Visit](http://admissions.temple.edu/visit)
 
 ## Thinking of Transferring?
 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session. 
 
-To learn more about transferring to Temple, please visit [temple.edu/transfer](http://temple.edu/transfer)
+[Learn More about Transferring to Temple](temple.edu/transfer](http://temple.edu/transfer)
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
+Are you ready to apply? [Submit Your Application Online](http://admissions.temple.edu/apply)
 
 ## Deadlines
 
