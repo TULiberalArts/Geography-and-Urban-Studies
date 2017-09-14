@@ -36,14 +36,9 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 
+### Earn an MA or PhD in Geography and Urban Studies
+
 The challenges and opportunities that face cities and metropolitan regions are central to the well-being of billions of people around the globe. Our MA and PhD programs focus on the themes of globalization, sustainability and social justice, three areas that increasingly are central to understanding such challenges and opportunities. Our professional science master's in GIS focuses on our fourth theme of geographic methods as well as professional development. We also offer a graduate certificate in GIS for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework.
-
-## Graduate Programs in Geography and Urban Studies
-
-- [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
-- [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
-- [Professional Science Master’s in Geographic Information Systems](#psm-in-gis) (PSM in GIS)
-- [Graduate Certificate in Geographic Information Systems](#graduate-certificate-in-gis) (GIS)
 
 ## PhD in Geography and Urban Studies
 
@@ -85,4 +80,10 @@ Our graduate certificate in GIS is for students who have already completed a bac
 
 For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) or see the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
 
+## Graduate Programs in Geography and Urban Studies
+
+- [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
+- [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
+- [Professional Science Master’s in Geographic Information Systems](#psm-in-gis) (PSM in GIS)
+- [Graduate Certificate in Geographic Information Systems](#graduate-certificate-in-gis) (GIS)
 
