@@ -37,11 +37,9 @@ sidebar-content: |
 ---
 
 ### Earn an MA or PhD in Geography and Urban Studies
-
 The challenges and opportunities that face cities and metropolitan regions are central to the well-being of billions of people around the globe. Our MA and PhD programs focus on the themes of globalization, sustainability and social justice, three areas that increasingly are central to understanding such challenges and opportunities. Our professional science master's in GIS focuses on our fourth theme of geographic methods as well as professional development. We also offer a graduate certificate in GIS for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework.
 
 ## PhD in Geography and Urban Studies
-
 The complexity and pace of economic, environmental and social change require that students are trained in interdisciplinary and spatially integrative analytical frameworks and specialized skills to apply to real-world conditions. As an integrative graduate program, the curriculum connects these processes, giving students strong analytical foundation that stresses spatial relations, scale transitions, place and context, and nature-societal relations.
 
 The PhD program admits students holding a bachelor's or master's degree in a related social science. To fulfill the degree requirements, students must complete coursework, pass a comprehensive examination, submit a thesis proposal, and then write and defend that thesis. 
