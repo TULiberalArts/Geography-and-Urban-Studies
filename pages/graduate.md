@@ -58,14 +58,11 @@ Emphasis is placed on the development of research techniques and analytical skil
 [Learn More about the PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ## PSM in GIS
-Our professional science master’s in geographic information systems (PSM in GIS) is a one-year, 30-credit professional degree designed to allow students to enter or return to the work force quickly. This program is open to all students with an interest in GIS who have already completed a bachelor's degree in any field.
+Geographic Information Systems (GIS), is included amongst the 10 most employable skills of 2017 on LinkedIn. Temple University offers a Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS). If you attend full-time, it is possible to complete the program in one year. This allows you to enter or return to the workforce quickly. We produce competitive, skilled GIS technicians who are able to sit for and pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that our program is teaching the skills that employers are seeking. 
 
-Among the top 10 most employable skills of 2017 according to LinkedIn, our curriculum integrates data presentation, mobile development and statistical analysis and data mining. Our curriculum prepares students for the demands of the job market, integrating advanced technical training with business ethics and professional development. Core coursework includes spatial database design, application development, technical cartography, advanced statistics, and ethics and professional practice, culminating in a hands-on capstone experience. The program trains competitive, skilled GIS technicians and prepares students to sit for the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that our program is teaching the skills that employers are seeking.
-
-For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) or see the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
+[Learn More about the PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) 
 
 ## Graduate Certificate in GIS
-
 Our graduate certificate in GIS is for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework. Faculty expertise spans a diverse array of fields, including global urban development, urban ecology and sustainability, health geography and food systems, critical approaches to nature-society relations, and theory and implementation of geographic information technologies. 
 
 -[Learn More on the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
