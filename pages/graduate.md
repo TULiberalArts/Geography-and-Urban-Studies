@@ -65,7 +65,7 @@ Temple University offers a Professional Science Master’s (PSM) degree in Geogr
 ### Graduate Certificate in GIS
 If you've already completed your bachelor's degree, and you'd like to pursue additional coursework in GIS, we offer a Graduate Certificate in GIS. Geographic information is increasingly integrated into the fabric of everyday life, and the explosion of interest in GIS is fueling demand for well-trained professional practictioners. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. If you choose, the certificate complements our Professional Science Master’s in GIS and serves as a gateway into the program. It also complements graduate programs in the College of Liberal Arts and throughout Temple University.
 
--[Learn More on the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+[Learn More About the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ### Academic Advising
 As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department. The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. As a graduate student, you are evaluated in an annual review process, and also at the end-of-the-first-semester to make sure you are making good progress. 
