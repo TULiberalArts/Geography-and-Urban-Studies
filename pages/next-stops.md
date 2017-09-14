@@ -9,6 +9,20 @@ published: true
 
 Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government, and business sectors. Recent graduates have gone to work for consulting firms, planning offices, non-governmental organizations, the corporate sector, government agencies, educational institutions, city governments, the Peace Corps, AmeriCorps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law. 
 
+From Americorps, to Philadelphia city government, to community development, Geography and Urban Studies and Environmental Studies majors find employment in a wide variety of fields, including, but not limited to, the following:
+
+- Community Development
+- State and Local Government
+- Non-Governmental Organizations (NGOs)
+- Non-Profits
+- Geographic Information Systems (GIS)
+- Spatial Analysis
+- Education
+- Outreach
+- Urban Planning
+- Public Service
+- Urban Agriculture
+
 Some Job Titles and Careers Available for GUS and ES Graduates Include:
 
 - Environmental Analyst
