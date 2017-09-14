@@ -68,15 +68,29 @@ If you've already completed your bachelor's degree, and you'd like to pursue add
 -[Learn More on the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ### Academic Advising
-As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department.
+As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department. The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. As a graduate student, you are evaluated in an annual review process, and also at the end-of-the-first-semester to make sure you are making good progress. 
+
+Currently, the department’s Graduate Director is Professor Hamil Pearsall, who can be contacted at hamil.pearsall@temple.edu. 
 
 ### Financial Aid and Scholarships for Graduate School
 Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance.
 
-Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements relating to African American Studies.
+Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements relating to GUS.
 
 [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
-Department of Africology and African American Studies Scholarships
+
+### Admissions Process
+Admission requirements to the MA and PhD programs in Africology and African American Studies follows the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
+
+**Application Deadline:**
+**Fall:** January 15<br>
+**Spring:** October 15   <CHECK THIS>
+
+### Graduate Admissions to Temple University
+
+Are you ready to apply? Submit your application online.
+
+[Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
 ### Graduate Programs in Geography and Urban Studies
 
