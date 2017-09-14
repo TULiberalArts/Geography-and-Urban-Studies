@@ -66,7 +66,6 @@ GIS is anything that combines data with maps. Because it is so widely applicable
 **This certificate is open to students in all majors across all colleges and schools at Temple University**.
 
 ### Independent Study
-
 Independent studies courses allow students the opportunity to work with an individual professor to take on advanced study in the major. Typically students take independent studies as juniors or seniors after they have completed the majority of the requirements for the major. Students need to find a professor who is willing to sponsor the independent study, and most professors will only work with students they know and share some interest. 
 
 ### Academic Advising and Professional Development
