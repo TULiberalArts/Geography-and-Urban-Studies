@@ -57,7 +57,7 @@ We place emphasis on the following issues:
 
 [Learn More about the PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
-## PSM in GIS
+### PSM in GIS
 Temple University offers a Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS). GIS is included amongst the 10 most employable skills of 2017 on LinkedIn, and the U.S. Department of Labor estimates that the geospatial technology market is growing at an annual rate of 35 percent. If you attend full-time, you can complete the program in one year and enter or return to the workforce quickly. We produce competitive, skilled GIS technicians who are able to sit for and pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that we teach the skills employers seek. 
 
 [Learn More about the PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) 
