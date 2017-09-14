@@ -40,7 +40,7 @@ sidebar-content: |
 
 Geography and Urban Studies majors study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. The four research themes associated with the department are Social Justice, Globalization, Sustainability, and Geographic Methods. These are increasingly central issues to understanding and addressing global challenges. Geography and Urban Studies students are introduced to urban processes, spatial relations, geospatial technologies, including GIS, and qualitative and quantitative social science research methods.
 
-If you major in GUS, you will acquire an understanding of the following areas:
+If you major in GUS, you'll acquire an understanding of the following areas:
 
 - How space, place and scale shape the interaction between environment and society
 - Critical thinking skills developed through examining a range of analytical approaches to investigate geographic, urban and environmental processes
@@ -50,25 +50,22 @@ If you major in GUS, you will acquire an understanding of the following areas:
 
 [Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 
-### Double Major with the College of Education
-You may choose to earn a certification in secondary school social studies by combining a major in geography and urban studies with a major in social studies education. Students may also earn certification through a GUS major and education minor following the 5-year BA/MA program.
-
 ## Minor in Geography and Urban Studies
 Any student enrolled at Temple University may minor in Geographic and Urban Studies to complement their main course of study. The 18-credit minor requires students to take one gateway course and five electives.
 
 [Learn More about Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 
+### Double Major with the College of Education
+You may choose to earn a certification in secondary school social studies by combining a major in geography and urban studies with a major in social studies education. Students may also earn certification through a GUS major and education minor following the 5-year BA/MA program.
+
 ## Undergraduate Certificate in Geographic Information Systems
 Geographic information has become one of the lynchpins of the Information Age. The [undergraduate certificate in GIS](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations.
 
-### What is Geographic Information Systems (GIS)?
-GIS is anything that combines data with maps. Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor and employers are seeking candidates trained in geospatial technologies. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next ten years.
-
-Training in GIS will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies and non-profit organizations. A variety of industries hire people with this important skill set, including public health, the environment, business, technology, city planning, education, design, criminal justice, sociology, communications, journalism and engineering.
-
 **This certificate is open to students in all majors across all colleges and schools at Temple University**.
 
-Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu](mailto:guses@temple.edu).
+### Independent Study
+
+Independent studies courses allow students the opportunity to work with an individual professor to take on advanced study in the major. Typically students take independent studies as juniors or seniors after they have completed the majority of the requirements for the major. Students need to find a professor who is willing to sponsor the independent study, and most professors will only work with students they know and share some interest. 
 
 ### Academic Advising and Professional Development
 Our award-winning advising staff helps students take full advantage of the College of Liberal Art’s flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. In addition, we can help you adjust to life on campus and in Philadelphia. 
@@ -99,5 +96,3 @@ Are you ready to apply? Submit your online application at admissions.temple.edu/
 - [Major in Geography and Urban Studies](#major)
 - [Minor in Geography and Urban Studies](#minor)
 - [Undergraduate Certificate in Geographic Information Systems](#undergraduate-certificate-in-geographic-information-systems)(GIS)
-
-
