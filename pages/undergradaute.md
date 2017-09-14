@@ -40,14 +40,6 @@ sidebar-content: |
 
 Geography and Urban Studies majors study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. The four research themes associated with the department are Social Justice, Globalization, Sustainability, and Geographic Methods. These are increasingly central issues to understanding and addressing global challenges. Geography and Urban Studies students are introduced to urban processes, spatial relations, geospatial technologies, including GIS. In addition, you'll learn qualitative and quantitative social science research methods.
 
-If you major in GUS, you'll acquire an understanding of the following areas:
-
-- How space, place and scale shape the interaction between environment and society
-- Critical thinking skills developed through examining a range of analytical approaches to investigate geographic, urban and environmental processes
-- Contemporary explanatory frameworks in both geography and urban studies such as political ecology, feminist and poststructuralist theory, and development theory
-- The application of information technology skills such as geographic information systems (GIS) and spatial statistics to analyze spatial and temporal information, processes and patterns through integrative research experiences
-- Practical considerations of community and environmental organizational settings at the local and regional scales.
-
 [Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 
 ## Minor in Geography and Urban Studies
