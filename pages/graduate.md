@@ -49,7 +49,7 @@ Graduate students in Geography and Urban Studies emphasize research in environme
 ### PhD in Geography and Urban Studies
 Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also are prepared for employment outside of academia, including NGOs and think tanks that deal with relevant issues. Our faculty members hold doctoral degrees in a half dozen different social sciences. Beyond the interdisciplinary expertise of the Department of Geography and Urban Studies, our program draws on the expertise of faculty in related programs across Temple University. 
 
-Emphasis is placed on the development of research techniques and analytical skills applicable to problem solving. We place emphasis on the following issues:
+We place emphasis on the following issues:
 
 - **Globalization:** Capital and labor flows, welfare state restructuring, identity, culture and concepts of citizenship.
 - **Social Justice:** Increasing inequalities in terms of economics, gender and inequalities.
@@ -62,14 +62,23 @@ Temple University offers a Professional Science Master’s (PSM) degree in Geogr
 
 [Learn More about the PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) 
 
-## Graduate Certificate in GIS
+### Graduate Certificate in GIS
 If you've already completed your bachelor's degree, and you'd like to pursue additional coursework in GIS, we offer a Graduate Certificate in GIS. Geographic information is increasingly integrated into the fabric of everyday life, and the explosion of interest in GIS is fueling demand for well-trained professional practictioners. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. If you choose, the certificate complements our Professional Science Master’s in GIS and serves as a gateway into the program. It also complements graduate programs in the College of Liberal Arts and throughout Temple University.
 
 -[Learn More on the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
+### Academic Advising
+As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department.
 
+### Financial Aid and Scholarships for Graduate School
+Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance.
 
-## Graduate Programs in Geography and Urban Studies
+Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements relating to African American Studies.
+
+[Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
+Department of Africology and African American Studies Scholarships
+
+### Graduate Programs in Geography and Urban Studies
 
 - [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
 - [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
