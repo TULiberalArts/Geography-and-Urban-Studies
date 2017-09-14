@@ -46,7 +46,7 @@ Graduate students in Geography and Urban Studies emphasize research in environme
 
 [Learn More About the MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 
-## PhD in Geography and Urban Studies
+### PhD in Geography and Urban Studies
 Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also are prepared for employment outside of academia, including NGOs and think tanks that deal with relevant issues. Our faculty members hold doctoral degrees in a half dozen different social sciences. Beyond the interdisciplinary expertise of the Department of Geography and Urban Studies, our program draws on the expertise of faculty in related programs across Temple University. 
 
 Emphasis is placed on the development of research techniques and analytical skills applicable to problem solving. We place emphasis on the following issues:
