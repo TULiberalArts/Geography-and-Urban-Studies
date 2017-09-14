@@ -37,14 +37,27 @@ sidebar-content: |
 ---
 
 ### Earn an MA or PhD in Geography and Urban Studies
-The challenges and opportunities that face cities and metropolitan regions are central to the well-being of billions of people around the globe. Our MA and PhD programs focus on the themes of globalization, sustainability and social justice, three areas that increasingly are central to understanding such challenges and opportunities. Our professional science master's in GIS focuses on our fourth theme of geographic methods as well as professional development. We also offer a graduate certificate in GIS for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework.
+Our MA and PhD programs focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. The complexity of human-environment interactions, as well as the interconnectedness of the global economy have fueled a resurgence of geographic theory and methods as a framework for analyzing metropolitan and urban conditions. Temple's graduate programs in GUS draw on our Philadelphia location to provide students with opportunities to engage in public policy and urban research. 
+
+In recent years, members of the department have published a half dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals like the Annals of the Association of American Geographers, Environment and Planning A, and the Journal of Urban Affairs. In addition, our programs have won competitive grants from the World Bank, the Environmental Protection Agency, the United Nations, the National Science Foundation, and more. Graduates of our MA and PhD programs in Geography and Urban Studies 
+
+### Interdisciplinary Study
+Our faculty members hold doctoral degrees in a half dozen different social sciences. Beyond the interdisciplinary expertise of the Department of Geography and Urban Studies, our program draws on the expertise of faculty in related programs across Temple University.  
+
+
+
+
+e MA program encourages (although it does not absolutely require) students to develop familiarity with GIS as a research tool. By bringing together a wide range of geographic data at varying spatial scales for representation and analysis, GIS permits a simultaneous view of the human and environmental dimensions of urbanization. 
+
+
+Our professional science master's in GIS focuses on our fourth theme of geographic methods as well as professional development. We also offer a graduate certificate in GIS for students who have already completed a bachelor’s degree and would like to pursue additional GIS coursework.
 
 ## PhD in Geography and Urban Studies
 The complexity and pace of economic, environmental and social change require that students are trained in interdisciplinary and spatially integrative analytical frameworks and specialized skills to apply to real-world conditions. As an integrative graduate program, the curriculum connects these processes, giving students strong analytical foundation that stresses spatial relations, scale transitions, place and context, and nature-societal relations.
 
 The PhD program admits students holding a bachelor's or master's degree in a related social science. To fulfill the degree requirements, students must complete coursework, pass a comprehensive examination, submit a thesis proposal, and then write and defend that thesis. 
 
-The program draws upon the interdisciplinary expertise of faculty in the Department of Geography and Urban Studies. Students will engage in research and scholarly activity with scholars who are active in helping to build multiple social science disciplines. In recent years, members of the department have published a half dozen books with leading publishers in the field including Oxford University Press, MIT Press, and Wiley and Routledge; contributed articles to leading journals like the Annals of the Association of American Geographers, Environment and Planning A, and the Journal of Urban Affairs, etc., and won competitive grants from the World Bank, the Environmental Protection Agency, the United Nations, the United States Information Agency, The National Science Foundation, the Overseas Development Institute, the Inter-American Foundation, the American Institute of Indian Studies and the Economic Development Agency.
+ Students will engage in research and scholarly activity with scholars who are active in helping to build multiple social science disciplines. 
 
 Graduates of the program with doctorates in geography and urban studies will be able to compete for faculty positions in a range of academic departments—from departments of geography to more interdisciplinary departments and programs (focused on such fields as urban studies, urban planning, environmental studies and development studies). They will also be equipped to seek employment outside of academe. Non-governmental organizations, think tanks, research institutes, service delivery institutions, international development and economic development organizations increasingly conduct independent research and employ graduate degree holders in interdisciplinary areas like urban studies and environmental studies.
 
@@ -54,15 +67,7 @@ For more information about the degree and application requirements, please visit
 
 The MA degree is designed to prepare students for further graduate study as well as professional positions related to urban and economic development, environmental sustainability and social justice, including local and governmental agencies, non-governmental organizations at the local and international scale, community-based and public interest organizations and business.
 
-The complexity of human-environment interactions, as well as the interconnectedness of the global economy, culture and politics, have fueled a resurgence of geographic theory and methods as a framework for analyzing metropolitan and urban conditions. The MA program encourages (although it does not absolutely require) students to develop familiarity with GIS as a research tool. By bringing together a wide range of geographic data at varying spatial scales for representation and analysis, GIS permits a simultaneous view of the human and environmental dimensions of urbanization.
-
 Our faculty excels at theoretical and applied analysis of metropolitan areas within their broader regional, national and global contexts, often using the complex Philadelphia metropolitan region as a laboratory. We draw upon our Philadelphia location to provide students with opportunities to engage in public policy and applied urban and environmental research. Students can use our faculty’s linkages with public agencies, educational institutions, community-based organizations, non-governmental organizations and social movements in our region to deepen their knowledge of urban dynamics.
-
-### Culminating exercise in the MA program
-
-In their final semester, students select a paper that they had previously written for a graduate level course. Students must enroll in GUS 9991, a course in which they work to revise and expand their selected paper. The students meet as a class to facilitate their projects. In the course of writing the master's research paper students gain experience in writing to a professional standard, using the commonly accepted conventions of the field.
-
-For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/) and [MA and PhD Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUSgraduatehandbook2017-2018.pdf).
 
 ## PSM in GIS
 
