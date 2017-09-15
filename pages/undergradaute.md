@@ -37,7 +37,6 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 ### Major in Geography and Urban Studies
-
 Geography and Urban Studies majors study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. The four research themes associated with the department are Social Justice, Globalization, Sustainability, and Geographic Methods. These are increasingly central issues to understanding and addressing global challenges. Geography and Urban Studies students are introduced to urban processes, spatial relations, geospatial technologies, including GIS. In addition, you'll learn qualitative and quantitative social science research methods.
 
 [Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
@@ -68,7 +67,8 @@ Our award-winning advising staff helps students take full advantage of the Colle
 ### Financial Aid and Scholarships
 If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Learn more about getting financial aid at the Student Financial Services. Our department also rewards undergraduate students with outstanding academic records with cash awards. 
 
-[Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
+- [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
+- [Department of Geography and Urban Studies Awards](https://develop.cla.temple.edu/geography-and-urban-studies/resources/)
 
 ### Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. For our part, we provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
@@ -81,8 +81,7 @@ Temple University’s tuition rates vary by school or college, student level, re
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ### Undergraduate Admissions to Temple University
-
-Are you ready to apply? Submit your online application at admissions.temple.edu/apply.
+Are you ready to apply? Submit your [application online](admissions.temple.edu/apply).
 
 ### Curriculum and Academic Requirements
 
