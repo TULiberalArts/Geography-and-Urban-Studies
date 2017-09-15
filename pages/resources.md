@@ -51,16 +51,13 @@ The Future Faculty Fellows (FFF) Program is designed to both attract outstanding
 ### Graduate Organizations
 
 **Association of American Geographers**
-Our MA and PhD programs are affiliated with the Association of American Geographers (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. Currently, the association has more than 10,000 members from over 60 countries. The Annals of the Association of American Geographers and The Professional Geographer are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
+Our MA and PhD programs are affiliated with the Association of American Geographers (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. The Annals of the Association of American Geographers and The Professional Geographer are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
 
 **Urban Affairs Association**
-
-
-
+In addition to the Association of American Geographers, our MA and PhD programs in Geography and Urban Studies are affiliated with the Urban Affairs Association (UAA). The Urban Affairs Association is dedicated to creating interdisciplinary spaces for engaging in intellectual and practical discussions about urban life. UAA holds a conference each spring in an urban center. Recent conferences have taken place in Montréal, Seattle, Baltimore, Chicago, Honolulu, New Orleans, Pittsburgh, San Francisco, San Antonio, Miami and San Diego. 
 
 **Temple University Graduate Students Association**
-
-
+The Temple University Graduate Students Association (TUGSA) is the first and only recognized graduate student employee union in the state of Pennsylvania. In affiliation with the American Federation of Teachers and the AFL-CIO, we work to effect real changes in our jobs, lives, and university. 
 
 ### Graduate Resources
 - [Graduate Handbook](http://www.cla.temple.edu/africanamericanstudies/files/2017/04/AAAS-Grad-Handbook-Revised-2017-18-Final.pdf)
