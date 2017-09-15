@@ -37,9 +37,7 @@ sidebar-content: |
 ---
 
 ### Earn an MA or PhD in Geography and Urban Studies
-Our MA and PhD programs focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. The complexity of human-environment interactions, as well as the interconnectedness of the global economy have fueled a resurgence of geographic theory and methods as a framework for analyzing metropolitan and urban conditions. Temple's graduate programs in GUS draw on our Philadelphia location to provide students with opportunities to engage in public policy and urban research. 
-
-Our faculty members hold doctoral degrees in a half dozen different social sciences. Beyond the interdisciplinary expertise of the Department of Geography and Urban Studies, our program draws on the expertise of faculty in related programs across Temple University. 
+Our MA and PhD programs focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. Temple's graduate programs in GUS draw on our Philadelphia location to provide students with opportunities to engage in public policy and urban research. Our faculty members hold doctoral degrees in a half dozen different social sciences. Beyond the interdisciplinary expertise of the Department of Geography and Urban Studies, our program draws on the expertise of faculty in related programs across Temple University. 
 
 In recent years, members of the department have published a half dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals like the Annals of the Association of American Geographers, Environment and Planning A and the Journal of Urban Affairs. In addition, our programs have won competitive grants from the World Bank, the Environmental Protection Agency, the United Nations, the National Science Foundation, and more. Our programs are affiliated with the Association of American Geographers and the Urban Affairs Association. 
 
@@ -49,7 +47,7 @@ Graduate students in Geography and Urban Studies emphasize research in environme
 [Learn More About the MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 
 ### PhD in Geography and Urban Studies
-We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work outside acedemia in NGOs, private sector firms and think tanks that deal with relevant issues. 
+We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks that deal with relevant issues. 
 
 We place emphasis on the following issues: 
 
