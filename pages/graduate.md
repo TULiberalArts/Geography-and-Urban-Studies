@@ -68,10 +68,12 @@ If you've already completed your bachelor's degree, and you'd like to pursue add
 [Learn More About the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ### Academic Advising
-As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department. The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. As a graduate student, you are evaluated in an annual review process, and also at the end-of-the-first-semester to make sure you are making good progress. Currently, the department’s Graduate Director is Professor Hamil Pearsall, who can be contacted at hamil.pearsall@temple.edu. 
+As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department. The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. As a graduate student, you are evaluated in an annual review process, and also at the end-of-the-first-semester to make sure you are making good progress. Currently, the department’s Graduate Director is Professor Hamil Pearsall, who can be contacted at [hamil.pearsall@temple.edu](mailto:hamil.pearsall@temple.edu). 
 
-### Internships
-We encourage graduate students to apply their skills and knowledge in a credit-bearing internship that makes use of their academic training. Assignments at planning, social service and other agencies, as well as firms that specialize in mapping and geographic data analysis, have helped students secure employment. The internship is complemented by a seminar in which students discuss their experiences. Contact the Internship Coordinator of this department, [[Dr. Max Andrucki](mailto:max.andrucki@temple.edu) for more information. Another resource for internships is the [College of Liberal Arts Center for Internships and Career Development](https://liberalarts.temple.edu/advising/professional-development).
+### Internships and Professional Development
+We work closely with our students to ensure they have a rich experience beyond the classroom, complementing academic work with internships and experiential learning opportunities. We help graduate students find internships at planning, social service agencies and firms that specialize in mapping and geographic data analysis. Internships are complemented by an seminar in which you discuss your experience. Currently, our internship coordinator is [Dr. Max Andrucki](mailto:max.andrucki@temple.edu).
+
+[Learn More](https://liberalarts.temple.edu/advising/professional-development)
 
 ### Funding for Graduate School
 Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance.
