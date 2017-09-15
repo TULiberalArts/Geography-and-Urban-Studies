@@ -36,13 +36,13 @@ sidebar-content: |
    [(215) 204-3386](tel:2152043386)   
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
-## Major in Geography and Urban Studies
+### Major in Geography and Urban Studies
 
 Geography and Urban Studies majors study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. The four research themes associated with the department are Social Justice, Globalization, Sustainability, and Geographic Methods. These are increasingly central issues to understanding and addressing global challenges. Geography and Urban Studies students are introduced to urban processes, spatial relations, geospatial technologies, including GIS. In addition, you'll learn qualitative and quantitative social science research methods.
 
 [Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 
-## Minor in Geography and Urban Studies
+### Minor in Geography and Urban Studies
 Any student enrolled at Temple University may minor in Geographic and Urban Studies to complement their main course of study. The 18-credit minor requires students to take one gateway course and five electives.
 
 [Learn More about Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
@@ -50,7 +50,7 @@ Any student enrolled at Temple University may minor in Geographic and Urban Stud
 ### Double Major with the College of Education
 You may choose to earn a certification in secondary school social studies by combining a major in geography and urban studies with a major in social studies education. Students may also earn certification through a GUS major and education minor following the 5-year BA/MA program.
 
-## Undergraduate Certificate in Geographic Information Systems
+### Undergraduate Certificate in Geographic Information Systems
 GIS is anything that combines data with maps. Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor and employers are seeking candidates trained in geospatial technologies. Geographic information has become one of the lynchpins of the Information Age. A GIS certificate will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies and non-profit organizations. 
 
 [Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
