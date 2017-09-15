@@ -66,7 +66,7 @@ Our award-winning advising staff helps students take full advantage of the Colle
 [Learn More](https://liberalarts.temple.edu/advising)
 
 ### Financial Aid and Scholarships
-If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Learn more about getting financial aid at the Student Financial Services.
+If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Learn more about getting financial aid at the Student Financial Services. Our department also rewards undergraduate students with outstanding academic records with cash awards. 
 
 [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
 
