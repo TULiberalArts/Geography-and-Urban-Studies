@@ -95,7 +95,6 @@ Admission requirements to the MA and PhD programs in Africology and African Amer
 Are you ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
 ### Graduate Programs in Geography and Urban Studies
-
 - [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
 - [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
 - [Professional Science Master’s in Geographic Information Systems](#psm-in-gis) (PSM in GIS)
