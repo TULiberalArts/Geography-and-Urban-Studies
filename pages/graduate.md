@@ -37,7 +37,9 @@ sidebar-content: |
 ---
 
 ### Earn an MA or PhD in Geography and Urban Studies
-Our MA and PhD programs focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. The complexity of human-environment interactions, as well as the interconnectedness of the global economy have fueled a resurgence of geographic theory and methods as a framework for analyzing metropolitan and urban conditions. Temple's graduate programs in GUS draw on our Philadelphia location to provide students with opportunities to engage in public policy and urban research. Our faculty members hold doctoral degrees in a half dozen different social sciences. Beyond the interdisciplinary expertise of the Department of Geography and Urban Studies, our program draws on the expertise of faculty in related programs across Temple University. 
+Our MA and PhD programs focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. The complexity of human-environment interactions, as well as the interconnectedness of the global economy have fueled a resurgence of geographic theory and methods as a framework for analyzing metropolitan and urban conditions. Temple's graduate programs in GUS draw on our Philadelphia location to provide students with opportunities to engage in public policy and urban research. 
+
+Our faculty members hold doctoral degrees in a half dozen different social sciences. Beyond the interdisciplinary expertise of the Department of Geography and Urban Studies, our program draws on the expertise of faculty in related programs across Temple University. 
 
 In recent years, members of the department have published a half dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals like the Annals of the Association of American Geographers, Environment and Planning A and the Journal of Urban Affairs. In addition, our programs have won competitive grants from the World Bank, the Environmental Protection Agency, the United Nations, the National Science Foundation, and more. Our programs are affiliated with the Association of American Geographers and the Urban Affairs Association. 
 
@@ -78,8 +80,8 @@ We work closely with our students to ensure they have a rich experience beyond t
 ### Funding for Graduate School
 Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. We also provide financial support to full-time students doctoral students through a variety of university and departmental teaching and research assistantships, fellowships and awards. Most assistantships and fellowships carry a stipend plus a tuition waiver. 
 
-[Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
-[Department of Geography and Urban Studies Awards](https://develop.cla.temple.edu/geography-and-urban-studies/resources/)
+- [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
+- [Department of Geography and Urban Studies Awards](https://develop.cla.temple.edu/geography-and-urban-studies/resources/)
 
 ### Admissions Process
 Admission requirements to the MA and PhD programs in Africology and African American Studies follows the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
