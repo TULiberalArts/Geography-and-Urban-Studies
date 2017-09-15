@@ -58,7 +58,7 @@ We place emphasis on the following issues:
 [Learn More about the PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ### PSM in GIS
-Temple University offers a Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS). GIS is included amongst the 10 most employable skills of 2017 on LinkedIn, and the U.S. Department of Labor estimates that the geospatial technology market is growing at an annual rate of 35 percent. If you attend full-time, you can complete the program in one year and enter or return to the workforce quickly. We produce competitive, skilled GIS technicians who are able to sit for and pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that we teach the skills employers seek.  
+Temple University offers a Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS). GIS is included amongst the 10 most employable skills of 2017 on LinkedIn, and the U.S. Department of Labor estimates that the geospatial technology market is growing at an annual rate of 35 percent. If you attend full-time, you can complete the program in one year and enter or return to the workforce quickly. We produce competitive, skilled GIS technicians who are able to sit for and pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that we teach the skills employers seek. 
 
 [Learn More about the PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) 
 
@@ -68,16 +68,18 @@ If you've already completed your bachelor's degree, and you'd like to pursue add
 [Learn More About the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ### Academic Advising
-As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department. The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. As a graduate student, you are evaluated in an annual review process, and also at the end-of-the-first-semester to make sure you are making good progress. 
+As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department. The Graduate Director assigns each incoming graduate student to an initial advisor, based on area of interest. As a graduate student, you are evaluated in an annual review process, and also at the end-of-the-first-semester to make sure you are making good progress. Currently, the department’s Graduate Director is Professor Hamil Pearsall, who can be contacted at hamil.pearsall@temple.edu. 
 
-Currently, the department’s Graduate Director is Professor Hamil Pearsall, who can be contacted at hamil.pearsall@temple.edu. 
+### Internships
+We encourage graduate students to apply their skills and knowledge in a credit-bearing internship that makes use of their academic training. Assignments at planning, social service and other agencies, as well as firms that specialize in mapping and geographic data analysis, have helped students secure employment. The internship is complemented by a seminar in which students discuss their experiences. Contact the Internship Coordinator of this department, [[Dr. Max Andrucki](mailto:max.andrucki@temple.edu) for more information. Another resource for internships is the [College of Liberal Arts Center for Internships and Career Development](https://liberalarts.temple.edu/advising/professional-development).
 
-### Financial Aid and Scholarships for Graduate School
+### Funding for Graduate School
 Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance.
 
-Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements relating to GUS.
+We provide financial support to doctoral students through a variety of university and departmental teaching and research assistantships, fellowships and awards. Most assistantships and fellowships carry a stipend plus a tuition waiver. Only full-time students are eligible for these awards. 
 
 [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
+[Department of Geography and Urban Studies Awards](https://develop.cla.temple.edu/geography-and-urban-studies/resources/)
 
 ### Admissions Process
 Admission requirements to the MA and PhD programs in Africology and African American Studies follows the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
@@ -88,9 +90,7 @@ Admission requirements to the MA and PhD programs in Africology and African Amer
 
 ### Graduate Admissions to Temple University
 
-Are you ready to apply? Submit your application online.
-
-[Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+Are you ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
 ### Graduate Programs in Geography and Urban Studies
 
