@@ -40,13 +40,36 @@ The Geography and Urban Studies and Environmental Undergraduate Student Associat
 - [Undergraduate Funding](http://sfs.temple.edu/)
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
-
 ### Graduate Awards
 
 **The Harris Webber Graduate Fellowship**
-The Harris Webber Graduate Fellowship is made possible by the generosity of Temple alumnus Harris Webber (CLA ’65). Established by Mr. Webber, the endowment is supplemented by funds from the College of Liberal Arts to provide financial support for an advanced PhD candidate in Geography and Urban Studies to pursue urban studies research. The founder of Harris Webber Ltd, Mr. Webber 
+The Harris Webber Graduate Fellowship is made possible by the generosity of Temple alumnus Harris Webber (CLA ’65). Established by Mr. Webber, the endowment is supplemented by funds from the College of Liberal Arts to provide financial support for an advanced PhD candidate in Geography and Urban Studies to pursue urban studies research. The founder of Harris Webber Ltd, Mr. Webber is committed to preparing researchers to understand and shape livable, sustainable, socially productive and more equitable metropolitan communities of the future. 
 
-a company involved in the planning, architecture, development and management of retirement communities and health care facilities.  This endowed Fellowship expresses his commitment to the importance of preparing researchers to understand and shape livable, sustainable, socially productive and more equitable metropolitan communities of the future.  That commitment marks his entire professional career as a community planner in many different settings.
+**The Future Faculty Fellows (FFF) Program**
+The Future Faculty Fellows (FFF) Program is designed to both attract outstanding domestic students to Temple University and to diversify the American professoriate. While already a national leader in the training of graduate students from traditionally underrepresented groups, including ethnic minorities and women, Temple University is committed to doing all it can to diversify its graduate population and the professoriate. Candidates are newly admitted domestic graduate students from underrepresented groups in the applicant's discipline who show exceptional leadership and/or have overcome significant obstacles in pursuing an academic career.
+
+### Graduate Organizations
+
+**Association of American Geographers**
+Our MA and PhD programs are affiliated with the Association of American Geographers (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. Currently, the association has more than 10,000 members from over 60 countries. The Annals of the Association of American Geographers and The Professional Geographer are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
+
+**Urban Affairs Association**
+
+
+
+
+**Temple University Graduate Students Association**
+
+
+
+### Graduate Resources
+- [Graduate Handbook](http://www.cla.temple.edu/africanamericanstudies/files/2017/04/AAAS-Grad-Handbook-Revised-2017-18-Final.pdf)
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
+
 
 
 
