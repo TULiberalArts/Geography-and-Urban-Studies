@@ -1,18 +1,18 @@
 ---
-title: Home
-permalink: /
-description: >- 100 or so words
-keywords: '3 or 4 unique for this page'
-layout: home
-published: true
-feature: true
-feature-title: Understand an Urbanizing World
-feature-image: hero_GUS_bg.png
+title: Home  
+permalink: /  
+description: >- 
+keywords: ''
+layout: home  
+published: true  
+feature: true  
+feature-title: Understand an Urbanizing World  
+feature-image: hero_GUS_bg.png  
 feature-body: >-
   Our geography and urban studies program combines interdisciplinary
   coursework,   strong social science skills and technical training to give our
   students the     skills to understand and address issues in globalization,
-  sustainability and     social justice.
+  sustainability and     social justice.  
   
 ---
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. 
