@@ -1,13 +1,13 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: 3 or 4 unique for this page
 permalink: /
+description: >- 100 or so words
+keywords: '3 or 4 unique for this page'
 layout: home
+published: true
 feature: true
 feature-title: Understand an Urbanizing World
 feature-image: hero_GUS_bg.png
-published: true
 feature-body: >-
   Our geography and urban studies program combines interdisciplinary
   coursework,   strong social science skills and technical training to give our
