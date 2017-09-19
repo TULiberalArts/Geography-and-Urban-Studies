@@ -13,6 +13,7 @@ feature-body: >-
   coursework,   strong social science skills and technical training to give our
   students the     skills to understand and address issues in globalization,
   sustainability and     social justice.
+  
 ---
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. 
 
