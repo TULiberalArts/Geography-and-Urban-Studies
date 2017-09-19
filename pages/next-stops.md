@@ -1,8 +1,9 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
+meta-keywords: ''
+description: >-
 published: true
 ---
 ### What Can I do with a degree in Geography and Urban Studies Degree or Environmental Science?
