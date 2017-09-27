@@ -61,7 +61,7 @@ In addition to the Association of American Geographers, our MA and PhD programs 
 The Temple University Graduate Students Association (TUGSA) is the first and only recognized graduate student employee union in the state of Pennsylvania. In affiliation with the American Federation of Teachers and the AFL-CIO, we work to effect real changes in our jobs, lives, and university. 
 
 ### Graduate Resources
-- [Graduate Handbook](http://www.cla.temple.edu/africanamericanstudies/files/2017/04/AAAS-Grad-Handbook-Revised-2017-18-Final.pdf)
+- [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUS-MA-PhD-graduatehandbook2016-2017.pdf)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
