@@ -50,7 +50,7 @@ No matter what you plan on doing with your college education, a minor in geograp
 
 [Learn More about Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 
-### Undergraduate Certificate in Geographic Information Systems
+### Undergraduate Certificate in GIS
 GIS is anything that combines data and maps. Because it is so widely applicable, GIS is a linchpin of the information age. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor and employers seek candidates trained in geospatial technologies. A GIS certificate will give you the skills  to take on advanced research positions in technology-based companies, governmental agencies and non-profit organizations. The GIS certificate is open to students across all colleges and schools at Temple University. 
 
 [Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
