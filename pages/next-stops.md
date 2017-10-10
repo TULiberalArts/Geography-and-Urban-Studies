@@ -44,7 +44,7 @@ To know what Temple is really about, you have to experience it firsthand. Our Ma
 ## Thinking of Transferring?
 Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session. 
 
-[Learn More about Transferring to Temple](temple.edu/transfer](http://temple.edu/transfer)
+[Learn More about Transferring to Temple](temple.edu/transfer)
 
 ## Apply
 Are you ready to apply? [Submit Your Application Online](http://admissions.temple.edu/apply)
