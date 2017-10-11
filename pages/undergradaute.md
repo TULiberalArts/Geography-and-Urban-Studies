@@ -41,7 +41,7 @@ The BA in Geography and Urban Studies focuses on the four themes of globalizatio
 [Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/#text)
 
 ## Teaching Social Studies
-If you plan on becoming a teacher, we offer a double major in cooperation with Temple's [College of Education](http://education.temple.edu/). The double major combines the GUS major with one in social studies education. We also offer an accelerated degree program (4+1) that allows undergraduate majors in geography and urban studies majors the opportunity to [complete both an undergraduate and MEd degree in five years] (http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med). 
+If you plan on becoming a teacher, we offer a double major in cooperation with Temple's [College of Education](http://education.temple.edu/). The double major combines the GUS major with one in social studies education. We also offer an accelerated degree program (4+1) that allows undergraduate majors in geography and urban studies majors the opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med). 
 
 [Learn More about Double Majoring in GUS and Education](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med)
 
