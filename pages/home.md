@@ -1,7 +1,7 @@
 ---
 title: Home  
 permalink: /  
-description: >- 
+description: >-
   Earn a BA, minor, MA or PhD in Geography and Urban Studies in Philadelphia. Our graduates are prepared for jobs in high-growth           industries.
 keywords: 'BA in Geography and Urban Studies, minor in geography and urban studies, MA or PhD in Geography and Urban Studies, GIS certificate'
 layout: home  
@@ -10,35 +10,35 @@ feature: true
 feature-title: Map Your Career
 feature-image: hero_GUS_bg.png  
 feature-body: >-
-Our students land competitive, meaningful jobs upon graduation in high-growth sectors inlcuding the geospatial technology industry.
+  Our students land competitive, meaningful jobs upon graduation in high-growth sectors inlcuding the geospatial technology industry.
 ---
 Welcome to the Department of Geography and Urban Studies. Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students are equipped to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. Through interdisciplinary coursework, the Department of Geography and Urban Studies combines strong social science skills with technical training to teach students to understand and address issues in globalization, sustainability and social justice.
 
 ## Philadelphia is Your Classroom
-While maintaining a global perspective, being a geography and urban studies program in the heart of Philadelphia gives our students an excellent opportunity to take what they learn and apply it outside the classroom. 
+While maintaining a global perspective, being a geography and urban studies program in the heart of Philadelphia gives our students an excellent opportunity to take what they learn and apply it outside the classroom.
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Philadelphia is Your Classroom" 
-    content="Being a geography and urban studies program in the heart of Philadelphia gives our students excellent opportunities to take what they learn and apply it outside the classroom." 
-    image="" 
-    button-link="/geography-and-urban-studies/undergraduate" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Philadelphia is Your Classroom"
+    content="Being a geography and urban studies program in the heart of Philadelphia gives our students excellent opportunities to take what they learn and apply it outside the classroom."
+    image=""
+    button-link="/geography-and-urban-studies/undergraduate"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Work Alongside Faculty" 
-      content="Our highly respected faculty is invested in student success. Students receive unmatched attention through mentorship, extracurricular activities and research opportunities." 
-      image="" 
-      button-link="/geography-and-urban-studies/research" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Work Alongside Faculty"
+      content="Our highly respected faculty is invested in student success. Students receive unmatched attention through mentorship, extracurricular activities and research opportunities."
+      image=""
+      button-link="/geography-and-urban-studies/research"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Map Your Career" 
-        content="Our students land competitive, meaningful jobs upon graduation. The geospatial technology industry alone is growing at an annual rate of almost 35 percent and trained technicians are in high demand." 
-        image="" 
-        button-link="/geography-and-urban-studies/next-stops" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Map Your Career"
+        content="Our students land competitive, meaningful jobs upon graduation. The geospatial technology industry alone is growing at an annual rate of almost 35 percent and trained technicians are in high demand."
+        image=""
+        button-link="/geography-and-urban-studies/next-stops"
         button-text="Learn More" %}
       </div>
 </div>
