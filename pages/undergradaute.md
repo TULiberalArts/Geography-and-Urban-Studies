@@ -36,12 +36,12 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 ## Major in Geography and Urban Studies
-Geography and Urban Studies majors explore the environmental, economic, social and political challenges central to the well-being of billions of people in an urbanizing world. Four research themes associated with the department are social justice, globalization, sustainability and geographic methods. These issues are critical to addressing global challenges. If you study geography and urban studies, you will be introduced to urban processes, spatial relations and geospatial technologies (including GIS). In addition, you'll learn qualitative and quantitative social science research methods. 
+The BA in Geography and Urban Studies focuses on the four themes of globalization, sustainability, social justice and geographic methods that are increasingly central to understanding and addressing global challenges. If you study geography and urban studies at Temple, you will be introduced to urban processes, spatial relations and geospatial technologies (including GIS). In addition, you will learn qualitative and quantitative social science research methods. In required courses and electives, students examine urban issues, the role of political institutions,policy-making and human interactions with the environment. We develop each student's undergraduate program with a departmental advisor - your individual interests are factored into your academic curriculum. We also encourage our students to study abroad and intern to maximize educational and professional opportunities. 
 
 [Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/#text)
 
 ## Teaching Social Studies
-If you plan on becoming a teacher, we offer a double major in cooperation with Temple's College of Education. The double major combines the GUS major with one in social studies education. We also offer an accelerated degree program (4+1) that allows undergraduate majors in geography and urban studies majors the opportunity to [complete their undergraduate and MEd degrees in five years] (http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med). 
+If you plan on becoming a teacher, we offer a double major in cooperation with Temple's [College of Education](http://education.temple.edu/). The double major combines the GUS major with one in social studies education. We also offer an accelerated degree program (4+1) that allows undergraduate majors in geography and urban studies majors the opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med). 
 
 [Learn More about Double Majoring in GUS and Education](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med)
 
@@ -54,9 +54,6 @@ No matter what you plan on doing with your college education, a minor in geograp
 GIS is anything that combines data and maps. Because it is so widely applicable, GIS is a linchpin of the information age. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor and employers seek candidates trained in geospatial technologies. A GIS certificate will give you the skills  to take on advanced research positions in technology-based companies, governmental agencies and non-profit organizations. The GIS certificate is open to students across all colleges and schools at Temple University. 
 
 [Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
-
-## Independent Study
-Independent studies courses allow students to work with an individual professor on advanced study in the GUS major. Typically students take independent studies as juniors or seniors after they have completed the majority of the requirements for the major. You will need to find a professor willing to sponsor the independent study - your best bet is to ask a teacher with whom you share an interest. 
 
 ## Academic Advising and Professional Development
 Our award-winning advising staff helps students take full advantage of the College of Liberal Art’s flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. In addition, we can help you adjust to life on campus and in Philadelphia. 
