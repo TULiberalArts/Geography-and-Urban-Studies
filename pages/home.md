@@ -2,20 +2,19 @@
 title: Home  
 permalink: /  
 description: >- 
-keywords: ''
+keywords: 'Study Geography and Urban Studies at Temple University. We offer both undergraduate and graduate programs.'
 layout: home  
 published: true  
 feature: true  
-feature-title: Understand an Urbanizing World  
+feature-title: Map Your Career
 feature-image: hero_GUS_bg.png  
 feature-body: >-
-  Our geography and urban studies program combines interdisciplinary
-  coursework,   strong social science skills and technical training to give our
-  students the     skills to understand and address issues in globalization,
-  sustainability and     social justice.  
-  
+Our students land competitive, meaningful jobs upon graduation in high-growth sectors inlcuding the geospatial technology industry.
 ---
-Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. 
+Welcome to the Department of Geography and Urban Studies. Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students are equipped to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. Through interdisciplinary coursework, the Department of Geography and Urban Studies combines strong social science skills with technical training to teach students to understand and address issues in globalization, sustainability and social justice.
+
+## Philadelphia is Your Classroom
+While maintaining a global perspective, being a geography and urban studies program in the heart of Philadelphia gives our students an excellent opportunity to take what they learn and apply it outside the classroom. 
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
