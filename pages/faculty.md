@@ -2,8 +2,17 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+<<<<<<< HEAD
+keywords: 'Urban Studies Faculty, Geography Faculty, Environmental Studies Faculty. Temple Faculty'
+=======
+keywords: 'Geography and Urban Studies faculty, Environmental Studies Faculty, Temple Faculty'
+>>>>>>> 3476797c188069e31d84c1d1c8e0f15265c64506
 description: >-
+  Our highly respected faculty is invested in student success. We are experts in Geography and Urban Studies, Environmental Studies and GIS.
 published: true
 ---
-Our faculty members are nationally recognized in their fields and continue to research and publish while teaching both introductory and advanced courses—all the while bringing their cutting edge research into the classroom. See our [research page](/geography-and-urban-studies/research) for more information on specific faculty projects.
+<<<<<<< HEAD
+Our highly respected faculty is invested in student success. We are experts in Geography and Urban Studies, Environmental Studies and GIS.
+=======
+Our highly respected faculty is invested in student success. We are experts in Geography and Urban Studies, Environmental Studies and GIS.
+>>>>>>> 3476797c188069e31d84c1d1c8e0f15265c64506
