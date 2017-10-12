@@ -56,7 +56,7 @@ GIS is anything that combines data and maps. Because it is so widely applicable,
 [Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 
 ## Academic Advising and Professional Development
-Our award-winning advising staff helps students take full advantage of the College of Liberal Art’s flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. In addition, we can help you adjust to life on campus and in Philadelphia. 
+Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
 
 [Learn More about Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
