@@ -1,8 +1,9 @@
 ---
 title: Graduate
 permalink: /graduate/
-description: >-
-keywords: PhD in Geography and Urban Studies, MA in Geography and Urban Studies, Graduate Programs in Geography and Urban Studies'
+keywords: >-
+  PhD in Geography and Urban Studies, MA in Geography and Urban Studies,
+  Graduate Programs in Geography and Urban Studies'
 layout: page
 published: true
 sidebar: true
@@ -38,11 +39,11 @@ sidebar-content: |
 ---
 
 ## Earn an MA or PhD in Geography and Urban Studies
-Our MA and PhD programs in Geography and Urban Studies focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. Philadelphia is an excellent setting that provides graduate students with opportunities to engage first-hand in public policy and urban research. Our faculty members hold doctoral degrees in a half-dozen different social sciences. In addition to our department's faculty expertise, we draw on related programs across Temple University. Our students take advantage of faculty connections to community-based organizations, educational institutions, non-governmental organizations, and public agencies for internships and other professional development opportunities. 
+Our MA and PhD programs in Geography and Urban Studies focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. Philadelphia is an excellent setting that provides graduate students with opportunities to engage first-hand in public policy and urban research. Our faculty members hold doctoral degrees in a half-dozen different social sciences. In addition to our department's faculty expertise, we draw on related programs across Temple University. Our students benefit from faculty connections to community-based organizations, educational institutions, non-governmental organizations, and public agencies for internships and other professional development opportunities. 
 
-In recent years, members of the department have published a half-dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals like the Annals of the Association of American Geographers, Environment and Planning A and the Journal of Urban Affairs. In addition, our programs have won competitive grants from the World Bank, Environmental Protection Agency, United Nations, National Science Foundation and more. We are affiliated and  with the Association of American Geographers and the Urban Affairs Association. 
+In recent years, members of the department have published a half-dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals including the Annals of the Association of American Geographers, _Environment and Planning A_ and the _Journal of Urban Affairs_. In addition, our programs have won competitive grants from the World Bank, Environmental Protection Agency, United Nations, National Science Foundation and more. We are affiliated and  with the [Association of American Geographers](http://www.aag.org/) and the [Urban Affairs Association](http://urbanaffairsassociation.org/). 
 
-### MA in Geography and Urban Studies
+## MA in Geography and Urban Studies
 The MA in Geography and Urban Studies program emphasizes research in environmental issues, gender and race, geographic methods, international development, social and spatial theory and urban development. The MA program prepares students for further graduate study and for careers in academia, community organizing, economic development, environmental management, geographic systems management and planning and public administration. We emphasis research techniques and analytical skills applicable to problem solving throughout the program.
 
 [Learn More about the MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
