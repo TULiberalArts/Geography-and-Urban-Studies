@@ -50,12 +50,6 @@ Graduate students in Geography and Urban Studies emphasize research in environme
 ## PhD in Geography and Urban Studies
 We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks that deal with relevant issues. 
 
-We place emphasis on the following issues: 
-
-- **Globalization:** Capital and labor flows, welfare state restructuring, identity, culture and concepts of citizenship.
-- **Social Justice:** Increasing inequalities in terms of economics, gender and inequalities.
-- **Sustainability:** Urban ecology, environmental justice, land use and sprawled development patterns.
-
 [Learn More about the PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ## PSM in GIS
