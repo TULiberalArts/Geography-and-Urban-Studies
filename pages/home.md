@@ -19,6 +19,9 @@ Welcome to the Department of Geography and Urban Studies. Geography is the study
 - **Social Justice:** Increasing inequalities in terms of economics, gender and inequalities.
 - **Sustainability:** Urban ecology, environmental justice, land use and sprawled development patterns.
 
+## Apply to Temple University
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study Abroad Programs"
