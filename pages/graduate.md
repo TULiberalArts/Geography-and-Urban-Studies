@@ -1,6 +1,8 @@
 ---
 title: Graduate
 permalink: /graduate/
+description: >-
+  Earn an MA, PhD or Graduate Certificate in GIS  at the Department in Geography and Urban Studies at Temple University in Philadelphia.
 keywords: >-
   PhD in Geography and Urban Studies, MA in Geography and Urban Studies,
   Graduate Programs in Geography and Urban Studies'
@@ -13,14 +15,14 @@ sidebar-content: |
    309 Gladfelter Hall  
    [(215) 204-5482](tel:2152045482)  
    [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
-   
+
    ___
-   
+
    **Graduate Chair:**  
    Kevin A. Henry  
    313B Gladfelter Hall    
    [khenry1@temple.edu](mailto:khenry1@temple.edu)  
-   
+
    ___
 
    **Administrator:**  
@@ -28,7 +30,7 @@ sidebar-content: |
    1008A Gladfelter Hall    
    [(215) 204-9209](tel:2152049209)   
    [tuf70408@temple.edu](mailto:tuf70408@temple.edu)   
-   
+
    ___
 
    **Coordinator:**  
@@ -39,9 +41,9 @@ sidebar-content: |
 ---
 
 ## Earn an MA or PhD in Geography and Urban Studies
-Our MA and PhD programs in Geography and Urban Studies focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. Philadelphia is an excellent setting that provides graduate students with opportunities to engage first-hand in public policy and urban research. Our faculty members hold doctoral degrees in a half-dozen different social sciences. In addition to our department's faculty expertise, we draw on related programs across Temple University. Our students benefit from faculty connections to community-based organizations, educational institutions, non-governmental organizations, and public agencies for internships and other professional development opportunities. 
+Our MA and PhD programs in Geography and Urban Studies focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. Philadelphia is an excellent setting that provides graduate students with opportunities to engage first-hand in public policy and urban research. Our faculty members hold doctoral degrees in a half-dozen different social sciences. In addition to our department's faculty expertise, we draw on related programs across Temple University. Our students benefit from faculty connections to community-based organizations, educational institutions, non-governmental organizations, and public agencies for internships and other professional development opportunities.
 
-In recent years, members of the department have published a half-dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals including the Annals of the Association of American Geographers, _Environment and Planning A_ and the _Journal of Urban Affairs_. In addition, our programs have won competitive grants from the World Bank, Environmental Protection Agency, United Nations, National Science Foundation and more. We are affiliated and  with the [Association of American Geographers](http://www.aag.org/) and the [Urban Affairs Association](http://urbanaffairsassociation.org/). 
+In recent years, members of the department have published a half-dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals including the Annals of the Association of American Geographers, _Environment and Planning A_ and the _Journal of Urban Affairs_. In addition, our programs have won competitive grants from the World Bank, Environmental Protection Agency, United Nations, National Science Foundation and more. We are affiliated and  with the [Association of American Geographers](http://www.aag.org/) and the [Urban Affairs Association](http://urbanaffairsassociation.org/).
 
 ## MA in Geography and Urban Studies
 The MA in Geography and Urban Studies program emphasizes research in environmental issues, gender and race, geographic methods, international development, social and spatial theory and urban development. The MA program prepares students for further graduate study and for careers in academia, community organizing, economic development, environmental management, geographic systems management and planning and public administration. We emphasis research techniques and analytical skills applicable to problem solving throughout the program.
@@ -49,14 +51,14 @@ The MA in Geography and Urban Studies program emphasizes research in environment
 [Learn More about the MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 
 ## PhD in Geography and Urban Studies
-The PhD in Geography and Urban Studies program trains doctoral-level students with spatially integrative frameworks and equips them with specialized skills to pursue cutting-edge research and address real-world conditions. The PhD program prepares students for faculty positions in many academic disciplines and to work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. PhD graduates also serve research-oriented organizations that include non-governmental organizations, policy institutes and think tanks as applied researchers and administrators. 
+The PhD in Geography and Urban Studies program trains doctoral-level students with spatially integrative frameworks and equips them with specialized skills to pursue cutting-edge research and address real-world conditions. The PhD program prepares students for faculty positions in many academic disciplines and to work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. PhD graduates also serve research-oriented organizations that include non-governmental organizations, policy institutes and think tanks as applied researchers and administrators.
 
 [Learn More about the PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ## PSM in GIS
-[GIS is one of the 10 most employable skills of 2017 on LinkedIn](https://www.weforum.org/agenda/2016/10/2017s-most-in-demand-skills-according-to-linkedin?utm_content=buffer23af8&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer), and the [U.S. Department of Labor estimates that the geospatial technology market is growing at an annual rate of 35 percent](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm). Full-time students can complete our Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS) in as soon as a year. This means you can return or enter the workforce quickly. We produce competitive and skilled GIS technicians who easily pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field ensures that we teach the skills employers seek. 
+[GIS is one of the 10 most employable skills of 2017 on LinkedIn](https://www.weforum.org/agenda/2016/10/2017s-most-in-demand-skills-according-to-linkedin?utm_content=buffer23af8&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer), and the [U.S. Department of Labor estimates that the geospatial technology market is growing at an annual rate of 35 percent](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm). Full-time students can complete our Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS) in as soon as a year. This means you can return or enter the workforce quickly. We produce competitive and skilled GIS technicians who easily pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field ensures that we teach the skills employers seek.
 
-[Learn More about the PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) 
+[Learn More about the PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 
 ## Graduate Certificate in GIS
 We offer a Graduate Certificate for students who already have a BA and want to pursue additional coursework in GIS. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. The certificate complements our Professional Science Master’s in GIS and serves as a gateway into the program. It also augments graduate programs in the College of Liberal Arts and throughout Temple University.
@@ -81,7 +83,7 @@ Admission requirements to the MA and PhD programs in Geography and Urban Studies
 ## Graduate Admissions to Temple University
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
-### Graduate Programs in Geography and Urban Studies
+## Graduate Programs in Geography and Urban Studies
 - [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
 - [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
 - [Professional Science Master’s in Geographic Information Systems](#psm-in-gis)
