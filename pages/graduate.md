@@ -2,10 +2,9 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn an MA, PhD or Graduate Certificate in GIS  at the Department in Geography and Urban Studies at Temple University in Philadelphia.
+  Earn an MA, PhD or Graduate Certificate in GIS at the Department in Geography and Urban Studies at Temple University in Philadelphia.
 keywords: >-
-  PhD in Geography and Urban Studies, MA in Geography and Urban Studies,
-  Graduate Programs in Geography and Urban Studies'
+  PhD in Geography and Urban Studies, MA in Geography and Urban Studies, Graduate Programs in Geography and Urban Studies'
 layout: page
 published: true
 sidebar: true
