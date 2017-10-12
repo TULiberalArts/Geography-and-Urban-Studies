@@ -61,7 +61,7 @@ Our award-winning advising staff helps students take full advantage of the Colle
 [Learn More about Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore all available funding and apply early to make your college education an affordable experience.
 
 [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
 
