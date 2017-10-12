@@ -13,9 +13,7 @@ feature-body: >-
   Our students land competitive, meaningful jobs upon graduation in high-growth sectors including the geospatial technology industry.
 ---
 ## Philadelphia is Your Classroom
-Welcome to the Department of Geography and Urban Studies. Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students are equipped to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. 
-
-Combining strong social science skills with technical training, the Department of Geography and Urban Studies works to understand and address issues relating to
+Welcome to the Department of Geography and Urban Studies. Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students are equipped to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. Combining strong social science skills with technical training, the Department of Geography and Urban Studies works to understand and address issues relating to
 
 - **Globalization:** Capital and labor flows, welfare state restructuring, identity, culture and concepts of citizenship.
 - **Social Justice:** Increasing inequalities in terms of economics, gender and inequalities.
