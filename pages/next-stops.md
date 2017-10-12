@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 ## What Can I do with a Degree in Geography and Urban Studies Degree?
-Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government, and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law. 
+Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law. 
 
 Geography and Urban Studies and Environmental Studies graduates have job titles that include
 
@@ -37,7 +37,7 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 [Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/)
 
 ## Visit Us!
-To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. If you would like to experience the College of Liberal Arts firsthand, get in touch with us.
+To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. If you would like to experience the [College of Liberal Arts](https://liberalarts.temple.edu/) firsthand, get in touch with us.
 
 [Arrange a Visit](http://admissions.temple.edu/visit)
 
