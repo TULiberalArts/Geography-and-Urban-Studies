@@ -64,7 +64,7 @@ We offer a Graduate Certificate for students who already have a BA and want to p
 [Learn More about the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Funding for Graduate School
-At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available opportunities and apply early to make your education an affordable experience.
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available funding and apply early to make your college education an affordable experience.
 
 Financial aid is awarded on PhD students  on academic merit. The department nominates our strongest candidates for Graduate School Fellowships, and offers a limited amount of TA-ships. Students from underrepresented groups may also be nominated for Future Faculty Fellowships. Due to limited resources, the department is not able to provide funding to all students, although the majority receive some funding eventually. MA students are not eligible for financial aid from the department.
 
