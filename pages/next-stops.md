@@ -1,11 +1,14 @@
 ---
 title: Next Stops
 permalink: /next-stops/
+description: >-
+  Careers for Geography and Urban Studies majors include working for city planning agencies, NGOs and firms that specialize in mapping and GIS software.
+keywords: 'urban studies majors, careers in urban studies, GIS jobs, jobs for environmental science majors'
 layout: page
 published: true
 ---
 ## What Can I do with a Degree in Geography and Urban Studies Degree?
-Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law. 
+Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law.
 
 Geography and Urban Studies and Environmental Studies graduates have job titles that include
 
@@ -42,7 +45,7 @@ To know what Temple is really about, you have to experience it firsthand. Our Ma
 [Arrange a Visit](http://admissions.temple.edu/visit)
 
 ## Thinking of Transferring?
-Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session. 
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
 
 [Learn More about Transferring to Temple](temple.edu/transfer)
 
