@@ -60,14 +60,14 @@ GIS is one of the 10 most employable skills of 2017 on LinkedIn, and the U.S. De
 ## Graduate Certificate in GIS
 We offer a Graduate Certificate for students who already have a BA and want to pursue additional coursework in GIS. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. The certificate complements our Professional Science Master’s in GIS and serves as a gateway into the program. It also augments graduate programs in the College of Liberal Arts and throughout Temple University.
 
-[Learn More About the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+[Learn More about the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Funding for Graduate School
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available opportunities and apply early to make your education an affordable experience.
 
 Financial aid is awarded on PhD students  on an academic merit. The department nominates our strongest candidates for Graduate School Fellowships, and offers a limited amount of TA-ships. Students from underrepresented groups may also be nominated for Future Faculty Fellowships. Due to limited resources, the department is not able to provide funding to all students, although the majority receive some funding eventually. MA students are not eligible for financial aid from the department.
 
-- [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
+- [Learn More about Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
 - [Department of Geography and Urban Studies Awards](/geography-and-urban-studies/research)
 
 ## Admissions Process
