@@ -2,7 +2,7 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-keywords: ''
+keywords: PhD in Geography and Urban Studies, MA in Geography and Urban Studies, Graduate Programs in Geography and Urban Studies'
 layout: page
 published: true
 sidebar: true
