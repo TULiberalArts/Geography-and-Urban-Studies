@@ -10,8 +10,7 @@ keywords: >-
 layout: page
 published: true
 ---
-## Geography and Urban Studies Scholarships
-
+## Department of Geography and Urban Studies Scholarships
 **Carolyn Adams Award in Geography and Urban Studies**
 Funded by contributions from Temple alumni/ae, the Carolyn Adams Award recognizes the service of Dr. Carolyn Adams who returned to teaching in the Department of Geography and Urban Studies after serving seven years as Dean of Temple’s College of Liberal Arts. The cash award is awarded to a graduating senior with demonstrated scholarly excellence and a commitment to studying and addressing urban trends and challenges.
 
@@ -36,10 +35,10 @@ The Harris Webber Graduate Fellowship is made possible by the generosity of Temp
 ## Student Organizations
 
 **Gamma Theta Upsilon**
-Membership in the Honorary Society in Geography is available to majors selected on the basis of GPA. Initiations are held each year and student members can submit articles to the GYU journal and apply for scholarships.
+We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
 
-**Majors’ Association**
-The Geography and Urban Studies and Environmental Undergraduate Student Association is designed to create a space for students in both majors to meet and discuss topics of interest, go on trips around Philadelphia and host events for their fellow students. Members of either major or minor as well as any students from any department with related interests are welcome to join. To join the mailing list, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
+**Geography & Urban Studies/Environmental Studies Student Association**
+Not just for GUS/ES students, the [GUS/ES Undergraduate Student Association](https://sustainability.temple.edu/get-involved/students-get-involved-page/geography-urban-studies-environmental-studies-student) focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability, and social justice through guest speakers and group outings.For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
 
 **Temple University Graduate Students Association**
 The Temple University Graduate Students Association (TUGSA) is the first and only recognized graduate student employee union in the state of Pennsylvania. In affiliation with the American Federation of Teachers and the AFL-CIO, we work to effect real changes in our jobs, lives and university.
