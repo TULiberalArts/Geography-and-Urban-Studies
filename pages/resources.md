@@ -35,7 +35,6 @@ The Environmental Studies Award is given to a graduating student who excels acad
 The Harris Webber Graduate Fellowship is made possible by the generosity of Temple alumnus Harris Webber (CLA ’65). Established by Mr. Webber, the endowment is supplemented by funds from the College of Liberal Arts to provide financial support for an advanced PhD candidate in Geography and Urban Studies to pursue urban studies research. The founder of Harris Webber Ltd, Mr. Webber is committed to preparing researchers to understand and shape livable, sustainable, socially productive and more equitable metropolitan communities of the future.
 
 ## Student Organizations
-
 **Gamma Theta Upsilon**
 We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
 
