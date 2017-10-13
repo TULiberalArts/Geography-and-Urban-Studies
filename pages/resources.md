@@ -11,6 +11,8 @@ layout: page
 published: true
 ---
 ## Department of Geography and Urban Studies Scholarships
+Temple University offers incoming and continuing undergraduate students [numerous scholarship opportunities](https://sfs.temple.edu/node/116) to assist you in financing your education. In addition, each school and college offers scholarships specifically for students enrolled in their programs. In most cases, students must be enrolled full-time and seeking a degree in order to qualify for theses scholarships. 
+
 **Carolyn Adams Award in Geography and Urban Studies**
 Funded by contributions from Temple alumni/ae, the Carolyn Adams Award recognizes the service of Dr. Carolyn Adams who returned to teaching in the Department of Geography and Urban Studies after serving seven years as Dean of Temple’s College of Liberal Arts. The cash award is awarded to a graduating senior with demonstrated scholarly excellence and a commitment to studying and addressing urban trends and challenges.
 
