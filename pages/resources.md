@@ -3,11 +3,12 @@ title: Resources
 permalink: /resources/
 description: >-
   Get help with academic resources, student organizations and scholarships for Geography and Urban Studies students at Temple University.
-keywords: 'Urban Studies scholarships, student organizations at Temple, Association of American Geographers, Urban Affairs Association' 
+keywords: 'Urban Studies scholarships, student organizations at Temple, Association of American Geographers, Urban Affairs Association'
 layout: page
 published: true
 ---
-## Financial Awards
+## Geography and Urban Studies scholarships
+Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
 
 **Carolyn Adams Award in Geography and Urban Studies**
 Funded by contributions from Temple alumni/ae, the Carolyn Adams Award recognizes the service of Dr. Carolyn Adams who returned to teaching in the Department of Geography and Urban Studies after serving seven years as Dean of Temple’s College of Liberal Arts. The cash award is awarded to a graduating senior with demonstrated scholarly excellence and a commitment to studying and addressing urban trends and challenges.
