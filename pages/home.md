@@ -1,16 +1,20 @@
 ---
-title: Home  
-permalink: /  
+title: Home
+permalink: /
 description: >-
-  Earn a BA, minor, MA or PhD in Geography and Urban Studies in Philadelphia. Our graduates are prepared for jobs in high-growth industries.
-keywords: 'BA in Geography and Urban Studies, minor in geography and urban studies, MA or PhD in Geography and Urban Studies, GIS certificate'
-layout: home  
-published: true  
-feature: true  
+  Earn a BA, minor, MA or PhD in Geography and Urban Studies in Philadelphia.
+  Our graduates are prepared for jobs in high-growth industries.
+keywords: >-
+  BA in Geography and Urban Studies, minor in geography and urban studies, MA or
+  PhD in Geography and Urban Studies, GIS certificate
+layout: home
+published: true
+feature: true
 feature-title: Map Your Career
-feature-image: hero_GUS_bg.png  
+feature-image: hero_GUS_bg.png
 feature-body: >-
-  Our students land competitive, meaningful jobs upon graduation in high-growth sectors including the geospatial technology industry.
+  Our students land competitive, meaningful jobs upon graduation in high-growth
+  sectors including the geospatial technology industry.
 ---
 ## Philadelphia is Your Classroom
 Welcome to the Department of Geography and Urban Studies. Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. Our students are equipped to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. Combining strong social science skills with technical training, the Department of Geography and Urban Studies works to understand and address issues relating to
@@ -20,7 +24,7 @@ Welcome to the Department of Geography and Urban Studies. Geography is the study
 - **Sustainability:** Urban ecology, environmental justice, land use and sprawled development patterns.
 
 ## Apply to Temple University
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
