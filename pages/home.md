@@ -2,9 +2,11 @@
 title: Home
 permalink: /
 description: >-
-  Earn a BA, minor, MA or PhD in Geography and Urban Studies in Philadelphia. Our graduates are prepared for jobs in high-growth industries.
+  Earn a BA, minor, MA or PhD in Geography and Urban Studies in Philadelphia.
+  Our graduates are prepared for jobs in high-growth industries.
 keywords: >-
-  BA in Geography and Urban Studies, minor in geography and urban studies, MA or PhD in Geography and Urban Studies, GIS certificate
+  BA in Geography and Urban Studies, minor in geography and urban studies, MA or
+  PhD in Geography and Urban Studies, GIS certificate
 layout: home
 published: true
 feature: true
@@ -23,6 +25,17 @@ Welcome to the Department of Geography and Urban Studies. Geography is the study
 
 ## Apply to Temple University
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply)
+
+## Academic Offerings
+- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
+- [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
+- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+- [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+- [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
