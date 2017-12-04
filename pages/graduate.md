@@ -2,9 +2,11 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn an MA, PhD or Graduate Certificate in GIS at the Department in Geography and Urban Studies at Temple University in Philadelphia.
+  Earn an MA, PhD or Graduate Certificate in GIS at the Department in Geography
+  and Urban Studies at Temple University in Philadelphia.
 keywords: >-
-  PhD in Geography and Urban Studies, MA in Geography and Urban Studies, Graduate Programs in Geography and Urban Studies'
+  PhD in Geography and Urban Studies, MA in Geography and Urban Studies,
+  Graduate Programs in Geography and Urban Studies'
 layout: page
 published: true
 sidebar: true
@@ -73,14 +75,11 @@ Financial aid is awarded on PhD students on academic merit. The department nomin
 - [Department of Geography and Urban Studies Awards](/geography-and-urban-studies/research)
 
 ## Admissions Process
-Admission requirements to the MA and PhD programs in Geography and Urban Studies follow the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
+Please visit the [Geography and Urban Studies Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/geography-and-urban-studies) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 **Application Deadline:**<br>
-**Fall:** January 15 <br>
-**Spring:** October 15 <br>
-
-## Graduate Admissions to Temple University
-Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+- **Fall:** January 15 <br>
+- **Spring:** October 15 <br>
 
 ## Graduate Programs in Geography and Urban Studies
 - [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
