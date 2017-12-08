@@ -7,7 +7,7 @@ description: >-
 keywords: >-
   BA in Geography and Urban Studies, minor in geography and urban studies, MA or
   PhD in Geography and Urban Studies, GIS certificate
-layout: home
+layout: home3
 published: true
 feature: true
 feature-title: Map Your Career
