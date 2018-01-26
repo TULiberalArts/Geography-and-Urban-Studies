@@ -44,6 +44,8 @@ sidebar-content: |
 ## Earn an MA or PhD in Geography and Urban Studies
 Our MA and PhD programs in Geography and Urban Studies focus on the themes of globalization, sustainability and social justice - three central areas to understanding and tackling the real-world conditions of an increasingly urbanized world. Philadelphia is an excellent setting that provides graduate students with opportunities to engage first-hand in public policy and urban research. Our faculty members hold doctoral degrees in a half-dozen different social sciences. In addition to our department's faculty expertise, we draw on related programs across Temple University. Our students benefit from faculty connections to community-based organizations, educational institutions, non-governmental organizations, and public agencies for internships and other professional development opportunities.
 
+Please visit the [Geography and Urban Studies Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/geography-and-urban-studies) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+
 In recent years, members of the department have published a half-dozen books with leading publishers including Oxford University Press, MIT Press, and Wiley and Routledge. We've contributed articles to leading journals including the Annals of the Association of American Geographers, _Environment and Planning A_ and the _Journal of Urban Affairs_. In addition, our programs have won competitive grants from the World Bank, Environmental Protection Agency, United Nations, National Science Foundation and more. We are affiliated and  with the [Association of American Geographers](http://www.aag.org/) and the [Urban Affairs Association](http://urbanaffairsassociation.org/).
 
 ## MA in Geography and Urban Studies
@@ -80,9 +82,3 @@ Please visit the [Geography and Urban Studies Graduate Admissions page](https://
 **Application Deadline:**<br>
 - **Fall:** January 15 <br>
 - **Spring:** October 15 <br>
-
-## Graduate Programs in Geography and Urban Studies
-- [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
-- [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
-- [Professional Science Master’s in Geographic Information Systems](#psm-in-gis)
-- [Graduate Certificate in Geographic Information Systems](#graduate-certificate-in-gis)
