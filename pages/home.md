@@ -34,24 +34,24 @@ We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs com
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="Study Abroad Programs"
-    content="Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. Where will Temple take you?"
+    title="Philadelphia is Your Classroom"
+    content="Being a geography and urban studies program in the heart of Philadelphia gives our students excellent opportunities to take what they learn and apply it outside the classroom."
     image=""
-    button-link="https://studyabroad.temple.edu/"
+    button-link="/geography-and-urban-studies/undergraduate"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Work Alongside Faculty"
-      content="Our highly respected faculty is invested in student success. Students receive unmatched attention through mentorship, extracurricular activities and research opportunities."
+      title="Faculty and Staff Support"
+      content="Our students receive unmatched attention through mentorship, extracurricular activities and research opportunities."
       image=""
-      button-link="/geography-and-urban-studies/research"
+      button-link="/geography-and-urban-studies/faculty"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Map Your Career"
-        content="Our students land competitive, meaningful jobs upon graduation. The geospatial technology industry alone is growing at an annual rate of almost 35 percent and trained technicians are in high demand."
+        title="Invest in Your Future"
+        content="Our students land competitive, meaningful jobs upon graduation."
         image=""
         button-link="/geography-and-urban-studies/next-stops"
         button-text="Learn More" %}
