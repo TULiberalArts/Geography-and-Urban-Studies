@@ -98,3 +98,11 @@ Please visit the [Geography and Urban Studies Graduate Admissions page](https://
 
 **Graduate Certificate in GIS**:
 - There is no application process for the Graduate Certificate in GIS and students may start taking classes in Fall, Spring or Summer. To get started, email [psmgis@temple.edu](mailto:psmgis@temple.edu).
+
+## Graduate Resources
+- [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUS-MA-PhD-graduatehandbook2016-2017.pdf)
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
