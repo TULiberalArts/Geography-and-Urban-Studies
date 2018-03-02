@@ -7,21 +7,17 @@ keywords: 'urban studies majors, careers in urban studies, GIS jobs, jobs for en
 layout: page
 published: true
 ---
-## What Can I do with a Degree in Geography and Urban Studies Degree?
+## What Can I do with a Degree in Geography and Urban Studies?
 Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law.
 
-Geography and Urban Studies and Environmental Studies graduates have job titles that include
+Geography and Urban Studies and Environmental Studies graduateshave pursued careers in:
 
-- Environmental Analyst
-- Land Use Planner
-- City Planner
-- Nonprofit Administrator
-- Public Policy Director
-- Environmental Attorney
-- Sustainability Specialist
-- Environmental Engineer
-- Fish and Wildlife Biologist
-- Urban Agriculture Program Coordinator
+- Environmental Analysis
+- Planning
+- Nonprofit Administration
+- Public Policy 
+- Environmental Law
+- Sustainability 
 
 Recent organizations where our graduates have found employment include
 
