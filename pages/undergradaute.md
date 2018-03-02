@@ -39,22 +39,22 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 ## Major in Geography and Urban Studies
-The BA in Geography and Urban Studies focuses on the four themes of globalization, sustainability, social justice and geographic methods that are increasingly central to understanding and addressing global challenges. If you study geography and urban studies at Temple, you will be introduced to urban processes, spatial relations and geospatial technologies (including GIS). In addition, you will learn qualitative and quantitative social science research methods. In required courses and electives, students examine urban issues, the role of political institutions, policy-making and human interactions with the environment. We develop each student's undergraduate program with a departmental advisor - your individual interests are factored into your academic curriculum. We also encourage our students to study abroad and intern to maximize educational and professional opportunities.
+Geography and Urban Studies majors study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. Geography and Urban Studies students are introduced to urban processes, spatial relations, geospatial technologies, including Geographic Information Systems (GIS) and qualitative research social science research methods, that equip them to solve real-world urban problems and addressing global challenges. 
 
 [Learn More about Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/#text)
+
+## Minor in Geography and Urban Studies
+Any student enrolled at Temple University may minor in Geographic and Urban Studies to complement their main course of study. The 18-credit minor requires students to take one gateway course and five electives.
+
+[Learn More about Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 
 ## Teaching Social Studies
 If you plan on becoming a teacher, we offer a double major in cooperation with Temple's [College of Education](http://education.temple.edu/). The double major combines the GUS major with one in social studies education. We also offer an accelerated degree program (4+1) that allows undergraduate majors in geography and urban studies majors the opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med).
 
 [Learn More about Double Majoring in GUS and Education](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med)
 
-## Minor in Geography and Urban Studies
-No matter what you plan on doing with your college education, a minor in geography and urban studies helps you develop critical thinking, information technology and writing skills. The 18-credit minor requires one gateway course and five electives.
-
-[Learn More about Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
-
 ## Undergraduate Certificate in GIS
-GIS is anything that combines data and maps. Because it is so widely applicable, GIS is a linchpin of the information age. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor and employers seek candidates trained in geospatial technologies. A GIS certificate will give you the skills  to take on advanced research positions in technology-based companies, governmental agencies and non-profit organizations. The GIS certificate is open to students across all colleges and schools at Temple University.
+GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?”  Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the U.S. Department of Labor, growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years. This certificate is open to students in all majors across all colleges and schools at Temple University.
 
 [Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 
@@ -77,6 +77,3 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
-
-## Undergraduate Admissions to Temple University
-Ready to apply? [Submit your application online.](admissions.temple.edu/apply)
