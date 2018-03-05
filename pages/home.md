@@ -51,7 +51,8 @@ We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs com
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Invest in Your Future"
-        content="Our students land competitive, meaningful jobs upon graduation."
+        content="Our students land competitive, meaningful jobs upon graduation. See where a degree in Geography and Urban Studies can
+        take you."
         image=""
         button-link="/geography-and-urban-studies/next-stops"
         button-text="Learn More" %}
