@@ -22,8 +22,8 @@ Geography is the study of the interaction of people, places and the environment.
 We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice.
 
 ## Academic Offerings
-- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
-- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Major in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Minor in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 - [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 - [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
