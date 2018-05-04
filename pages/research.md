@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: ''
+keywords: 'research projects, social justice, globilization, sustainability, geographic methods'
 description: >-
 published: true
 ---
