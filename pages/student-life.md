@@ -3,7 +3,7 @@ title: Student Life
 permalink: /student-life/
 description: >-
   Get help with academic resources, student organizations and scholarships for Geography and Urban Studies students at Temple University.
-keywords: 'Urban Studies scholarships, student organizations at Temple, Association of American Geographers, Urban Affairs Association'
+keywords: 'study abroad, scholarships, student organizations at Temple, Association of American Geographers, Urban Affairs Association'
 layout: page
 published: true
 ---
