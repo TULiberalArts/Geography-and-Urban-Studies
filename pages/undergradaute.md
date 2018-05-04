@@ -3,7 +3,7 @@ title: Undergraduate
 permalink: /undergraduate/
 description: >-
   Major or minor in Geography and Urban Studies at Temple University in Philadelphia. Explore the themes of globalization, sustainability and social justice.
-keywords: 'BA in Geography and Urban Studies, Minor in Geography and Urban Studies, GIS Certificate'
+keywords: 'BA in Geography and Urban Studies, Minor in Geography and Urban Studies, GIS Certificate, advising, fly in four, tuition, resources'
 layout: page
 published: true
 sidebar: true
