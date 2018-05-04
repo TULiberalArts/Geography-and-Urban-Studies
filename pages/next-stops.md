@@ -3,7 +3,7 @@ title: Next Stops
 permalink: /next-stops/
 description: >-
   Careers for Geography and Urban Studies majors include working for city planning agencies, NGOs and firms that specialize in mapping and GIS software.
-keywords: 'urban studies majors, careers in urban studies, GIS jobs, jobs for environmental science majors'
+keywords: 'apply, transfer, visit, careers in urban studies, GIS jobs, jobs for environmental science majors'
 layout: page
 published: true
 ---
