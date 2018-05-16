@@ -7,6 +7,8 @@ keywords: 'study abroad, scholarships, student organizations at Temple, Associat
 layout: page
 published: true
 ---
+Earning your Geography and Urban Studies degree is only part of what you can—and should!—experience at the College of Liberal Arts. Get off campus and [study abroad](#study-abroad), earn an [award or scholarship](#geography-and-urban-studies-awards-and-scholarships) or join one of our [undergraduate student organizations](#student-organizations-for-geography-and-urban-studies-students) or our [graduate student organization](#graduate-professional-organizations-for-geography-and-urban-studies). 
+
 ## Study Abroad
 We encourage our students to study abroad during their undergraduate careerfor one semester, which can be a critical part of undergraduate education either through a Temple or another accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work.We work closely with students to help identify study abroad courses that keep them on track for graduation.
 
