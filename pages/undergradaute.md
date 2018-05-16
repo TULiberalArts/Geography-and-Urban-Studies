@@ -38,6 +38,8 @@ sidebar-content: |
    [(215) 204-3386](tel:2152043386)   
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
+Earn your Geography and Urban Studies degree at the College of Liberal Arts! We offer a [major](#major-in-geography-and-urban-studies), a [minor](#minor-in-geography-and-urban-studies), an [undergraduate certificate](#undergraduate-certificate-in-gis) and a double major incorporating [social studies teaching](#teaching-social-studies). Need help getting started? Come visit our [Academic Advising and Professional Development](#academic-advising-and-professional-development) teams, view your [financial aid and scholarship](#financial-aid-and-scholarships options), explore the [Fly in Four](#fly-in-four) program, calculate your [tuition](#temple-university-tuition) or view additional [resources](#addtional-undergraduate-resources).
+
 ## Major in Geography and Urban Studies
 Geography and Urban Studies majors study a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world. Geography and Urban Studies students are introduced to urban processes, spatial relations, geospatial technologies, including Geographic Information Systems (GIS) and qualitative research social science research methods, that equip them to solve real-world urban problems and addressing global challenges. 
 
