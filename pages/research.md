@@ -6,6 +6,8 @@ keywords: 'research projects, social justice, globilization, sustainability, geo
 description: >-
 published: true
 ---
+The College of Liberal Arts’ Geography and Urban Studies degree professors aren’t just teachers. They’re also researchers, and they encourage their students to contribute to their groundbreaking research. The Department of Geography and Urban Studies’ [research projects](#research-projects) have four focus areas: [social justice](#social-justice), [globalization](#globalization), [sustainability](#sustainability) and [geographic methods](#geographic-methods). A portion of their work is performed at the [Spatial Analytics Lab](#spatial-analytics-lab-salt). Learn more about the department’s [research services](#our-services).
+
 ## Research Projects
 Faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability, and the impact on equity and social justice. These research emphases incorporate a strong analytical foundation of both quantitative and qualitative geographic methods, as well as urban policy.
 
@@ -127,13 +129,11 @@ If you are interested in learning more about our lab research and the services w
 ### Our Services
 
 **Consulting**
-
 - Grant writing (integrating geospatial analysis into objectives and methods)
 - Project-based research consulting
 - GIS project planning and management
 
 **Data Management, Processing and Mapping**
-
 - Geocoding addresses
 - Geodatabase design
 - Geographic data acquisition, conversion/development
@@ -144,7 +144,6 @@ If you are interested in learning more about our lab research and the services w
 - Census data processing
 
 **Analysis**
-
 - Spatial Sampling
 - Spatial modeling
 - Spatial analysis
@@ -153,7 +152,6 @@ If you are interested in learning more about our lab research and the services w
 - Developing area-based measures (e.g., SES, walkability, access to healthy foods)
 
 **Geospatial health analysis**
-
 - Disease mapping
 - Mapping health information
 - Spatial clustering of health events
