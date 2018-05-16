@@ -59,3 +59,4 @@ Ready to apply? [Submit Your Application Online](http://admissions.temple.edu/ap
 ___
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/81065159888167"></script>
+
