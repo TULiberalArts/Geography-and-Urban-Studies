@@ -38,6 +38,8 @@ sidebar-content: |
    [(215) 204-3386](tel:2152043386)   
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
+The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [masters of arts](#ma-in-geography-and-urban-studies) in geography and Urban Studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [professional science masters](#psm-in-gis) in geographic information systems or a [graduate certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
+
 ## Programs of Study
 Our gradutae programs in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methiods including:
 - GIS
