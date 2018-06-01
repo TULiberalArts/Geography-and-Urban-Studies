@@ -1,11 +1,15 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
+published: true
+# meta-data variables
+title: Next Stops
 description: >-
   Careers for Geography and Urban Studies majors include working for city planning agencies, NGOs and firms that specialize in mapping and GIS software.
 keywords: 'apply, transfer, visit, careers in urban studies, GIS jobs, jobs for environmental science majors'
-layout: page
-published: true
+# custom variables
+sidebar: false
 ---
 Working in an environmental role is just one of the many things you can do after earning a Geography and Urban Studies degree from the College of Liberal Arts, so [make your declaration](#make-your-declaration) today! Need more info first? No problem! We’d love to have you come [visit us](#visit-us) on campus before you [apply](#apply). You can also learn about our [application deadlines](#deadlines) and your [transfer](#thinking-of-transferring) options.
 
