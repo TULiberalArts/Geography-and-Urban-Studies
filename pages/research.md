@@ -1,10 +1,14 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: /research/
-layout: page
-keywords: 'research projects, social justice, globilization, sustainability, geographic methods'
-description: >-
 published: true
+# meta-data variables
+title: Research
+description: >-
+keywords: 'research projects, social justice, globilization, sustainability, geographic methods'
+# custom variables
+sidebar: false
 ---
 The College of Liberal Arts’ Geography and Urban Studies degree professors aren’t just teachers. They’re also researchers, and they encourage their students to contribute to their groundbreaking research. The Department of Geography and Urban Studies’ [research projects](#research-projects) have four focus areas: [social justice](#social-justice), [globalization](#globalization), [sustainability](#sustainability) and [geographic methods](#geographic-methods). A portion of their work is performed at the [Spatial Analytics Lab](#spatial-analytics-lab-salt). Learn more about the department’s [research services](#our-services).
 
