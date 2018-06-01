@@ -1,12 +1,16 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
+published: true
+# meta-data variables
+title: Home
 description: >-
   Earn a BA, minor, MA or PhD in Geography and Urban Studies in Philadelphia.
   Our graduates are prepared for jobs in high-growth industries.
 keywords: 'BA, minor, graduate certificate, MA or PhD in Geography and Urban Studies, GIS certificate, academic offerings'
-layout: home3
-published: true
+# custom variables
+sidebar: false
 feature: true
 feature-title: Map Your Career
 feature-image: hero_GUS_bg.png
