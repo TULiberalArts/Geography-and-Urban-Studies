@@ -1,42 +1,16 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 description: >-
   Major or minor in Geography and Urban Studies at Temple University in Philadelphia. Explore the themes of globalization, sustainability and social justice.
 keywords: 'BA in Geography and Urban Studies, Minor in Geography and Urban Studies, GIS Certificate, advising, fly in four, tuition, resources'
-layout: page
-published: true
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Melissa Gilbert  
-   309 Gladfelter Hall  
-   [(215) 204-5482](tel:2152045482)  
-   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)   
-
-   ___
-
-   **Undergraduate Chair:**  
-   Jeremy Mennis  
-   328 Gladfelter Hall    
-   [(215) 204-4748](tel:2152044748)    
-   [jmennis@temple.edu](mailto:jmennis@temple.edu)   
-
-   ___
-
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall    
-   [(215) 204-9209](tel:2152049209)   
-   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)      
-
-   ___
-
-   **Coordinator:**  
-   Julia Falcon  
-   338A Gladfelter Hall    
-   [(215) 204-3386](tel:2152043386)   
-   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Earn your Geography and Urban Studies degree at the College of Liberal Arts! We offer a [major](#major-in-geography-and-urban-studies), a [minor](#minor-in-geography-and-urban-studies), an [undergraduate certificate](#undergraduate-certificate-in-gis) and a double major incorporating [social studies teaching](#teaching-social-studies). Need help getting started? Come visit our [Academic Advising and Professional Development](#academic-advising-and-professional-development) teams, view your [financial aid and scholarship](#financial-aid-and-scholarships options), explore the [Fly in Four](#fly-in-four) program, calculate your [tuition](#temple-university-tuition) or view additional [resources](#addtional-undergraduate-resources).
 
