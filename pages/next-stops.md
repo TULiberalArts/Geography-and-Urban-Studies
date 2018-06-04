@@ -6,7 +6,9 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Careers for Geography and Urban Studies majors include working for city planning agencies, NGOs and firms that specialize in mapping and GIS software.
+  See what careers are possible with a degree in Geography and Urban Studies from the College of Liberal Arts
+  at Temple University. Discover jobs in GIS, urban studies, and environmental science. Visit us, learn about
+  our application deadlines and transfer options, and apply.
 keywords: 'apply, transfer, visit, careers in urban studies, GIS jobs, jobs for environmental science majors'
 # custom variables
 sidebar: false
