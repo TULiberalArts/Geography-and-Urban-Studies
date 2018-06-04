@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Major or minor in Geography and Urban Studies at Temple University in Philadelphia. Explore the themes of globalization, sustainability and social justice.
+  Major, minor, or earn a certificate in Geography and Urban Studies at the College of Liberal Arts. Learn about our GIS Certificate, 
+  and double majoring with social studies teaching at Temple University. Discover advising, fly in four, tuition, and other resources.
 keywords: 'BA in Geography and Urban Studies, Minor in Geography and Urban Studies, GIS Certificate, advising, fly in four, tuition, resources'
 # custom variables
 sidebar: true
