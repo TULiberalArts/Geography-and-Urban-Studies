@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Earn a BA, minor, MA or PhD in Geography and Urban Studies in Philadelphia.
-  Our graduates are prepared for jobs in high-growth industries.
+  Earn your BA, minor, MA, or PhD in Geography and Urban Studies at Temple University. View our academic 
+  offerings and explore the interaction of people, places, and environment at the College of Liberal Arts.
 keywords: 'BA, minor, graduate certificate, MA or PhD in Geography and Urban Studies, GIS certificate, academic offerings'
 # custom variables
 sidebar: false
