@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Get help with academic resources, student organizations and scholarships for Geography and Urban Studies students at Temple University.
+  Explore study abroad options, scholarship and award opportunities, and undergraduate and graduate student organizations such 
+  as Association of American Geographers, and the Urban Affairs Association at Temple University’s College of Liberal Arts.
 keywords: 'study abroad, scholarships, student organizations at Temple, Association of American Geographers, Urban Affairs Association'
 # custom variables
 sidebar: false
