@@ -17,7 +17,7 @@ Earning your Geography and Urban Studies degree is only part of what you can—a
 ## Study Abroad
 We encourage our students to study abroad during their undergraduate careerfor one semester, which can be a critical part of undergraduate education either through a Temple or another accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work.We work closely with students to help identify study abroad courses that keep them on track for graduation.
 
-[Learn More about our Study Abroad Programs]()
+[Learn More about our Study Abroad Programs](https://studyabroad.temple.edu/)
 
 ## Geography and Urban Studies Awards and Scholarships
 Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including Environmental Studies majors) who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
@@ -29,7 +29,7 @@ For a complete list of departmental and college level awards and scholarships yo
 We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
 
 **Geography & Urban Studies/Environmental Studies Student Association**
-Not just for GUS/ES students, the [GUS/ES Undergraduate Student Association](https://sustainability.temple.edu/get-involved/students-get-involved-page/geography-urban-studies-environmental-studies-student) focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability, and social justice through guest speakers and group outings.For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
+Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability and social justice through guest speakers and group outings. For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
 
 ## Graduate Professional Organizations for Geography and Urban Studies
 **Association of American Geographers**
