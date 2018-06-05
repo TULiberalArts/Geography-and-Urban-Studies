@@ -35,6 +35,9 @@ We offer two 4+1 programs, allowing students to start pursuing a graduate degree
 
 The 4+1 allows students to begin pursuing a graduate degree in a high-growth area during their undergraduate career, reducing the time to completion and cost of the graduate programs.
 
+- BA/BS and Professional Science Master’s in GIS<br>
+- BA/BS and MA in Geography and Urban Studies<br>
+
 Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
 
 ## Teaching Social Studies
