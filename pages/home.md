@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Earn your BA, minor, MA, or PhD in Geography and Urban Studies at Temple University. View our academic 
+  Earn your BA, minor, MA, or PhD in Geography and Urban Studies at Temple University. View our academic
   offerings and explore the interaction of people, places, and environment at the College of Liberal Arts.
 keywords: 'BA, minor, graduate certificate, MA or PhD in Geography and Urban Studies, GIS certificate, academic offerings'
 # custom variables
@@ -22,7 +22,8 @@ feature-body: >-
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. How do different processes, from poverty to environmental quality, vary across urban spaces? How is place important to communities and the people that live in them? How do global processes impact cities, neighborhoods and residents? Our programs focus on teaching and research for social change using a range of geographic methods.
 
 We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice. . Our students land competitive, meaningful jobs upon graduation in non-profit, government and private sectors.
-<div align="center"><iframe width="800" height="400" src="https://youtu.be/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+<div align="center"><iframe width="800" height="400" src="https://www.youtu.be/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
