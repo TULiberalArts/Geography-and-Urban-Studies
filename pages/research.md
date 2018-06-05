@@ -22,7 +22,7 @@ Sponsored research projects in the department are funded by a variety of federal
 ## Focus Areas
 Our work is theoretically informed and empirically grounded research in metropolitan and rural settings (US and international), seeking to understand interdisciplinary and integrative analyses of complex urban processes and problems. Our faculty has expertise in a range of research method including qualitative methods, remote sensing, GIS, spatial statistics and program evaluation.
 
-Our specific research foci include four main areas.
+Our specific research foci include four main areas:
 - Social Justice
 - Globalization
 - Sustainability
