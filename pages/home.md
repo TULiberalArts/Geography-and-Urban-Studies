@@ -22,7 +22,7 @@ feature-body: >-
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. How do different processes, from poverty to environmental quality, vary across urban spaces? How is place important to communities and the people that live in them? How do global processes impact cities, neighborhoods and residents? Our programs focus on teaching and research for social change using a range of geographic methods.
 
 We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice. . Our students land competitive, meaningful jobs upon graduation in non-profit, government and private sectors.
-<iframe width="800" height="400" src="https://www.youtube.com/embed/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
