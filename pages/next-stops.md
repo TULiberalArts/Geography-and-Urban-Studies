@@ -37,6 +37,51 @@ Recent organizations where our graduates have found employment include
 - Philadelphia Mural Arts Program
 - Philadelphia Committee to End Homelessness
 
+## Notable Alumni
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+
+**_Alumni Spotlight_**
+
+- [Darion Porter](https://liberalarts.temple.edu/news/darion-porter)<br/>
+  Research Assistant with the Public Health Management Corporation<br/>
+  B.A. in Environmental Studies from temple in 2017<br/>
+
+- [Yuan Huang](https://liberalarts.temple.edu/news/alumni-spotlight-yuan-huang)<br/>
+  Assistant Policy Director for the City of Philadelphia Mayor’s Office of Policy<br/>
+  B.A. in Geography and Urban Studies from Temple in 2013<br/>
+  
+- [Linsey Walsh](https://liberalarts.temple.edu/news/alumni-spotlight-linsey-walsh)<br/>
+  Chemical Review Manager at the Environmental Protection Agency in Washington, DC<br/>
+  B.A. in Environmental Studies and Geography and Urban Studies from Temple in 2013<br/>
+  
+- Christian Przybylek<br/>
+  Stewardship Specialist, Lancaster County Conservancy<br/>
+  M.A. in Geography and Urban Studies from Temple in 2016<br/>
+  
+- Charlotte Castle<br/>
+  Vision Zero & Neighborhood Programs Coordinator, City of Philadelphia - Office for Transportation & Infrastructure Systems<br/>
+  M.A. in Geography and Urban Studies from Temple in 2015<br/>
+  
+- [Colleen Hammelman, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-colleen-hammelman)<br/>
+  Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU<br/>
+  PhD in Geography and Urban Studies from Temple in 2016<br/>
+  
+ - [Michael Schwebel, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-michael-schwebel)<br/>
+  Lead Researcher in Ethnographic and Qualitative Studies at LiquidHub<br/>
+  PhD in Geography and Urban Studies from Temple in 2015<br/>
+
+See where some of out additional alumni have landed:
+- Jessica Wyckoff, Philabundance (food) (GUS/ES 2009)<br/>
+- Aaron Fraint, Bicycle Planner & GIS Developer, New York City Department of (GUS/ES 2011)<br/>
+- Will Fraser, Transportation Outreach Coordinator, Clean Air Council (ES, 2016)<br/>
+- Caroline Slama, Associate Director, Preservation Services, Preservation Alliance (GUS, 2016)<br/>
+- Alyssa Geoghan, Assistant Planner, Michael Baker (ES, 2016)<br/>
+- Taylor Magee, Volunteer Services Coordinator, Habitat for Humanity (ES 2017)<br/>
+- Mattingly Cohen, Community Outreach Coordinator, Philadelphia Parks Alliance (GUS 2017)<br/>
+- Charlotte Neal, GIS specialist at APEX Systems (GUS 2018)<br/>
+
+  ___
+
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
