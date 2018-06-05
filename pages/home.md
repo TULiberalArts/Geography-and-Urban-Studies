@@ -22,7 +22,7 @@ feature-body: >-
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. How do different processes, from poverty to environmental quality, vary across urban spaces? How is place important to communities and the people that live in them? How do global processes impact cities, neighborhoods and residents? Our programs focus on teaching and research for social change using a range of geographic methods.
 
 We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice. . Our students land competitive, meaningful jobs upon graduation in non-profit, government and private sectors.
-<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/watch?v=RzkIIPAYRoY&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center"><iframe width="800" height="400" src="https://youtu.be/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Academic Offerings
 - [Major in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
@@ -34,8 +34,8 @@ We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs com
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 - [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
-- 4+1 BA/BS and Professional Science Master’s in Geographic Information Systems
-- 4+1 BA/BS and MA in Geography and Urban Studies
+- [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/undergraduate#accelerated-degree-offerings-4-1/)
+- [4+1 BA/BS and MA in Geography and Urban Studies](/undergraduate#accelerated-degree-offerings-4-1/)
 
 ___
 
