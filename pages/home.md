@@ -22,17 +22,22 @@ feature-body: >-
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. How do different processes, from poverty to environmental quality, vary across urban spaces? How is place important to communities and the people that live in them? How do global processes impact cities, neighborhoods and residents? Our programs focus on teaching and research for social change using a range of geographic methods.
 
 We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice.
+<div align="center"><iframe width="800" height="400" src="https://youtu.be/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Academic Offerings
 - [Major in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Minor in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 - [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
-- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
-- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 - [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+- 4+1 BA/BS and Professional Science Master’s in Geographic Information Systems
+- 4+1 BA/BS and MA in Geography and Urban Studies
+
+___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
