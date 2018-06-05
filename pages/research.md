@@ -38,7 +38,6 @@ Learn more about this grant on the [Bio-Social Blog](https://biosocialblog.wordp
 
 **Integrating Satellite Earth Observations for biodiversity decision making in Colombia [(Victor H. Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**<br>
 **Funding:** [NASA](https://cce.nasa.gov/cgi-bin/bio/pi_list.pl?project_group_id=3863)<br>
-
 The project aims to integrate Earth Observations from multiple satellite sources to contribute with information for decision-making in biodiversity planning and management in Colombia. We are developing a Decision Support System to help characterizing biodiversity status, drivers of biodiversity change, biodiversity change scenarios and priority areas for biodiversity sampling and monitoring.
 
 **Domesticated Elephants and Monsoon-Time Transportation in South and Southeast Asia [(Jacob Shell)](https://liberalarts.temple.edu/academics/faculty/shell-jacob)**<br>
