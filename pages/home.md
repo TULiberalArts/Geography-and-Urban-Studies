@@ -23,7 +23,7 @@ Geography is the study of the interaction of people, places and the environment.
 
 We offer a B.A., M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice. . Our students land competitive, meaningful jobs upon graduation in non-profit, government and private sectors.
 
-<div align="center"><iframe width="800" height="400" src="https://www.youtu.be/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center"><iframe width="800" height="400" src="https://www.youtu.be/embed/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
