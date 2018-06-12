@@ -15,7 +15,7 @@ sidebar: false
 ---
 Working in an environmental role is just one of the many things you can do after earning a Geography and Urban Studies degree from the College of Liberal Arts, so [make your declaration](#make-your-declaration) today! Need more info first? No problem! We’d love to have you come [visit us](#visit-us) on campus before you [apply](#apply). You can also learn about our [application deadlines](#deadlines) and your [transfer](#thinking-of-transferring) options.
 
-## What Can I do with a Degree in Geography and Urban Studies?
+## What Can I Do with a Degree in Geography and Urban Studies?
 Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law.
 
 Geography and Urban Studies and Environmental Studies graduates have pursued careers in:
@@ -44,7 +44,7 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 
 - [Darion Porter](https://liberalarts.temple.edu/news/darion-porter)<br/>
   Research Assistant with the Public Health Management Corporation<br/>
-  B.A. in Environmental Studies from temple in 2017<br/>
+  B.A. in Environmental Studies from Temple in 2017<br/>
 
 - [Yuan Huang](https://liberalarts.temple.edu/news/alumni-spotlight-yuan-huang)<br/>
   Assistant Policy Director for the City of Philadelphia Mayor’s Office of Policy<br/>
