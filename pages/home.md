@@ -36,8 +36,8 @@ ___
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 - [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
-- [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/undergraduate#accelerated-degree-offerings-4-1/)
-- [4+1 BA/BS and MA in Geography and Urban Studies](/undergraduate#accelerated-degree-offerings-4-1/)
+- [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/geography-and-urban-studies/undergraduate#accelerated-degree-offerings-4-1/)
+- [4+1 BA/BS and MA in Geography and Urban Studies](/geography-and-urban-studies/undergraduate#accelerated-degree-offerings-4-1/)
 
 ___
 
