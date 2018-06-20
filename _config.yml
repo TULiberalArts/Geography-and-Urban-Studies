@@ -5,6 +5,8 @@ title: Geography And Urban Studies
 baseurl: /geography-and-urban-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/geography-and-urban-studies
 
 
 # Program Information
