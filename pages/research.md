@@ -15,12 +15,12 @@ sidebar: false
 The College of Liberal Arts’ Geography and Urban Studies degree professors aren’t just teachers. They’re also researchers, and they encourage their students to contribute to their groundbreaking research. The Department of Geography and Urban Studies’ [selected research projects](#selected- research-projects) have four focus areas: [social justice](#focus-areas), [globalization](#focus-areas), [sustainability](#focus-areasy) and [geographic methods](#focus-areas). A portion of their work is performed at the [Spatial Analytics Lab](#spatial-analytics-lab-salt). Learn more about the department’s [research services](#our-services).
 
 ## Research Projects
-Faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability, and the impact on equity and social justice. These research emphases incorporate a strong analytical foundation of both quantitative and qualitative geographic methods, as well as urban policy.
+Faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability and the impact on equity and social justice. These research emphases incorporate a strong analytical foundation of both quantitative and qualitative geographic methods as well as urban policy.
 
-Sponsored research projects in the department are funded by a variety of federal and international agencies and foundations, including the National Science Foundation, the NASA, the National Institutes of Health, The World Bank, and the William Penn Foundation, among others. Through these resources, graduate students play an integral role in sponsored research.
+Sponsored research projects in the department are funded by a variety of federal and international agencies and foundations, including the National Science Foundation, the NASA, the National Institutes of Health, The World Bank and the William Penn Foundation. Through these resources, graduate students play an integral role in sponsored research.
 
 ## Focus Areas
-Our work is theoretically informed and empirically grounded research in metropolitan and rural settings (US and international), seeking to understand interdisciplinary and integrative analyses of complex urban processes and problems. Our faculty has expertise in a range of research method including qualitative methods, remote sensing, GIS, spatial statistics and program evaluation.
+Our work is theoretically informed and empirically grounded research in metropolitan and rural settings (U.S. and international), seeking to understand interdisciplinary and integrative analyses of complex urban processes and problems. Our faculty has expertise in a range of research methodology: qualitative methods, remote sensing, GIS, spatial statistics and program evaluation.
 
 Our specific research foci include four main areas:
 - Social Justice
