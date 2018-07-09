@@ -66,13 +66,13 @@ In this study, we propose to collect survey, real-time location, and ecological 
 ## Spatial Analytics Lab (SAL@T)
 Welcome to the Spatial Analytics Lab at Temple University (SAL@T)
 
-The lab was established in 2012 as a research, education and service based core facility at Temple University for geographic information technologies, spatial data, geographic modeling and mapping.  The principal mission of the lab is to support research and education in geographical information sciences at Temple University and surrounding communities.
+The lab was established in 2012 as a research, education and service-based core facility at Temple University for geographic information technologies, spatial data, geographic modeling and mapping. The principal mission of the lab is to support research and education in geographical information sciences at Temple University and surrounding communities.
 
 The research activities of the lab are sponsored through grants, contracts and programs involving faculty and graduate students from the Department of Geography and Urban Studies. The lab provides a variety of geographic information system (GIS) and spatial analytic services to Temple faculty, as well as to educational institutions, private and non-profit companies, and government agencies.
 
 SAL@T also provides valuable educational experiences for GIS students and internship applications are accepted throughout the year.
 
-If you are interested in learning more about our lab research and the services we offer please contact Charles Kaylor (email: [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A. Henry (email: [Khenry1@temple.edu](mailto:Khenry1@temple.edu); phone 215-204-2961).
+If you are interested in learning more about our lab research and the services we offer please contact Charles Kaylor [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A. Henry [Khenry1@temple.edu](mailto:Khenry1@temple.edu); [215-204-2961](tel:2152042961).
 
 ### Our Services
 
