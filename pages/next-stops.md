@@ -13,10 +13,10 @@ keywords: 'apply, transfer, visit, careers in urban studies, GIS jobs, jobs for 
 # custom variables
 sidebar: false
 ---
-Working in an environmental role is just one of the many things you can do after earning a Geography and Urban Studies degree from the College of Liberal Arts, so [make your declaration](#make-your-declaration) today! Need more info first? No problem! We’d love to have you come [visit us](#visit-us) on campus before you [apply](#apply). You can also learn about our [application deadlines](#deadlines) and your [transfer](#thinking-of-transferring) options.
+[Make your declaration](#make-your-declaration) today! Need more info first? No problem! We’d love to have you come [visit us](#visit-us) on campus before you [apply](#apply). You can also learn about our [application deadlines](#deadlines) and your [transfer](#thinking-of-transferring) options.
 
 ## What Can I Do with a Degree in Geography and Urban Studies?
-Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have continued on to graduate programs in geography, planning and law.
+Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have enrolled in graduate programs in geography, planning and law.
 
 Geography and Urban Studies and Environmental Studies graduates have pursued careers in:
 - Environmental Analysis
@@ -38,7 +38,7 @@ Recent organizations where our graduates have found employment include
 - Philadelphia Committee to End Homelessness
 
 ## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+Many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
 
 **_Alumni Spotlight_**
 
@@ -73,10 +73,7 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 See where some of out additional alumni have landed:
 - Jessica Wyckoff, Philabundance (food) (GUS/ES 2009)<br/>
 - Aaron Fraint, Bicycle Planner & GIS Developer, New York City Department of (GUS/ES 2011)<br/>
-- Will Fraser, Transportation Outreach Coordinator, Clean Air Council (ES, 2016)<br/>
 - Caroline Slama, Associate Director, Preservation Services, Preservation Alliance (GUS, 2016)<br/>
-- Alyssa Geoghan, Assistant Planner, Michael Baker (ES, 2016)<br/>
-- Taylor Magee, Volunteer Services Coordinator, Habitat for Humanity (ES 2017)<br/>
 - Mattingly Cohen, Community Outreach Coordinator, Philadelphia Parks Alliance (GUS 2017)<br/>
 - Charlotte Neal, GIS specialist at APEX Systems (GUS 2018)<br/>
 
