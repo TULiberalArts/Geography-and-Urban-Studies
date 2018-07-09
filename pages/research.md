@@ -72,7 +72,7 @@ The research activities of the lab are sponsored through grants, contracts and p
 
 SAL@T also provides valuable educational experiences for GIS students and internship applications are accepted throughout the year.
 
-If you are interested in learning more about our lab research and the services we offer please contact Charles Kaylor [ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A. Henry [Khenry1@temple.edu](mailto:Khenry1@temple.edu); [215-204-2961](tel:2152042961).
+If you are interested in learning more about our lab research and the services we offer please contact Charles Kaylor ([ckaylor@temple.edu](mailto:ckaylor@temple.edu)) or Kevin A. Henry ([Khenry1@temple.edu](mailto:Khenry1@temple.edu)); [215-204-2961](tel:2152042961).
 
 ### Our Services
 
