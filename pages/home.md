@@ -19,6 +19,8 @@ feature-body: >-
   sectors including the geospatial technology industry.
 ---
 ## Globalization. Social Justice. Sustainability. Geographic Methods.
+Geography and Urban Studies students are equipped with the intellectual and methodological tools necessary to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world.
+
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. How do different processes, from poverty to environmental quality, vary across urban spaces? How is place important to communities and the people that live in them? How do global processes impact cities, neighborhoods and residents? Our programs focus on teaching and research for social change using a range of geographic methods.
 
 We offer a B.A., M.A., and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills, and technical training to prepare our students to address pressing issues in globalization, sustainability, and social justice.  Our students land competitive, meaningful jobs upon graduation in non-profit, government, and private sectors.
@@ -44,7 +46,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Philadelphia is Your Classroom"
-    content="Being a geography and urban studies program in the heart of Philadelphia gives our students excellent opportunities to take what they learn and apply it outside the classroom."
+    content="Our students have excellent opportunities to take what they learn and apply it outside the classroom thanks to our geography and urban studies’ location in the heart of Philadelphia."
     image=""
     button-link="/geography-and-urban-studies/undergraduate"
     button-text="Learn More" %}
