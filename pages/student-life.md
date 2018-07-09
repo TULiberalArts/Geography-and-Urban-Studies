@@ -15,12 +15,12 @@ sidebar: false
 Earning your Geography and Urban Studies degree is only part of what you can—and should!—experience at the College of Liberal Arts. Get off campus and [study abroad](#study-abroad), earn an [award or scholarship](#geography-and-urban-studies-awards-and-scholarships) or join one of our [undergraduate student organizations](#student-organizations-for-geography-and-urban-studies-students) or our [graduate student organization](#graduate-professional-organizations-for-geography-and-urban-studies). 
 
 ## Study Abroad
-We encourage our students to study abroad during their undergraduate career for one semester, which can be a critical part of undergraduate education, either through a Temple program or another accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work. We work closely with students to help identify study abroad courses that keep them on track for graduation.
+We encourage our students to study abroad during their undergraduate career for at least one semester through either Temple University or another accredited university program. Studying abroad is the fastest way to learn a second (or third) language, a critical part of undergraduate education, and it can open the door to future international work. We work closely with students to help identify study abroad programs and courses that keep them on track for graduation.
 
-[Learn More about our Study Abroad Programs](https://studyabroad.temple.edu/)
+Learn More about our [Study Abroad Programs](https://studyabroad.temple.edu/)
 
 ## Geography and Urban Studies Awards and Scholarships
-Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including Environmental Studies majors) who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
+Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including environmental studies majors) who exhibit academic excellence. Scholarships also take demonstrated financial need into account.
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page. 
 
@@ -29,7 +29,7 @@ For a complete list of departmental and college level awards and scholarships yo
 We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
 
 **Geography & Urban Studies/Environmental Studies Student Association**
-Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability and social justice through guest speakers and group outings. For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
+Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies: geographic information systems, urban agriculture, sustainability and social justice through guest speakers and group outings. For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
 
 ## Graduate Professional Organizations for Geography and Urban Studies
 **Association of American Geographers**
