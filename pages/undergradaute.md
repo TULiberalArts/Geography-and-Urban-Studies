@@ -13,7 +13,7 @@ keywords: 'BA in Geography and Urban Studies, Minor in Geography and Urban Studi
 sidebar: true
 sidebar_content: sidebars/undergraduate.html
 ---
-Earn your Geography and Urban Studies degree at the College of Liberal Arts! We offer a [major](#major-in-geography-and-urban-studies), a [minor](#minor-in-geography-and-urban-studies), an [undergraduate certificate](#undergraduate-certificate-in-gis), [accelerated degree](#accelerated-degree-offerings-4-1) offerings and a [double major](#teaching-social-studies) in GUS and Education. Need help getting started? Come visit our [Academic Advising and Professional Development](#academic-advising-and-professional-development) teams, view your [financial aid and scholarship](#financial-aid-and-scholarships options), explore the [Fly in Four](#fly-in-four) program, calculate your [tuition](#temple-university-tuition) or view additional [resources](#addtional-undergraduate-resources).
+Earn your Geography and Urban Studies degree at the College of Liberal Arts! We offer a [major](#major-in-geography-and-urban-studies), a [minor](#minor-in-geography-and-urban-studies), an [undergraduate certificate](#undergraduate-certificate-in-gis), [accelerated degree](#accelerated-degree-offerings-4-1) offerings and a [double major](#teaching-social-studies) in GUS and Education. Need help getting started? Come visit our [Academic Advising and Professional Development](#academic-advising-and-professional-development) teams, view your [financial aid and scholarship](#financial-aid-and-scholarships-options), explore the [Fly in Four](#fly-in-four) program, calculate your [tuition](#temple-university-tuition) or view additional [resources](#addtional-undergraduate-resources).
 
 ## Major in Geography and Urban Studies
 Geography and urban studies majors study a wide range of environmental, economic, social and political challenges central to the well-being of billions of people in an urbanizing world. GUS students are introduced to urban processes, spatial relations, geospatial technologies–including Geographic Information Systems (GIS)–and qualitative social science research methods. These skills prepare students to solve real-world urban problems and address global challenges. 
@@ -45,7 +45,7 @@ The 4+1 program allows students to begin pursuing a graduate degree in a high-gr
 Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
 
 ## Teaching Social Studies
-Planning to become a teacher? You can double-major through Temple’s [College of Education](http://education.temple.edu/). The double-major combines the GUS major with one in social studies education. Undergraduate majors in geography and urban studies majors also have  a 4+1 opportunity to[complete both an undergraduate and MEd degree in five years](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med).
+Planning to become a teacher? You can double-major through Temple’s [College of Education](http://education.temple.edu/). The double-major combines the GUS major with one in social studies education. Undergraduate majors in geography and urban studies majors also have  a 4+1 opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med).
 
 Learn More about [Double Majoring in GUS and Education](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med)
 
