@@ -23,7 +23,7 @@ Geography and urban studies majors study a wide range of environmental, economic
 ## Minor in Geography and Urban Studies
 Any student enrolled at Temple University may minor in geography and urban studies to complement their major. The 18-credit minor requires students take one gateway course and five electives.
 
-[Learn More about Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+Learn More about [Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 
 ## Undergraduate Certificate in GIS
 GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” 
@@ -32,7 +32,7 @@ Because it is so widely applicable, geographic information has become one of the
 
 The geographic information systems certificate is open to students in all majors across all colleges and schools at Temple University.
 
-[Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+Learn More About the [Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 
 ## Accelerated Degree Offerings (4+1)
 The department’s 4+1 programs allow students to start pursuing a graduate degree in their junior or senior year, empowering them to complete their graduate degree in only one additional year. Students may enter the 4+1 program in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed in the year following the completion of their bachelor’s degree. Graduate-level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate.
@@ -62,7 +62,7 @@ At Temple, we believe students from all walks of life should have access to an o
 ## Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time—or Temple will pay for your remaining coursework. Graduating on time means your path to success starts immediately. Temple provides you with the resources you need to get it done, like academic advising and classes available when you need them. Commit to doing what it takes to blaze your career path in four years, and we’ll help you get there.
 
-[Learn How to Fly in Four](http://fly.temple.edu/)
+Learn How to [Fly in Four](http://fly.temple.edu/)
 
 ## Temple University Tuition
 Temple University’s tuition rates vary by school or college, student level, residency and more. Use the student tuition calculator to estimate your tuition rate.
