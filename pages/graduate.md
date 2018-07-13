@@ -67,10 +67,10 @@ Please visit the [Geography and Urban Studies Graduate Admissions page](https://
 - Applications for the MA are reviewed on a rolling basis for fall or spring entry.
 
 **PSM in GIS Application Deadline**:
-- •	Professional science master in GIS applications are reviewed on a rolling basis for fall, spring and summer entry.
+- Professional science master in GIS applications are reviewed on a rolling basis for fall, spring and summer entry.
 
 **Graduate Certificate in GIS**:
-- •	There is no application process for the graduate certificate in GIS, and students may start taking classes in fall, spring or summer. To get started, email [psmgis@temple.edu](mailto:psmgis@temple.edu).
+- There is no application process for the graduate certificate in GIS, and students may start taking classes in fall, spring or summer. To get started, email [psmgis@temple.edu](mailto:psmgis@temple.edu).
 
 ## Graduate Resources
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUS-MA-PhD-graduatehandbook2016-2017.pdf)
