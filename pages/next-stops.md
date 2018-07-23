@@ -71,7 +71,7 @@ Many of our distinguished alumni have gone on to great accomplishments. The stor
   PhD in Geography and Urban Studies from Temple in 2015<br/>
 
 See where some of out additional alumni have landed:
-- Jessica Wyckoff, Philabundance (food) (GUS/ES 2009)<br/>
+- Jessica Wyckoff, Philabundance (GUS/ES 2009)<br/>
 - Aaron Fraint, Bicycle Planner & GIS Developer, New York City Department of (GUS/ES 2011)<br/>
 - Caroline Slama, Associate Director, Preservation Services, Preservation Alliance (GUS, 2016)<br/>
 - Mattingly Cohen, Community Outreach Coordinator, Philadelphia Parks Alliance (GUS 2017)<br/>
