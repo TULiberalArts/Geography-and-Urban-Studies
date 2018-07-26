@@ -12,13 +12,12 @@ keywords: 'BA, minor, graduate certificate, MA or PhD in Geography and Urban Stu
 # custom variables
 sidebar: false
 feature: true
-feature-title: Map Your Career
+feature-title: Globalization. Social Justice. Sustainability. Geographic Methods.
 feature-image: hero_GUS_bg.png
 feature-body: >-
   Our students land competitive, meaningful jobs upon graduation in high-growth
   sectors including the geospatial technology industry.
 ---
-## Globalization. Social Justice. Sustainability. Geographic Methods.
 Geography and Urban Studies students are equipped with the intellectual and methodological tools necessary to understand and address a wide range of environmental, economic, social and political challenges that are central to the well-being of billions of people in an urbanizing world.
 
 Geography is the study of the interaction of people, places and the environment. Urban Studies is the examination of metropolitan life, processes and problems. How do different processes, from poverty to environmental quality, vary across urban spaces? How is place important to communities and the people that live in them? How do global processes impact cities, neighborhoods and residents? Our programs focus on teaching and research for social change using a range of geographic methods.
