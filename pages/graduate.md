@@ -60,7 +60,7 @@ We provide financial support to full-time doctoral students through a variety of
 - Learn More about [Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
 
 ## Admissions Process
-Please visit the [Geography and Urban Studies Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate-admissions) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Geography and Urban Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 **PhD Application Deadline:**<br>
 - **Fall:** January 15 <br>
