@@ -76,6 +76,7 @@ Please visit the [Geography and Urban Studies Graduate Bulletin](http://bulletin
 
 ## Graduate Resources
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUS-MA-PhD-graduatehandbook2016-2017.pdf)
+- [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Handbook%20for%20PSM%20and%20Certificate%20in%20GIS%2020180823%20%281%29.docx)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
