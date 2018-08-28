@@ -10,6 +10,7 @@ description: >-
   offerings and explore the interaction of people, places, and environment at the College of Liberal Arts.
 keywords: 'BA, minor, graduate certificate, MA or PhD in Geography and Urban Studies, GIS certificate, academic offerings'
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
 feature-title: Globalization. Social Justice. Sustainability. Geographic Methods.
