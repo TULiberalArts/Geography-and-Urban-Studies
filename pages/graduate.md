@@ -59,6 +59,13 @@ We provide financial support to full-time doctoral students through a variety of
 
 - Learn More about [Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
 
+## Harris Webber Graduate Fellowship
+The Harris Webber Graduate Fellowship is made possible by the generosity of Temple alumnus Harris Webber (CLA, ’65). The endowment established by Mr. Webber, supplemented by funds from the College of Liberal Arts, provides financial support for an advanced PhD candidate in Geography and Urban Studies to pursue urban research that is applied, requires fieldwork and/or has policy implications.
+
+Mr. Webber is the founder of Harris Webber Ltd, a company involved in the planning, architecture, development and management of retirement communities and health care facilities. This endowed Fellowship expresses his commitment to the importance of preparing researchers to understand and shape livable, sustainable, socially productive and more equitable metropolitan communities of the future.  That commitment marks his entire professional career as a community planner in many different settings.
+
+- See our [past Harris Webber Graduate Fellowship recipients!](https://www.cla.temple.edu/geography-and-urban-studies/student-life/)
+
 ## Admissions Process
 Please visit the [Geography and Urban Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
