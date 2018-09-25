@@ -25,8 +25,8 @@ Awards and scholarships are presented annually to students from the Department o
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page. 
 
 ## Harris Webber Graduate Fellowship Recipients
-- **2016-2017 Sarah Stinard-Kiel and Yoonhee Jung, PhD candidates in Geography and Urban Studies**
 
+- **2016-2017 Sarah Stinard-Kiel and Yoonhee Jung, PhD candidates in Geography and Urban Studies**
 ![Sarah Stinard-Kiel]({{site.baseurl}}/media/Sarah Stinard.jpg){:.responsive-img .img-right}
 Stinard-Kiel’s research will look at a new shift in social services toward ‘trauma-informed care’. She will be looking at how trauma-informed approaches have been gaining traction over the past decade, particularly when it comes to service provisions for youth in disadvantaged urban areas. Her research will examine how practices and discourses around trauma are being deployed by social workers, schools, and government agencies and what kind of broader structural and political impacts they may be having. The research will involve ethnographic fieldwork in Philadelphia and New Orleans to examine how trauma-approaches play out in these two urban contexts. The results of the research will be shared with social service organizations and are likely to impact the future of trauma-informed urban policy.
 
