@@ -24,6 +24,17 @@ Awards and scholarships are presented annually to students from the Department o
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page. 
 
+## Student Organizations for Geography and Urban Studies Students
+**Gamma Theta Upsilon**
+We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
+
+**Geography & Urban Studies/Environmental Studies Student Association**
+Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies: geographic information systems, urban agriculture, sustainability and social justice through guest speakers and group outings. For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
+
+## Graduate Professional Organizations for Geography and Urban Studies
+**Association of American Geographers**
+Our MA and PhD programs are affiliated with the [Association of American Geographers](http://www.aag.org/) (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. The Annals of the Association of American Geographers and The _Professional Geographer_ are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
+
 ## Harris Webber Graduate Fellowship Recipients
 **2016-2017 Sarah Stinard-Kiel and Yoonhee Jung, PhD candidates in Geography and Urban Studies**<br>
 
@@ -46,16 +57,3 @@ Biswas’ research will examine the factors that restrict or enhance Indian wome
 
 ![Colleen Hammelman]({{site.baseurl}}/media/Colleen Hammelman.jpg){:.responsive-img .img-right}
 Hammelman’s research will examine the coping strategies employed by displaced women in Medellin, Columbia and Latina migrant domestic workers in Washington DC in order to better understand both everyday lived experiences of food insecurity in these environments and the influence of structural processes. Her research questions center on connectivity, asking how food insecurity coping strategies carried out by transnational migrants relate to the connectivity fostered by mobility and social networks. Using a mixed methods research design characterized by the qualitative GIS method of sketch-mapping during in-depth interviews, she asks how food insecurity coping strategies relate to neighborhood and city-wide mobility/immobility; how social networks influence food insecurity coping strategies; and how mobility and social networks support or affect each other.
-
-___
-
-## Student Organizations for Geography and Urban Studies Students
-**Gamma Theta Upsilon**
-We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
-
-**Geography & Urban Studies/Environmental Studies Student Association**
-Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies: geographic information systems, urban agriculture, sustainability and social justice through guest speakers and group outings. For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
-
-## Graduate Professional Organizations for Geography and Urban Studies
-**Association of American Geographers**
-Our MA and PhD programs are affiliated with the [Association of American Geographers](http://www.aag.org/) (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. The Annals of the Association of American Geographers and The _Professional Geographer_ are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
