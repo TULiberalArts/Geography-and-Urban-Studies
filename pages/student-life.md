@@ -10,7 +10,7 @@ description: >-
   as Association of American Geographers, and the Urban Affairs Association at Temple University’s College of Liberal Arts.
 keywords: 'study abroad, scholarships, student organizations at Temple, Association of American Geographers, Urban Affairs Association'
 # custom variables
-sidebar: false
+
 ---
 Earning your Geography and Urban Studies degree is only part of what you can—and should!—experience at the College of Liberal Arts. Get off campus and [study abroad](#study-abroad), earn an [award or scholarship](#geography-and-urban-studies-awards-and-scholarships) or join one of our [undergraduate student organizations](#student-organizations-for-geography-and-urban-studies-students) or our [graduate student organization](#graduate-professional-organizations-for-geography-and-urban-studies). 
 

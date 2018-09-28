@@ -11,7 +11,7 @@ description: >-
   our application deadlines and transfer options, and apply.
 keywords: 'apply, transfer, visit, careers in urban studies, GIS jobs, jobs for environmental science majors'
 # custom variables
-sidebar: false
+
 ---
 [Make your declaration](#make-your-declaration) today! Need more info first? No problem! We’d love to have you come [visit us](#visit-us) on campus before you [apply](#apply). You can also learn about our [application deadlines](#deadlines) and your [transfer](#thinking-of-transferring) options.
 

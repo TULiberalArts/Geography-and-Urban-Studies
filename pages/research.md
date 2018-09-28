@@ -10,7 +10,7 @@ description: >-
   in the department of Geography and Urban Studies in the College of Liberal Arts at Temple University.
 keywords: 'research projects, social justice, globilization, sustainability, geographic methods'
 # custom variables
-sidebar: false
+
 ---
 The College of Liberal Arts’ Geography and Urban Studies degree professors aren’t just teachers. They’re also researchers, and they encourage their students to contribute to their groundbreaking research. The Department of Geography and Urban Studies’ [selected research projects](#selected-research-projects) have four focus areas: [social justice](#focus-areas), [globalization](#focus-areas), [sustainability](#focus-areasy) and [geographic methods](#focus-areas). A portion of their work is performed at the [Spatial Analytics Lab](#spatial-analytics-lab-salt). Learn more about the department’s [research services](#our-services).
 

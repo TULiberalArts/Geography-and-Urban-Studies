@@ -10,10 +10,10 @@ description: >-
   the College of Liberal Arts. Learn more about admissions, resources, funding, and graduate programs at Temple University.
 keywords: 'PhD, MA, Graduate Programs, funding, admissions, resources, psm, graduate certificate, GUS, GIS'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
-graduate_students: true
-graduate_students_content: profiles/graduate_students_2.html
+
+sidebar: sidebars/graduate.html
+
+graduate_students: profiles/graduate_students_2.html
 ---
 The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [masters of arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [professional science masters](#psm-in-gis) in geographic information systems or a [graduate certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
 
