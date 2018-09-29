@@ -6,13 +6,11 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Earn a MA or PhD in Geography and Urban Studies, or a PSM or graduate certificate in Geographic Information Systems (GIS) in 
+  Earn a MA or PhD in Geography and Urban Studies, or a PSM or graduate certificate in Geographic Information Systems (GIS) in
   the College of Liberal Arts. Learn more about admissions, resources, funding, and graduate programs at Temple University.
 keywords: 'PhD, MA, Graduate Programs, funding, admissions, resources, psm, graduate certificate, GUS, GIS'
 # custom variables
-
 sidebar: sidebars/graduate.html
-
 graduate_students: profiles/graduate_students_2.html
 ---
 The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [masters of arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [professional science masters](#psm-in-gis) in geographic information systems or a [graduate certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
@@ -41,7 +39,7 @@ We place emphasis on the following issues:
 Learn More about the [PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ## PSM in GIS
-PSM in GIS graduates learn in-demand technical skills: programming, data analysis and visualization, SQL, statistics, design, and project management. Students are also introduced to a wide array of software and analytical problems, making them versatile problem solvers and critical thinkers. Additionally, the  [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) estimates that the geospatial technology market is growing at an annual rate of 35 percent. 
+PSM in GIS graduates learn in-demand technical skills: programming, data analysis and visualization, SQL, statistics, design, and project management. Students are also introduced to a wide array of software and analytical problems, making them versatile problem solvers and critical thinkers. Additionally, the  [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) estimates that the geospatial technology market is growing at an annual rate of 35 percent.
 
 Full-time students can complete our professional science master (PSM) degree in geographic information systems (GIS) in as little as one year. That means you can return to or enter the workforce quickly. Temple produces competitive and skilled GIS analysts prepared to sit for the GISP certification exam. We’re also affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure we teach the skills employers seek.
 
@@ -90,4 +88,4 @@ Please visit the [Geography and Urban Studies Graduate Bulletin](http://bulletin
 
 ___
 
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
