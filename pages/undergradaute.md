@@ -45,7 +45,7 @@ The 4+1 program allows students to begin pursuing a graduate degree in a high-gr
 Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
 
 ## Teaching Social Studies
-Planning to become a teacher? You can double-major through Temple’s [College of Education](http://education.temple.edu/). The double-major combines the GUS major with one in social studies education. Undergraduate majors in geography and urban studies majors also have  a 4+1 opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med).
+Planning to become a teacher? You can double-major through Temple’s [College of Education](http://education.temple.edu/). The double-major combines the GUS major with one in social studies education. Undergraduate majors in geography and urban studies majors also have  a 4+1 opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/).
 
 Learn More about [Double Majoring in GUS and Education](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med)
 
