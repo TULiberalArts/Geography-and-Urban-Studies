@@ -47,7 +47,7 @@ Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
 ## Teaching Social Studies
 Planning to become a teacher? You can double-major through Temple’s [College of Education](http://education.temple.edu/). The double-major combines the GUS major with one in social studies education. Undergraduate majors in geography and urban studies majors also have  a 4+1 opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/).
 
-Learn More about [Double Majoring in GUS and Education](http://education.temple.edu/aod/geography-and-urban-studies-ba-adult-organizational-development-med)
+Learn More about [Double Majoring in GUS and Education](https://education.temple.edu/)
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts'](https://liberalarts.temple.edu/) flexible curriculum with the help of our award-winning advisors. We help you select a major or minor and graduate on time. Our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
