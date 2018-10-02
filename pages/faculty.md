@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
-  Meet our faculty in the Geography and Urban Studies program in the College of Liberal Arts at Temple University. 
+  Meet our faculty in the Geography and Urban Studies program in the College of Liberal Arts at Temple University.
   Check out our research page for specific faculty projects.
 keywords: 'Geography and Urban Studies faculty, Environmental Studies Faculty, Temple Faculty'
 # custom variables
