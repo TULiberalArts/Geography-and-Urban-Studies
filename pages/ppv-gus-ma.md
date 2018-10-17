@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 layout: tla_ppv_page
-permalink: /ma/
+permalink: graduate/ma/
 published: true
 # meta-data variables
 title: Master of Arts in Geography & Urban Studies

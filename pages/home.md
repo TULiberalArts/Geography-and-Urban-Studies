@@ -11,7 +11,6 @@ description: >-
 keywords: 'BA, minor, graduate certificate, MA or PhD in Geography and Urban Studies, GIS certificate, academic offerings'
 # custom variables
 promotion-table: true
-
 feature: true
 feature-title: Globalization. Social Justice. Sustainability. Geographic Methods.
 feature-image: hero_GUS_bg.png
