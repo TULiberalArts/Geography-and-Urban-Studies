@@ -36,6 +36,12 @@ Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focus
 Our MA and PhD programs are affiliated with the [Association of American Geographers](http://www.aag.org/) (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. The Annals of the Association of American Geographers and The _Professional Geographer_ are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
 
 ## Harris Webber Graduate Fellowship Recipients
+**2018-2019 Sarah Heck, PhD Candidate in Geography & Urban Studies**<br>
+
+Heck’s research will examine contemporary water infrastructure redevelopment projects in the St. Louis region where flood mitigation strategies have played a historic role in shaping regional economic development. Her research will examine projects addressing pluvial flooding from aging storm water infrastructure in St. Louis and projects addressing fluvial flooding from overflows on the Mississippi River. Her research questions center on how historic infrastructural projects shape contemporary redevelopment efforts focusing on how uncertainty and risk are calculated in times of changing storm and precipitation patterns leading to increased flood risk from climate change. Using qualitative methodology and archival research, her research aims to explain how historically uneven investments in infrastructure continue to shape water governance policies and projects today. Her research will contribute to scholarly and practical questions that lie at the intersections of infrastructure and equity by evaluating contemporary water infrastructure projects and their implications for social equity and environmental justice.
+
+___
+
 **2016-2017 Sarah Stinard-Kiel and Yoonhee Jung, PhD candidates in Geography and Urban Studies**<br>
 
 ![Sarah Stinard-Kiel]({{site.baseurl}}/media/Sarah Stinard.jpg){:.responsive-img .img-right}
