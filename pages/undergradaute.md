@@ -39,9 +39,10 @@ The department’s 4+1 programs allow students to start pursuing a graduate degr
 
 The 4+1 program allows students to begin pursuing a graduate degree in a high-growth area while still working toward an undergraduate degree, saving them time and money in earning their graduate degree.
 
-- [BA/BS and Professional Science Master’s in GIS](https://liberalarts.temple.edu/professional-science-master-s-geographic-information-systems-psm-gis-41)<br>
-- BA/BS and MA in Geography and Urban Studies<br>
-- BA in Geography and Urban Studies or Environmental Studies and MA in Geography and Urban Studies 
+### B.A. in Geography and Urban Studies or Environmental Studies M.A. in Geography and Urban Studies
+The M.A. in Geography and Urban Studies accelerated degree is open to Geography and Urban Studies and Environmental Studies majors. Students can apply as early as second semester sophomore year for entry their junior year or as late as second semester junior year for entry their senior year.
+
+Learn More about the [BA in Geography and Urban Studies or Environmental Studies and MA in Geography and Urban Studies](https://liberalarts.temple.edu/ba-geography-and-urban-studies-environmental-studies-ma-geography-and-urban-studies-4-1) 
 
 Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
 
