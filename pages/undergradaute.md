@@ -43,6 +43,8 @@ Learn More About the [BA/BS and Professional Science Master's in GIS](https://li
 
 Learn More About the [BA in Geography and Urban Studies or Environmental Studies and MA in Geography and Urban Studies](https://liberalarts.temple.edu/ba-geography-and-urban-studies-environmental-studies-ma-geography-and-urban-studies-4-1)
 
+- Questions? Contact [guses@temple.edu](mailto:guses@temple.edu)
+
 ## Teaching Social Studies
 Planning to become a teacher? You can double-major through Temple’s [College of Education](http://education.temple.edu/). The double-major combines the GUS major with one in social studies education. Undergraduate majors in geography and urban studies majors also have  a 4+1 opportunity to [complete both an undergraduate and MEd degree in five years](http://education.temple.edu/).
 
