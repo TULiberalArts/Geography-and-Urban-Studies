@@ -18,12 +18,12 @@ Earn your Geography and Urban Studies degree at the College of Liberal Arts! We 
 ## Major in Geography and Urban Studies
 Geography and urban studies majors study a wide range of environmental, economic, social and political challenges central to the well-being of billions of people in an urbanizing world. GUS students are introduced to urban processes, spatial relations, geospatial technologies–including Geographic Information Systems (GIS)–and qualitative social science research methods. These skills prepare students to solve real-world urban problems and address global challenges. 
 
-Learn More about [Majoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/#text)
+Learn More about [Majoring in Geography and Urban Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/#text)
 
 ## Minor in Geography and Urban Studies
 Any student enrolled at Temple University may minor in geography and urban studies to complement their major. The 18-credit minor requires students take one gateway course and five electives.
 
-Learn More about [Minoring in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+Learn More about [Minoring in Geography and Urban Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 
 ## Undergraduate Certificate in GIS
 GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” 
@@ -32,7 +32,7 @@ Because it is so widely applicable, geographic information has become one of the
 
 The geographic information systems certificate is open to students in all majors across all colleges and schools at Temple University.
 
-Learn More About the [Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
+Learn More About the [Certificate in Geographic Information Systems](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
 
 ## Accelerated Degree Offerings (4+1)
 The department’s 4+1 programs allow students to start pursuing a graduate degree in their junior or senior year, empowering them to complete their graduate degree in only one additional year. Students may enter the 4+1 program in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed in the year following the completion of their bachelor’s degree. Graduate-level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate.
