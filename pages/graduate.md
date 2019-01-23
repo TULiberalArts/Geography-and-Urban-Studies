@@ -25,7 +25,7 @@ Please visit the [Geography and Urban Studies Graduate Bulletin](https://bulleti
 ## MA in Geography and Urban Studies
 Graduate students in geography and urban studies research environmental issues, gender and race, geographic methods, international development, social and spatial theory, and urban development. The MA degree is designed to prepare students for further graduate study as well as for professional positions related to urban and economic development, environmental sustainability and social justice. MA students have the option to pursue a graduate certificate in GIS with no additional coursework.
 
-Learn More about the [MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+Learn More about the [MA in Geography and Urban Studies Program](https://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 
 ## PhD in Geography and Urban Studies
 We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our geography and urban studies PhD are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks dealing with relevant issues.
@@ -36,19 +36,19 @@ We place emphasis on the following issues:
 - **Sustainability**: Urban ecology, environmental justice, land use and sprawled development patterns
 - **Geographic Methods**: Spatial analysis, remote sensing, qualitative research
 
-Learn More about the [PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
+Learn More about the [PhD in Geography and Urban Studies Program](https://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ## PSM in GIS
 PSM in GIS graduates learn in-demand technical skills: programming, data analysis and visualization, SQL, statistics, design, and project management. Students are also introduced to a wide array of software and analytical problems, making them versatile problem solvers and critical thinkers. Additionally, the  [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) estimates that the geospatial technology market is growing at an annual rate of 35 percent.
 
 Full-time students can complete our professional science master (PSM) degree in geographic information systems (GIS) in as little as one year. That means you can return to or enter the workforce quickly. Temple produces competitive and skilled GIS analysts prepared to sit for the GISP certification exam. We’re also affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure we teach the skills employers seek.
 
-Learn More about the [PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+Learn More about the [PSM in GIS](https://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 
 ## Graduate Certificate in GIS
 We offer a graduate certificate for students who already have a BA and want to pursue additional coursework in GIS. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. The certificate complements our professional science master in GIS and serves as a gateway into the program. It also pairs well with other graduate programs in the College of Liberal Arts and throughout Temple University.
 
-Learn More about the [Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+Learn More about the [Graduate Certificate in GIS](https://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Funding for Graduate School
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available funding and apply early to make your college education an affordable experience.
@@ -65,7 +65,7 @@ Mr. Webber is the founder of Harris Webber Ltd, a company involved in the planni
 - See our [past Harris Webber Graduate Fellowship recipients!](https://www.cla.temple.edu/geography-and-urban-studies/student-life#harris-webber-graduate-fellowship-recipients)
 
 ## Admissions Process
-Please visit the [Geography and Urban Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Geography and Urban Studies Graduate Bulletin](https://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 **PhD Application Deadline:**<br>
 - **Fall:** January 15 <br>
