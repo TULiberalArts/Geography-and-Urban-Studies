@@ -24,10 +24,6 @@ Geography is the study of the interaction of people, places and the environment.
 
 We offer a B.A., M.A., and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills, and technical training to prepare our students to address pressing issues in globalization, sustainability, and social justice.  Our students land competitive, meaningful jobs upon graduation in non-profit, government, and private sectors.
 
-<div class="container video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
 ___
 
 ## Academic Offerings
@@ -42,6 +38,12 @@ ___
 - [Graduate Certificate in Geographic Information Systems](https://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 - [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/geography-and-urban-studies/undergraduate#accelerated-degree-offerings-41)
 - [4+1 BA/BS and MA in Geography and Urban Studies](/geography-and-urban-studies/undergraduate#accelerated-degree-offerings-41)
+
+___
+
+<div class="container video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RzkIIPAYRoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ___
 
