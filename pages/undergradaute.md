@@ -28,7 +28,7 @@ Learn More about [Minoring in Geography and Urban Studies](https://bulletin.temp
 ## Undergraduate Certificate in GIS
 GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” 
 
-Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, the U.S. Department of Labor considers geospatial technology a high-growth industry. It’s growing at an [annual rate of almost 35 percent](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), with faster-than-average job growth expected over the next 10 years. 
+Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, the U.S. Department of Labor considers geospatial technology a high-growth industry. It’s growing at an [annual rate of almost 35 percent](https://www.doleta.gov/), with faster-than-average job growth expected over the next 10 years. 
 
 The geographic information systems certificate is open to students in all majors across all colleges and schools at Temple University.
 
