@@ -39,7 +39,7 @@ We place emphasis on the following issues:
 Learn More about the [PhD in Geography and Urban Studies Program](https://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ## PSM in GIS
-PSM in GIS graduates learn in-demand technical skills: programming, data analysis and visualization, SQL, statistics, design, and project management. Students are also introduced to a wide array of software and analytical problems, making them versatile problem solvers and critical thinkers. Additionally, the  [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) estimates that the geospatial technology market is growing at an annual rate of 35 percent.
+PSM in GIS graduates learn in-demand technical skills: programming, data analysis and visualization, SQL, statistics, design, and project management. Students are also introduced to a wide array of software and analytical problems, making them versatile problem solvers and critical thinkers. Additionally, the  [U.S. Department of Labor](https://www.doleta.gov/) estimates that the geospatial technology market is growing at an annual rate of 35 percent.
 
 Full-time students can complete our professional science master (PSM) degree in geographic information systems (GIS) in as little as one year. That means you can return to or enter the workforce quickly. Temple produces competitive and skilled GIS analysts prepared to sit for the GISP certification exam. We’re also affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure we teach the skills employers seek.
 
