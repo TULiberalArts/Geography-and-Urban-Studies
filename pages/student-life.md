@@ -38,7 +38,7 @@ Our MA and PhD programs are affiliated with the [Association of American Geograp
 ## Harris Webber Graduate Fellowship Recipients
 **2019-2020 Alisa Shockley, PhD Candidate in Geography & Urban Studies**<br>
 
-**Title:** Co-victims of Gun Homicide: Black Women Navigating Spaces of Trauma<br>
+**Title:** _Co-victims of Gun Homicide: Black Women Navigating Spaces of Trauma_<br>
 Alisa Shockley's research will examine how African American women who have lost a loved one to gun-violence (co-victims) perceive their neighborhood and navigate their everyday spaces following their loss. This research will chart new pathways to theorize how racism, poverty, and trauma compound and how Black women craft survival strategies as they navigate landscapes of trauma. The research will take place in Philadelphia, PA among African American women, ages 18 and over. I will use a Black feminist standpoint, qualitative GIS, and participatory photo mapping to center the knowledge and experiences of Black women. My research will advance the field of geographies of trauma and will illustrate the impacts of limited mobility or immobility on trauma and inequality. The results of the research will be shared with the participants and organizations specializing in mental health and counseling for families of victims of gun violence, and will contribute to public health policy. 
 
 ___
