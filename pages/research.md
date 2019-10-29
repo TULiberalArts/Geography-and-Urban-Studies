@@ -36,23 +36,35 @@ Our specific research foci include four main areas:
 The Bio-social partnerships project at Temple University promotes collaboration across the social and life sciences and beyond. The project is built around the BODIES SERIES graduate education sequence that is co-taught between the departments of Geography and Urban Studies and Biology. Collaborators see the human body – a complex, living phenomenon that is simultaneously biological and social – as a ‘boundary object’ between the biological/life and social/human sciences. The BODIES SERIES consists of a two-semester studio phase (fall-spring) and a final exhibit phase, which takes place in the summer months. Updated Syllabi are available on the course materials page. The project began in Fall 2015 and partners with the Franklin Institute, a science museum in Philadelphia, Pennsylvania.
 Learn more about this grant on the [Bio-Social Blog](https://biosocialblog.wordpress.com/).
 
+___
+
 **Integrating Satellite Earth Observations for biodiversity decision making in Colombia [(Victor H. Gutierrez-Velez)](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**<br>
 **Funding:** [NASA](https://cce.nasa.gov/cgi-bin/bio/pi_list.pl?project_group_id=3863)<br>
 The project aims to integrate Earth Observations from multiple satellite sources to contribute with information for decision-making in biodiversity planning and management in Colombia. We are developing a Decision Support System to help characterizing biodiversity status, drivers of biodiversity change, biodiversity change scenarios and priority areas for biodiversity sampling and monitoring.
+
+___
 
 **Domesticated Elephants and Monsoon-Time Transportation in South and Southeast Asia [(Jacob Shell)](https://liberalarts.temple.edu/academics/faculty/shell-jacob)**<br>
 This research project focuses on Burmese and northeast Indian forest communities which train Asian elephants as a means of transportation. Up through the current decade, trained elephants have figured as an important option for humans seeking mobility across geographic zones which are prohibitive of wheeled vehicles. Elephant-based transportation becomes especially important during the flooding season, when roads are obstructed. This dual-species form of mobility endures in the overlapping Kachin, Hkamti, Moran, and Adi ethnic areas of the Indo-Burmese borderlands. Combining ethnographic fieldwork and archival work, the research project evaluates the potential advantages of these practices from political, ecological, and conservation [standpoints](https://carbonmade-media.accelerator.net/33236169;600x450.webp). 
 [View Jacob Shell’s Visual Work](https://jacobshell.carbonmade.com/projects/6306253)
 
+___
+
 **Gentrification and Green Space Development in Philadelphia [(Hamil Pearsall)](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**<br>
 Dr. Hamil Pearsall is the Principal Investigator on a project examining gentrification impacts associated with the creation of 15 new parks in Philadelphia since 2008. Learn more about [Dr. Pearsall’s work](https://sites.temple.edu/hpearsall/).
+
+___
 
 **Socially Just Climate Futures [(Hamil Pearsall)](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**
 Dr. Hamil Pearsall is the Co-Principal Investigator on a student-based project that is incorporated into the Geography of Hazards. Students work with local environmental groups and city agencies to develop podcasts on the theme of socially just climate futures in Philadelphia. (The podcasts will be shared via the Planet Philadelphia website).
 
+___
+
 **Mapping the Role of Somatosenses in Youth-Based Creative Activity and Community Engagement [(Allison Hayes-Conroy)](https://liberalarts.temple.edu/academics/faculty/hayes-conroy-allison)**<br> 
 **Funding:** National Science Foundation<br>
 This project analyzes the role of the body in motivating youth to participate in creative social activities that positively influence their lives and the lives of their communities. The project focuses on the somatosensorial system - the complex system that enables feeling in the human body - in order to understand how the body's capacity for feeling matters to the motivation of youth as well as to the outcomes of their social activities. The research and pedagogical programs of this NSF CAREER project integrate international, participatory and student-driven research on youth-based, creative action groups (e.g. dance, theater, and clown troupes, urban gardeners, community musicians) in Philadelphia, PA and Colombia, South America. One of the outcomes has been the creation of a growing platform and database on community-based organizations in and around Medellin, Colombia, called El Atlas. 
+
+___
 
 **Social-Spatial Risk and Protective Mechanisms in Urban Adolescent Substance Use [(Jeremy Mennis)](https://liberalarts.temple.edu/academics/faculty/mennis-jeremy)**<br>
 **Funding:** National Institute of Health and National Institute of Drug Abuse<br>
