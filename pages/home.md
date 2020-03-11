@@ -48,7 +48,7 @@ ___
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Philadelphia is Your Classroom"
     content="Our students have excellent opportunities to take what they learn and apply it outside the classroom thanks to our geography and urban studies’ location in the heart of Philadelphia."
     image=""
@@ -56,7 +56,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Faculty and Staff Support"
       content="Our students receive unmatched attention through mentorship, extracurricular activities and research opportunities."
       image=""
@@ -64,7 +64,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Invest in Your Future"
         content="Our students land competitive, meaningful jobs upon graduation. See where a degree in Geography and Urban Studies can
         take you."
