@@ -98,9 +98,9 @@ Learn More about [Transferring to Temple](https://admissions.temple.edu/apply/tr
 Ready to apply? [Submit Your Application Online](http://admissions.temple.edu/apply)
 
 ## Deadlines
-**February 1**: Freshman Application Deadline for Fall Semester<br/>
-**March 1**: FAFSA Financial Aid Application Deadline<br/>
-**November 1**: Transfer Deadline for Spring Semester<br/>
-**June 1**: Transfer Deadline for Fall Semester<br/>
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **February 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
+- **June 1**: Transfer Deadline for Fall Semester
 
 - Looking for graduate admission deadlines? Visit our [graduate admissions page]( https://www.cla.temple.edu/geography-and-urban-studies/graduate/#admissions-process). 
