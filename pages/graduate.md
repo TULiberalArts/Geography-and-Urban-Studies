@@ -18,9 +18,7 @@ The College of Liberal Arts’ Geography and Urban Studies graduate degrees have
 ## Programs of Study
 The MA and PhD in geography and urban studies focus on themes of globalization, sustainability, social justice and geographic methods. Our faculty have expertise in critical geography, spatial analysis, program evaluation and feminist geography.
 
-Our professional science master’s and graduate certificate in GIS are rigorous, technical programs focused on cutting-edge spatial analysis software. Our faculty have expertise in urban, environmental and health applications of GIS; remote sensing; cartography; and geovisualization.
-
-Please visit the [Geography and Urban Studies Graduate Bulletin](https://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/#text) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Our professional science master’s (PSM) and graduate certificate in geographic information systems (GIS) are rigorous, technical programs focused on cutting-edge spatial analysis software. Our faculty have expertise in urban, environmental and health applications of GIS; remote sensing; cartography; and geovisualization.
 
 ## MA in Geography and Urban Studies
 Graduate students in geography and urban studies research environmental issues, gender and race, geographic methods, international development, social and spatial theory, and urban development. The MA degree is designed to prepare students for further graduate study as well as for professional positions related to urban and economic development, environmental sustainability and social justice. MA students have the option to pursue a graduate certificate in GIS with no additional coursework.
