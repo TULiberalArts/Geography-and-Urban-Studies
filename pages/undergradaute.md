@@ -60,10 +60,10 @@ At Temple, we believe students from all walks of life should have access to an o
 
 [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
 
-## Fly in Four
+## Fly in 4
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time—or Temple will pay for your remaining coursework. Graduating on time means your path to success starts immediately. Temple provides you with the resources you need to get it done, like academic advising and classes available when you need them. Commit to doing what it takes to blaze your career path in four years, and we’ll help you get there.
 
-Learn How to [Fly in Four](http://fly.temple.edu/)
+Learn How to [Fly in 4](http://fly.temple.edu/)
 
 ## Temple University Tuition
 Temple University’s tuition rates vary by school or college, student level, residency and more. Use the student tuition calculator to estimate your tuition rate.
