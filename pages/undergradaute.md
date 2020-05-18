@@ -70,7 +70,7 @@ Temple University’s tuition rates vary by school or college, student level, re
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
-## Addtional Undergraduate Resources
+## Additional Undergraduate Resources
 - [Changing your major](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures/change-program-procedures)
 - [Graduation application process](http://www.temple.edu/registrar/students/graduation)
 - [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
