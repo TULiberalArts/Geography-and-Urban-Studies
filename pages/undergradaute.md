@@ -13,19 +13,19 @@ keywords: 'BA in Geography and Urban Studies, Minor in Geography and Urban Studi
 
 sidebar: sidebars/undergraduate.html
 ---
-Earn your Geography and Urban Studies degree at the College of Liberal Arts! We offer a [major](#major-in-geography-and-urban-studies), a [minor](#minor-in-geography-and-urban-studies), an [undergraduate certificate](#undergraduate-certificate-in-gis), [accelerated degree](#accelerated-degree-offerings-4-1) offerings and a [double major](#teaching-social-studies) in GUS and Education. Need help getting started? Come visit our [Academic Advising and Professional Development](#academic-advising-and-professional-development) teams, view your [financial aid and scholarship](#financial-aid-and-scholarships-options), explore the [Fly in Four](#fly-in-four) program, calculate your [tuition](#temple-university-tuition) or view additional [resources](#addtional-undergraduate-resources).
+Earn your Geography and Urban Studies degree at the College of Liberal Arts! We offer a [major](#major-in-geography-and-urban-studies), a [minor](#minor-in-geography-and-urban-studies), an [undergraduate certificate](#undergraduate-certificate-in-geographic-information-systems), [accelerated degree](#accelerated-degree-offerings-4-1) offerings and a [double major](#teaching-social-studies) in GUS and Education. Need help getting started? Come visit our [Academic Advising and Professional Development](#academic-advising-and-professional-development) teams, view your [financial aid and scholarship](#financial-aid-and-scholarships-options), explore the [Fly in Four](#fly-in-four) program, calculate your [tuition](#temple-university-tuition) or view additional [resources](#addtional-undergraduate-resources).
 
-## Major in Geography and Urban Studies
+## Bachelor of Arts in Geography and Urban Studies
 Geography and urban studies majors study a wide range of environmental, economic, social and political challenges central to the well-being of billions of people in an urbanizing world. GUS students are introduced to urban processes, spatial relations, geospatial technologies–including Geographic Information Systems (GIS)–and qualitative social science research methods. These skills prepare students to solve real-world urban problems and address global challenges. 
 
-Learn More about [Majoring in Geography and Urban Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/#text)
+Learn More about the [BA in Geography and Urban Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/#text)
 
 ## Minor in Geography and Urban Studies
 Any student enrolled at Temple University may minor in geography and urban studies to complement their major. The 18-credit minor requires students take one gateway course and five electives.
 
 Learn More about [Minoring in Geography and Urban Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 
-## Undergraduate Certificate in GIS
+## Undergraduate Certificate in Geographic Information Systems (GIS)
 GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” 
 
 Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, the U.S. Department of Labor considers geospatial technology a high-growth industry. It’s growing at an [annual rate of almost 35 percent](https://www.doleta.gov/), with faster-than-average job growth expected over the next 10 years. 
