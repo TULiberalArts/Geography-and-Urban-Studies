@@ -20,24 +20,24 @@ The MA and PhD in geography and urban studies focus on themes of globalization, 
 
 Our professional science master’s (PSM) and graduate certificate in geographic information systems (GIS) are rigorous, technical programs focused on cutting-edge spatial analysis software. Our faculty have expertise in urban, environmental and health applications of GIS; remote sensing; cartography; and geovisualization.
 
-## MA in Geography and Urban Studies
+## Master of Arts in Geography and Urban Studies
 Graduate students in geography and urban studies research environmental issues, gender and race, geographic methods, international development, social and spatial theory, and urban development. The MA degree is designed to prepare students for further graduate study as well as for professional positions related to urban and economic development, environmental sustainability and social justice. MA students have the option to pursue a graduate certificate in GIS with no additional coursework.
 
-Learn More about the [MA in Geography and Urban Studies Program](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-ma-la-gus-ma)
+Learn More about the [Master of Arts in Geography and Urban Studies Program](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-ma-la-gus-ma)
 
 ## PhD in Geography and Urban Studies
 We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our geography and urban studies PhD are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks dealing with relevant issues.
 
 Learn More about the [PhD in Geography and Urban Studies Program](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-phd-la-gus-phd)
 
-## PSM in GIS
-Students are also introduced to a wide array of software and analytical problems, making them versatile problem solvers and critical thinkers. Additionally, the  [U.S. Department of Labor](https://www.doleta.gov/) estimates that the geospatial technology market is growing at an annual rate of 35 percent.
+## Professional Science Master (PSM) in Geographic Information Systems (GIS)
+Students are introduced to a wide array of software and analytical problems, making them versatile problem solvers and critical thinkers. Additionally, the  [U.S. Department of Labor](https://www.doleta.gov/) estimates that the geospatial technology market is growing at an annual rate of 35 percent.
 
 Full-time students can complete our professional science master (PSM) degree in geographic information systems (GIS) in as little as one year. That means you can return to or enter the workforce quickly. Temple produces competitive and skilled GIS analysts prepared to sit for the GISP certification exam. We’re also affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure we teach the skills employers seek.
 
 Learn More about the [PSM in GIS](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm)
 
-## Graduate Certificate in GIS
+## Graduate Certificate in Geographic Information Systems (GIS)
 We offer a graduate certificate for students who already have a BA and want to pursue additional coursework in GIS. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. The certificate complements our professional science master in GIS and serves as a gateway into the program. It also pairs well with other graduate programs in the College of Liberal Arts and throughout Temple University.
 
 Learn More about the [Graduate Certificate in GIS](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad)
