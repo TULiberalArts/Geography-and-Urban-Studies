@@ -57,8 +57,7 @@ Mr. Webber is the founder of Harris Webber Ltd, a company involved in the planni
 - See our [past Harris Webber Graduate Fellowship recipients!](https://www.cla.temple.edu/geography-and-urban-studies/student-life#harris-webber-graduate-fellowship-recipients)
 
 ## Admissions Process
-Admissions Process
-Please visit the Geography and Urban Studies MA admissions page, Geography and Urban Studies PhD admissions page or Professional Science master in Geographic Information Systems admissions page  to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Visit the [Geography and Urban Studies MA Scholarships & Financial Aid page](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-ma-la-gus-ma/cla-geography-and-urban-studies-ma-scholarships-financial-aid), the [Geography and Urban Studies PhD Scholarships & Financial Aid page](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-phd-la-gus-phd/cla-geography-and-urban-studies-phd-scholarships-financial-aid) or the [PSM in GIS Scholarships & Financial Aid page](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm) to learn more about your graduate funding options.
 
 ## Graduate Resources
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUS-MA-PhD-graduatehandbook2016-2017.pdf)
