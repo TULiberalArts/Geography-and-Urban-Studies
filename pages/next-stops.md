@@ -15,27 +15,9 @@ keywords: 'apply, transfer, visit, careers in urban studies, GIS jobs, jobs for 
 ---
 [Make your declaration](#make-your-declaration) today! Need more info first? No problem! We’d love to have you come [visit us](#visit-us) on campus before you [apply](#apply). You can also learn about our [application deadlines](#deadlines) and your [transfer](#thinking-of-transferring) options.
 
-## What Can I Do with a Degree in Geography and Urban Studies?
 Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have enrolled in graduate programs in geography, planning and law.
 
-Geography and Urban Studies and Environmental Studies graduates have pursued careers in:
-- Environmental Analysis
-- Planning
-- Nonprofit Administration
-- Public Policy 
-- Environmental Law
-- Sustainability 
-
-Recent organizations where our graduates have found employment include
-
-- US Census Bureau
-- United Nations
-- Delaware Valley Regional Planning Commission
-- Housing and Urban Development Corporation
-- The City of Philadelphia Technology Division: GIS Group
-- The Reinvestment Fund
-- Philadelphia Mural Arts Program
-- Philadelphia Committee to End Homelessness
+Learn about some of the careers Geography and Urban Studies and Environmental Studies graduates have pursued as well as recent organizations where our graduates have found employment by visiting the [Geography and Urban Studies Careers, Internships & Opportunities page](https://www.temple.edu/academics/degree-programs/undegraduate-majors-minors/geography-and-urban-studies-major-ba-gus/careers-internships-opportunities)!
 
 ## Notable Alumni
 Many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
