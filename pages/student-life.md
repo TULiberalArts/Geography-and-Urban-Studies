@@ -20,9 +20,9 @@ We encourage our students to study abroad during their undergraduate career for 
 Learn More about our [Study Abroad Programs](https://studyabroad.temple.edu/)
 
 ## Geography and Urban Studies Awards and Scholarships
-Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including environmental studies majors) who exhibit academic excellence. Scholarships also take demonstrated financial need into account.
+Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including environmental studies majors) who exhibit academic excellence. Scholarships also take demonstrated financial need into account. 
 
-For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page. 
+For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [Geography and Urban Studies Scholarships & Financial Aid page](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-major-la-gus-ba/cla-geography-and-urban-studies-ba-scholarships-financial-aid).
 
 ## Student Organizations for Geography and Urban Studies Students
 **Gamma Theta Upsilon**
