@@ -27,15 +27,15 @@ We offer a BA, MA, and PhD in Geography and Urban Studies. These programs combin
 ___
 
 ## Academic Offerings
-- [Major in Environmental Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
-- [Minor in Environmental Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
-- [Major in Geography and Urban Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
+- [Major in Environmental Studies](https://www.temple.edu/academics/degree-programs/environmental-studies-major-la-enst-ba)
+- [Minor in Environmental Studies](https://www.temple.edu/academics/degree-programs/environmental-studies-major-la-enst-ba)
+- [Major in Geography and Urban Studies](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-major-la-gus-ba)
 - [Minor in Geography and Urban Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
-- [Undergraduate Certificate in Geographic Information Systems](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
-- [MA in Geography and Urban Studies](https://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
-- [Professional Science Master’s in Geographic Information Systems](https://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
-- [PhD in Geography and Urban Studies](https://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
-- [Graduate Certificate in Geographic Information Systems](https://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+- [Undergraduate Certificate in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-undergraduate-la-gis-cert)
+- [MA in Geography and Urban Studies](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-ma-la-gus-ma)
+- [Professional Science Master’s in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm)
+- [PhD in Geography and Urban Studies](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-phd-la-gus-phd)
+- [Graduate Certificate in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad)
 - [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/geography-and-urban-studies/undergraduate#accelerated-degree-offerings-41)
 - [4+1 BA/BS and MA in Geography and Urban Studies](/geography-and-urban-studies/undergraduate#accelerated-degree-offerings-41)
 
