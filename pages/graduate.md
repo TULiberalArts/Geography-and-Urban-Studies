@@ -42,6 +42,18 @@ We offer a graduate certificate for students who already have a BA and want to p
 
 Learn More about the [Graduate Certificate in GIS](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad)
 
+## Professional Science Master’s in Geospatial Data Science
+Professional Science Master’s in Geospatial Data Science students will learn to process, and analyze spatial data through in-demand technical skills including programming, statistics, big data analytics, application development, machine learning, and interactive and exploratory data visualization. Graduates may be expected to work in contexts outside the realm of traditional GIS jobs, including in corporate environments. With increasing access to geospatial data, the demand for organizations to undertake projects that require geospatial skills and a spatial perspective will increase. 
+
+Full-time students can complete the Professional Science Master’s in Geospatial Data Science in as little as one-year, returning quickly to the workforce. The program curriculum is informed by an advisory board of industry professionals and incorporates real-world experiences through project-based learning and an internship capstone requirement. 
+
+- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details. 
+
+## Graduate Certificate in Geospatial Data Science
+We offer a graduate certificate for students who already have a BA and want to pursue additional coursework in Geospatial Data Science. Our courses introduce students to a variety of data science tools with a focus on location-based data. The certificate complements our Professional Science Master’s in Geospatial Data Science and serves as a gateway into the program. It also pairs well with other graduate programs in the College of Liberal Arts and throughout Temple University.
+
+- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details.
+
 ## Funding for Graduate School
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Graduate students are eligible for financial assistance from federal, state, private and university sources.
 
