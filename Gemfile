@@ -35,3 +35,6 @@ gem "yaml_command"
 # end
 gem "jekyll-redirect-from"
 
+
+gem "parser", "~> 2.7"
+gem "kramdown-parser-gfm", "~> 1.1"
