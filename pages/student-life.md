@@ -35,7 +35,9 @@ Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focus
 **Association of American Geographers**
 Our MA and PhD programs are affiliated with the [Association of American Geographers](http://www.aag.org/) (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. The Annals of the Association of American Geographers and The _Professional Geographer_ are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
 
-## Harris Webber Graduate Fellowship Recipients
+___
+
+### Harris Webber Graduate Fellowship Recipients
 **2019-2020 Alisa Shockley, PhD Candidate in Geography & Urban Studies**<br>
 
 ![Alisa Shockley]({{site.baseurl}}/media/resizedalisashockley.jpg){:.responsive-img .img-right}
