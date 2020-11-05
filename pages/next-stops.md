@@ -17,7 +17,7 @@ keywords: 'apply, transfer, visit, careers in urban studies, GIS jobs, jobs for 
 
 Almost anything! Our graduates get competitive and meaningful jobs in non-profit, government and business sectors. Recent graduates have gone to work for consulting firms, non-governmental organizations, government agencies, educational institutions, the Peace Corps and firms that specialize in mapping and GIS software. Other graduates have enrolled in graduate programs in geography, planning and law.
 
-Learn about some of the careers Geography and Urban Studies and Environmental Studies graduates have pursued as well as recent organizations where our graduates have found employment by visiting the [Geography and Urban Studies Careers, Internships & Opportunities page](https://www.temple.edu/academics/degree-programs/undegraduate-majors-minors/geography-and-urban-studies-major-ba-gus/careers-internships-opportunities)!
+Learn about some of the careers Geography and Urban Studies and Environmental Studies graduates have pursued as well as recent organizations where our graduates have found employment by visiting the [Geography and Urban Studies Careers, Internships & Opportunities page](https://www.temple.edu/academics/degree-programs/undergraduate-majors-minors/geography-and-urban-studies-major-ba-gus/careers-internships-opportunities)!
 
 ## Notable Alumni
 Many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
