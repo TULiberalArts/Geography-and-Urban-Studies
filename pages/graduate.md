@@ -28,6 +28,7 @@ Learn More about the [MA in Geography and Urban Studies](https://www.temple.edu/
 ## PhD in Geography and Urban Studies
 We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our geography and urban studies PhD are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks dealing with relevant issues.
 
+- **Applications will next be accepted for Fall 2022 Admission**
 Learn More about the [PhD in Geography and Urban Studies](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-phd-la-gus-phd)
 
 ## Professional Science Master (PSM) in Geographic Information Systems (GIS)
