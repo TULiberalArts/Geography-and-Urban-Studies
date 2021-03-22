@@ -48,12 +48,12 @@ Professional Science Master’s in Geospatial Data Science students will learn t
 
 Full-time students can complete the Professional Science Master’s in Geospatial Data Science in as little as one-year, returning quickly to the workforce. The program curriculum is informed by an advisory board of industry professionals and incorporates real-world experiences through project-based learning and an internship capstone requirement. 
 
-- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details. 
+Learn More about the [PSM in GDS](https://www.temple.edu/academics/degree-programs/geospatial-data-science-psm-la-gsds-psm)
 
 ## Graduate Certificate in Geospatial Data Science
 We offer a graduate certificate for students who already have a BA and want to pursue additional coursework in Geospatial Data Science. Our courses introduce students to a variety of data science tools with a focus on location-based data. The certificate complements our Professional Science Master’s in Geospatial Data Science and serves as a gateway into the program. It also pairs well with other graduate programs in the College of Liberal Arts and throughout Temple University.
 
-- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details.
+Learn More about the [Graduate Certificate in GDS](https://www.temple.edu/academics/degree-programs/geospatial-data-science-certificate-graduate-la-gsds-grad)
 
 ## Funding for Graduate School
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Graduate students are eligible for financial assistance from federal, state, private and university sources.
